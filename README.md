@@ -2,7 +2,7 @@
 
 <img src="banner4.png" align="left" width="60" height="416" style="border-radius:8px;"> 
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=123simon4&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=x5zh4w7pax39fdmzs3nipo4gl&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right" width="306" > </a>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=123simon4&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=123simon4&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right" width="306" > </a>
 
 <a href ="https://discord.com/users/754965470888722484"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/754965470888722484?bg=121212" width="418"></a>
 
@@ -12,11 +12,9 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 <p align="center">
-Hi, im daniel4-scratch! ヾ(☆▽☆)<br>
+Hi, im Lazyllama! ヾ(☆▽☆)<br>
 ┐(︶▽︶)┌ I mainly code html and css (with a touch of javascript.). Basicly im a web developer.<br>
 I like hard-bass ♬♫♪◖(● o ●)◗♪♫♬<br>
-o(≧▽≦)o And im always looking for memes <img src="https://git.io/Doge">
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
