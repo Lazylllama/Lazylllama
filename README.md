@@ -10,9 +10,8 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 <p align="center">
-Hi, im Simon (AKA) Lazyllama! ヾ(☆▽☆)<br>
-┐(︶▽︶)┌ I mainly code html and css (with a touch of javascript.). Basically im a web developer.<br>
-I like chill music ♬♫♪◖(● o ●)◗♪♫♬<br>
+Hi, im Lazyllama!<br>
+I mainly code html and css (with a touch of javascript.). Basically im a web developer.<br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
