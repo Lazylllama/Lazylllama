@@ -1,4 +1,4 @@
-<img src="banner4.jpg" align="left" width="60" height="416" style="border-radius:8px;"> 
+<!--img src="" align="left" width="60" height="416" style="border-radius:8px;"--> 
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=123simon4&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=123simon4&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right" width="306" > </a>
 
@@ -11,14 +11,35 @@
 <br><br><br><br><br><br><br><br><br><br>
 <p align="center">
 Hi, im Lazyllama!<br>
-I mainly code html and css (with a touch of javascript.). Basically im a web developer.<br>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://discord.com/users/754965470888722484" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="mxAqDMDmqE" height="30" width="40" /></a>
-</p>
+I code mostly Frontend but i can code Backend too<br>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" alt="HTML 5" width="40" height="40"/> 
+  </a> 
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" width="40" height="40"/> 
+  </a> 
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://i.pinimg.com/originals/2d/3a/7d/2d3a7d7d1ad7adeded994de246f60c43.png" alt="PHP" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop 2024" width="40" height="40"/> 
+  </a> 
+    <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/640px-Adobe_Illustrator_CC_icon.svg.png" alt="Illustrator 2024" width="40" height="40"/> 
+    </a> 
+  </p>
 
-<img src="https://komarev.com/ghpvc/?username=lazylllama&label=Profile%20views&color=0e75b6&style=flat" alt="lazyllama" />
+<br><br>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=lazylllama&label=Profile%20views&color=0e75b6&style=flat" alt="lazyllama" />
+</p> 
