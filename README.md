@@ -13,6 +13,15 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 <p align="left">
-Hello! I'm Lazyllama and this is my GitHub profile! <br>
-I code mostly Frontend but Backend coding happen too! I also do Graphics Design!<br>
-Be sure to checkout <a href="https://github.com/lcholdings" target="_blank" rel="noreferrer">@LCHoldings</a> and <a href="https://lcdevelopment.net" target="_blank" rel="noreferrer">LCDevelopment.net</a>
+  Hello! I'm Lazyllama and this is my GitHub profile! <br>
+  I code mostly Frontend but Backend coding happen too! I also do Graphics Design!<br>
+  Be sure to checkout <a href="https://github.com/lcholdings" target="_blank" rel="noreferrer">@LCHoldings</a> and <a href="https://lcdevelopment.net" target="_blank" rel="noreferrer">LCDevelopment.net</a>
+</p>  
+
+<br><br><br><br><br>
+
+<hr>
+
+<p align="center">
+  Yes, I'm aware this looks like actual dogshit. Blame GitHub for limiting all type of HTML Style attributes and values.
+</p>
