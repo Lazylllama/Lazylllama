@@ -6,11 +6,11 @@
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=lazylllama&show_icons=true&theme=transparent&border_radius=8&hide_border=true&bg_color=30,d600f2,00bef2&title_color=fff&text_color=fff" align="center" width="500">
   </a>
-  <br>
+ <!--<br>
   <a href="">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U07F2QA059B&api_domain=waka.hackclub.com&theme=transparent&border_radius=8&hide_border=true&bg_color=30,d600f2,00bef2&title_color=fff&text_color=fff&custom_title=Hackatime%20Week%20Stats&layout=compact" align="center" width="500">
   </a>
-</div>
+</div>-->
 
 <br><br><br><br><br>
 
