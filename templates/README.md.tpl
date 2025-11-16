@@ -1,1 +1,2 @@
-{{ wakatimeData.Languages | wakatimeCategoryBar 5 }}
+⏱️ My hackatime stats for the week:
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
