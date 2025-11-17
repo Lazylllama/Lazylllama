@@ -1,4 +1,4 @@
-#### 👷 The latest repos i've pushed to
+### 👷 The latest repos i've pushed to
 
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_ **(1 day ago)**
 - [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(3 days ago)**
@@ -7,26 +7,49 @@
 - [`lazyllama.xyz`](https://github.com/Lazylllama/lazyllama.xyz) - _"My new portfolio. lazylllama.github.io has to retire 🫡"_ **(9 months ago)**
 - [`Z--Compiler`](https://github.com/betterclient/Z--Compiler) - _"A JVM based language that is pretty cool (i think)"_ **(11 months ago)**
 
-#### ⌨️ My latest projects
+### ⌨️ My latest projects
 
 - [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_
 - [`lazyllama.xyz`](https://github.com/Lazylllama/lazyllama.xyz) - _"My new portfolio. lazylllama.github.io has to retire 🫡"_
 - [`llama-nvim`](https://github.com/Lazylllama/llama-nvim) - _"My Neovim folder :P"_
 
-#### 🕰️ My [_`hackatime`_](https://waka.hackclub.com) statistics from the past week
+### 🕰️ My [_`hackatime`_](https://waka.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#              45m 13s      █████████████████████░░░░  81.89%
-Text            2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.62%
-Unity           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.62%
-Plain_text      2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.62%
-Xml             2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.62%
+C#              45m 21s     █████████████████████░░░░  81.93%
+Text            2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
+Unity           2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
+Plain_text      2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
+Xml             2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
 
 💼 Projects:
-SideScrollerX   1h 15m 40s   ████████████████████████░  94.98%
-unknown         2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.51%
-SideScroller    2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.51%
+SideScrollerX   1h 25m 4s   ████████████████████████░  95.51%
+unknown         2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.25%
+SideScroller    2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.25%
 
-Total: 3 hrs 38 mins
+Total: 4 hrs 19 mins
 ```
+
+
+###  [Anime Planet](https://www.anime-planet.com/users/lazyllamaa) Stats
+#### 📗 Currently Reading
+
+- 📕 **[Chainsaw Man](https://www.anime-planet.com/manga/chainsaw-man)**
+    - Rating: ⭐ 5/5
+    - Volumes: 9 vols
+- 📕 **[Solo Leveling](https://www.anime-planet.com/manga/solo-leveling)**
+    - Rating: ⭐ 4/5
+    - Volumes: 0 vol
+- 📕 **[Hell's Paradise: Jigokuraku](https://www.anime-planet.com/manga/hells-paradise-jigokuraku)**
+    - Rating: ⭐ 4/5
+    - Volumes: 2 vols
+
+#### 📺 Currently Watching
+
+- 🎬 **[Jujutsu Kaisen](https://www.anime-planet.com/anime/jujutsu-kaisen)**
+    - Rating: ⭐ 4/5
+    - Episode: 14 eps
+- 🎬 **[Mushoku Tensei: Jobless Reincarnation 2nd Season](https://www.anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-2nd-season)**
+    - Rating: ⭐ 5/5
+    - Episode: 1 ep
