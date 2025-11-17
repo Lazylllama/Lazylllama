@@ -28,7 +28,7 @@ SideScrollerX   2h 44m 8s    █████████████████
 unknown         2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.19%
 SideScroller    2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.19%
 
-Total: 6 hrs 38 mins
+Total: 6 hrs 42 mins
 ```
 
 
