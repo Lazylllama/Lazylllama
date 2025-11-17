@@ -15,6 +15,7 @@
 Total: {{ wakatimeData.HumanReadableTotal }}
 ```
 
+
 ###  [Anime Planet](https://www.anime-planet.com/users/lazyllamaa) Stats
 #### 📗 Currently Reading
 {{range $index, $element := animePlanetData.Manga.Entries}}
