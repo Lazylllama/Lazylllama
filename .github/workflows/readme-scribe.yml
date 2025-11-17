@@ -24,6 +24,7 @@ jobs:
           WAKATIME_URL: ${{ secrets.WAKATIME_URL }}
           ANIME_PLANET_COOKIE: ${{ secrets.ANIME_PLANET_COOKIE }}
           ANIME_PLANET_USER_ID: ${{ secrets.ANIME_PLANET_USER_ID }}
+          ANIME_PLANET_TOKEN: ${{ secrets.ANIME_PLANET_TOKEN }}
         run: ${{ steps.install.outputs.install-path }} -write README.md templates/README.md.tpl
 
       - uses: stefanzweifel/git-auto-commit-action@v4
