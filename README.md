@@ -14,7 +14,7 @@
 - [`lazyllama.xyz`](https://github.com/Lazylllama/lazyllama.xyz) - _"My new portfolio. lazylllama.github.io has to retire 🫡"_
 - [`llama-nvim`](https://github.com/Lazylllama/llama-nvim) - _"My Neovim folder :P"_
 
-### 🕰️ My [_`hackatime`_](https://waka.hackclub.com) statistics from the past week
+### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
 C#              1h 33m 9s   ███████████████████████░░  90.30%
