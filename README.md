@@ -52,4 +52,4 @@ Total: 6 hrs 42 mins
     - Episode: 14 eps
 - 🎬 **[Mushoku Tensei: Jobless Reincarnation 2nd Season](https://www.anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-2nd-season)**
     - Rating: ⭐ 5/5
-    - Episode: 1 ep
+    - Episode: 8 eps
