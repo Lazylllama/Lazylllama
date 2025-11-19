@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_ **(today)**
-- [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(4 days ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_ **(1 day ago)**
+- [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(5 days ago)**
 - [`translations`](https://github.com/jgscripts/translations) - _"Help us translate our scripts so we can make them accessible for more people!"_ **(4 months ago)**
 - [`llama-nvim`](https://github.com/Lazylllama/llama-nvim) - _"My Neovim folder :P"_ **(8 months ago)**
 - [`lazyllama.xyz`](https://github.com/Lazylllama/lazyllama.xyz) - _"My new portfolio. lazylllama.github.io has to retire 🫡"_ **(9 months ago)**
@@ -37,7 +37,7 @@ Total: 9 hrs 59 mins
 
 - 📕 **[Chainsaw Man](https://www.anime-planet.com/manga/chainsaw-man)**
     - Rating: ⭐ 5/5
-    - Volumes: 9 vols
+    - Volumes: 10 vols
 - 📕 **[Solo Leveling](https://www.anime-planet.com/manga/solo-leveling)**
     - Rating: ⭐ 4/5
     - Volumes: 0 vol
