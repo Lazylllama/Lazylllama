@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_ **(1 day ago)**
-- [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(5 days ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_ **(2 days ago)**
+- [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(6 days ago)**
 - [`translations`](https://github.com/jgscripts/translations) - _"Help us translate our scripts so we can make them accessible for more people!"_ **(4 months ago)**
 - [`llama-nvim`](https://github.com/Lazylllama/llama-nvim) - _"My Neovim folder :P"_ **(8 months ago)**
 - [`lazyllama.xyz`](https://github.com/Lazylllama/lazyllama.xyz) - _"My new portfolio. lazylllama.github.io has to retire 🫡"_ **(9 months ago)**
@@ -17,18 +17,18 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#              2h 2m 49s    ████████████████████████░  92.47%
-Text            2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.51%
-Unity           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.51%
-Plain_text      2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.51%
-Xml             2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.51%
+C#              2h 5m 35s    ████████████████████████░  92.62%
+Text            2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
+Unity           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
+Plain_text      2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
+Xml             2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
 
 💼 Projects:
-SideScrollerX   4h 18m 58s   █████████████████████████  98.48%
-unknown         2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.76%
-SideScroller    2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.76%
+SideScrollerX   4h 25m 55s   █████████████████████████  98.52%
+unknown         2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.74%
+SideScroller    2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.74%
 
-Total: 9 hrs 59 mins
+Total: 10 hrs 20 mins
 ```
 
 
