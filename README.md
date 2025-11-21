@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_ **(1 day ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_ **(today)**
 - [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(1 week ago)**
 - [`translations`](https://github.com/jgscripts/translations) - _"Help us translate our scripts so we can make them accessible for more people!"_ **(4 months ago)**
 - [`llama-nvim`](https://github.com/Lazylllama/llama-nvim) - _"My Neovim folder :P"_ **(8 months ago)**
@@ -17,18 +17,18 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#              2h 10m 3s    ████████████████████████░  92.86%
-Unity           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
-Plain_text      2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
-Xml             2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
-Shaderlab       2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
+C#              2h 11m 28s   ████████████████████████░  92.93%
+Shaderlab       2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.42%
+Plain_text      2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.41%
+Xml             2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.41%
+Unity           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.41%
 
 💼 Projects:
-SideScrollerX   4h 55m 39s   █████████████████████████  98.67%
-SideScroller    2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.67%
-unknown         2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.67%
+SideScrollerX   5h 14m 51s   █████████████████████████  98.75%
+SideScroller    2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.63%
+unknown         2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.63%
 
-Total: 11 hrs 22 mins
+Total: 12 hrs 7 mins
 ```
 
 
