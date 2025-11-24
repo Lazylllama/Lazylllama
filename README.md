@@ -27,7 +27,7 @@ Unityyaml       2m 0s        █░░░░░░░░░░░░░░░░
 SideScrollerX   5h 22m 53s   █████████████████████████  99.38%
 unknown         2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.62%
 
-Total: 12 hrs 24 mins
+Total: 12 hrs 30 mins
 ```
 
 
@@ -36,7 +36,7 @@ Total: 12 hrs 24 mins
 
 - 📕 **[Chainsaw Man](https://www.anime-planet.com/manga/chainsaw-man)**
     - Rating: ⭐ 5/5
-    - Volumes: 10 vols
+    - Volumes: 11 vols
 - 📕 **[Solo Leveling](https://www.anime-planet.com/manga/solo-leveling)**
     - Rating: ⭐ 4/5
     - Volumes: 0 vol
