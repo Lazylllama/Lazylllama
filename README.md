@@ -27,7 +27,7 @@ Unityyaml       2m 0s        █░░░░░░░░░░░░░░░░
 SideScrollerX   5h 22m 53s   █████████████████████████  99.38%
 unknown         2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.62%
 
-Total: 12 hrs 30 mins
+Total: 12 hrs 32 mins
 ```
 
 
