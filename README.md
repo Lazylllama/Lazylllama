@@ -9,10 +9,10 @@
 
 ### ⌨️ My latest projects
 
+- [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_
 - [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_
 - [`lazyllama.xyz`](https://github.com/Lazylllama/lazyllama.xyz) - _"My new portfolio. lazylllama.github.io has to retire 🫡"_
-- [`llama-nvim`](https://github.com/Lazylllama/llama-nvim) - _"My Neovim folder :P"_
 
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
