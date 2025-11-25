@@ -1,5 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
+- [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(today)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_ **(1 day ago)**
 - [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(1 week ago)**
 - [`translations`](https://github.com/jgscripts/translations) - _"Help us translate our scripts so we can make them accessible for more people!"_ **(4 months ago)**
