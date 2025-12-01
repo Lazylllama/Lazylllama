@@ -1,8 +1,8 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_ **(2 days ago)**
-- [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(2 days ago)**
-- [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(4 days ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_ **(3 days ago)**
+- [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(3 days ago)**
+- [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(5 days ago)**
 - [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(2 weeks ago)**
 - [`translations`](https://github.com/jgscripts/translations) - _"Help us translate our scripts so we can make them accessible for more people!"_ **(5 months ago)**
 - [`llama-nvim`](https://github.com/Lazylllama/llama-nvim) - _"My Neovim folder :P"_ **(9 months ago)**
@@ -19,17 +19,16 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#              49m 10s      ████████████████████░░░░░  77.84%
-Unity           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.17%
-Text            2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.17%
-Unityyaml       2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.17%
-Plain_text      2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.17%
+C#              39m 54s      █████████████████████░░░░  83.30%
+Unity           2m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
+Markdown        2m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
+Textmate        2m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
+Inputactions    2m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
 
 💼 Projects:
-SideScrollerX   2h 12m 58s   █████████████████████████  98.52%
-unknown         2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
+SideScrollerX   1h 41m 17s   █████████████████████████  100.00%
 
-Total: 6 hrs 24 mins
+Total: 5 hrs 7 mins
 ```
 
 
