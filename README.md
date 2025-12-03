@@ -1,5 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
+- [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(today)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(1 day ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_ **(5 days ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(5 days ago)**
@@ -7,26 +8,25 @@
 - [`translations`](https://github.com/jgscripts/translations) - _"Help us translate our scripts so we can make them accessible for more people!"_ **(5 months ago)**
 - [`llama-nvim`](https://github.com/Lazylllama/llama-nvim) - _"My Neovim folder :P"_ **(9 months ago)**
 - [`lazyllama.xyz`](https://github.com/Lazylllama/lazyllama.xyz) - _"My new portfolio. lazylllama.github.io has to retire 🫡"_ **(9 months ago)**
-- [`Z--Compiler`](https://github.com/betterclient/Z--Compiler) - _"A JVM based language that is pretty cool (i think)"_ **(11 months ago)**
 
 ### ⌨️ My latest projects
 
+- [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_
 - [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_
 
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#              23m 51s   ██████████████████████░░░  85.64%
-Unity           2m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.18%
-Inputactions    2m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.18%
+C#              27m 57s    ██████████████████████░░░  87.48%
+Unity           2m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
+Inputactions    2m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
 
 💼 Projects:
-SideScrollerX   51m 57s   █████████████████████████  100.00%
+SideScrollerX   1h 8m 2s   █████████████████████████  100.00%
 
-Total: 2 hrs 29 mins
+Total: 3 hrs 12 mins
 ```
 
 
