@@ -1,8 +1,8 @@
 ### 👷 The latest repos i've pushed to
 
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_ **(today)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(today)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(1 day ago)**
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_ **(5 days ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(5 days ago)**
 - [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(2 weeks ago)**
 - [`translations`](https://github.com/jgscripts/translations) - _"Help us translate our scripts so we can make them accessible for more people!"_ **(5 months ago)**
@@ -19,14 +19,14 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#              27m 57s    ██████████████████████░░░  87.48%
-Unity           2m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
-Inputactions    2m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
+C#              27m 57s      ██████████████████████░░░  87.48%
+Unity           2m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
+Inputactions    2m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
 
 💼 Projects:
-SideScrollerX   1h 8m 2s   █████████████████████████  100.00%
+SideScrollerX   1h 12m 18s   █████████████████████████  100.00%
 
-Total: 3 hrs 12 mins
+Total: 3 hrs 22 mins
 ```
 
 
