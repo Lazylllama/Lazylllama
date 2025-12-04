@@ -1,9 +1,9 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_ **(today)**
-- [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(today)**
-- [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(1 day ago)**
-- [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(5 days ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_ **(1 day ago)**
+- [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(1 day ago)**
+- [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(2 days ago)**
+- [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(6 days ago)**
 - [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(2 weeks ago)**
 - [`translations`](https://github.com/jgscripts/translations) - _"Help us translate our scripts so we can make them accessible for more people!"_ **(5 months ago)**
 - [`llama-nvim`](https://github.com/Lazylllama/llama-nvim) - _"My Neovim folder :P"_ **(9 months ago)**
@@ -19,14 +19,14 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#              27m 57s      ██████████████████████░░░  87.48%
-Unity           2m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
-Inputactions    2m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
+C#              18m 23s   █████████████████████░░░░  82.14%
+Unity           2m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  8.93%
+Inputactions    2m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  8.93%
 
 💼 Projects:
-SideScrollerX   1h 12m 18s   █████████████████████████  100.00%
+SideScrollerX   53m 2s    █████████████████████████  100.00%
 
-Total: 3 hrs 22 mins
+Total: 2 hrs 43 mins
 ```
 
 
