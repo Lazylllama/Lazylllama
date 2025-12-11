@@ -1,13 +1,13 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_ **(2 days ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_ **(3 days ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(1 week ago)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(1 week ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(1 week ago)**
 - [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(3 weeks ago)**
 - [`translations`](https://github.com/jgscripts/translations) - _"Help us translate our scripts so we can make them accessible for more people!"_ **(5 months ago)**
 - [`llama-nvim`](https://github.com/Lazylllama/llama-nvim) - _"My Neovim folder :P"_ **(9 months ago)**
-- [`lazyllama.xyz`](https://github.com/Lazylllama/lazyllama.xyz) - _"My new portfolio. lazylllama.github.io has to retire 🫡"_ **(9 months ago)**
+- [`lazyllama.xyz`](https://github.com/Lazylllama/lazyllama.xyz) - _"My new portfolio. lazylllama.github.io has to retire 🫡"_ **(10 months ago)**
 
 ### ⌨️ My latest projects
 
@@ -19,13 +19,13 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#              34m 13s      ████████████████████████░  94.48%
-Unity           2m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.52%
+C#              30m 8s      ████████████████████████░  93.78%
+Unity           2m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
 
 💼 Projects:
-SideScrollerX   1h 46m 27s   █████████████████████████  100.00%
+SideScrollerX   1h 26m 6s   █████████████████████████  100.00%
 
-Total: 4 hrs 48 mins
+Total: 3 hrs 56 mins
 ```
 
 
