@@ -1,9 +1,9 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Side Scroller project with a wide variety of "features""_ **(today)**
-- [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(4 days ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(today)**
+- [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(5 days ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(1 week ago)**
-- [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(1 week ago)**
+- [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(2 weeks ago)**
 - [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(1 month ago)**
 - [`translations`](https://github.com/jgscripts/translations) - _"Help us translate our scripts so we can make them accessible for more people!"_ **(5 months ago)**
 - [`llama-nvim`](https://github.com/Lazylllama/llama-nvim) - _"My Neovim folder :P"_ **(9 months ago)**
@@ -19,14 +19,14 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#              1h 11m 4s    █████████████████████████  97.26%
-Unity           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.74%
+C#              49m 58s     █████████████████████████  96.15%
+Unity           2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.85%
 
 💼 Projects:
-SideScrollerX   2h 49m 53s   █████████████████████████  98.84%
-Lumin           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.16%
+SideScrollerX   1h 47m 1s   █████████████████████████  98.17%
+Lumin           2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
 
-Total: 7 hrs 52 mins
+Total: 5 hrs 26 mins
 ```
 
 
