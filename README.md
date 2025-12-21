@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 day ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(today)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(1 week ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(2 weeks ago)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(2 weeks ago)**
@@ -26,7 +26,7 @@ Unity           2m 0s        █░░░░░░░░░░░░░░░░
 SideScrollerX   3h 11m 58s   █████████████████████████  98.97%
 Lumin           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.03%
 
-Total: 12 hrs 9 mins
+Total: 12 hrs 11 mins
 ```
 
 
