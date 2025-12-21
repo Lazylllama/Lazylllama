@@ -26,7 +26,7 @@ Unity           2m 0s        █░░░░░░░░░░░░░░░░
 SideScrollerX   3h 19m 43s   █████████████████████████  99.01%
 Lumin           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.99%
 
-Total: 12 hrs 33 mins
+Total: 12 hrs 37 mins
 ```
 
 
