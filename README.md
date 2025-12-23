@@ -1,13 +1,13 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 day ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(today)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(1 week ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(2 weeks ago)**
-- [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(2 weeks ago)**
+- [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(3 weeks ago)**
 - [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(1 month ago)**
 - [`SpaceShooterX`](https://github.com/Lazylllama/SpaceShooterX) - _"Space Shooter X"_ **(2 months ago)**
 - [`translations`](https://github.com/jgscripts/translations) - _"Help us translate our scripts so we can make them accessible for more people!"_ **(5 months ago)**
-- [`llama-nvim`](https://github.com/Lazylllama/llama-nvim) - _"My Neovim folder :P"_ **(9 months ago)**
+- [`llama-nvim`](https://github.com/Lazylllama/llama-nvim) - _"My Neovim folder :P"_ **(10 months ago)**
 
 ### ⌨️ My latest projects
 
@@ -19,14 +19,14 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#              2h 1m 55s    █████████████████████████  98.39%
-Unity           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.61%
+C#              1h 37m 42s   █████████████████████████  97.99%
+Unity           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
 
 💼 Projects:
-SideScrollerX   3h 19m 42s   █████████████████████████  99.01%
-Lumin           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.99%
+SideScrollerX   2h 21m 30s   █████████████████████████  98.61%
+Lumin           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.39%
 
-Total: 12 hrs 31 mins
+Total: 10 hrs 36 mins
 ```
 
 
