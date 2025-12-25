@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 day ago)**
-- [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(1 week ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(2 days ago)**
+- [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(2 weeks ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(3 weeks ago)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(3 weeks ago)**
 - [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(1 month ago)**
@@ -23,10 +23,10 @@ C#              1h 34m 45s   █████████████████
 Unity           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.07%
 
 💼 Projects:
-SideScrollerX   2h 10m 25s   █████████████████████████  98.49%
-Lumin           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.51%
+SideScrollerX   2h 9m 0s     █████████████████████████  98.47%
+Lumin           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.53%
 
-Total: 9 hrs 23 mins
+Total: 9 hrs 7 mins
 ```
 
 
