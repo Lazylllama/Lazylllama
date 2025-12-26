@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(2 days ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(3 days ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(2 weeks ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(3 weeks ago)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(3 weeks ago)**
@@ -19,14 +19,14 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#              1h 34m 45s   █████████████████████████  97.93%
-Unity           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.07%
+C#              53m 30s   █████████████████████████  96.40%
+Unity           2m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.60%
 
 💼 Projects:
-SideScrollerX   2h 9m 0s     █████████████████████████  98.47%
-Lumin           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.53%
+SideScrollerX   53m 30s   █████████████████████████  96.40%
+Lumin           2m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.60%
 
-Total: 9 hrs 7 mins
+Total: 6 hrs 46 mins
 ```
 
 
