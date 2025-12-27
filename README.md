@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(3 days ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(4 days ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(2 weeks ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(3 weeks ago)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(3 weeks ago)**
@@ -19,14 +19,18 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#              53m 30s   █████████████████████████  96.40%
-Unity           2m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.60%
+C#                48m 1s   ███████████████████░░░░░░  74.00%
+TypeScript        8m 26s   ████░░░░░░░░░░░░░░░░░░░░░  12.99%
+CSS               4m 26s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.84%
+Unity             2m 0s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.08%
+Bash              2m 0s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.08%
 
 💼 Projects:
-SideScrollerX   53m 30s   █████████████████████████  96.40%
-Lumin           2m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.60%
+SideScrollerX     48m 1s   ████████████████████░░░░░  78.69%
+hc-sticker-dash   11m 0s   █████░░░░░░░░░░░░░░░░░░░░  18.04%
+Lumin             2m 0s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.28%
 
-Total: 6 hrs 46 mins
+Total: 6 hrs 40 mins
 ```
 
 
@@ -35,7 +39,7 @@ Total: 6 hrs 46 mins
 
 - 📕 **[Chainsaw Man](https://www.anime-planet.com/manga/chainsaw-man)**
     - Rating: ⭐ 5/5
-    - Volumes: 11 vols
+    - Volumes: 13 vols
 - 📕 **[Solo Leveling](https://www.anime-planet.com/manga/solo-leveling)**
     - Rating: ⭐ 4/5
     - Volumes: 0 vol
@@ -48,6 +52,6 @@ Total: 6 hrs 46 mins
 - 🎬 **[Jujutsu Kaisen](https://www.anime-planet.com/anime/jujutsu-kaisen)**
     - Rating: ⭐ 4/5
     - Episode: 14 eps
-- 🎬 **[Mushoku Tensei: Jobless Reincarnation 2nd Season](https://www.anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-2nd-season)**
+- 🎬 **[Mushoku Tensei: Jobless Reincarnation 2nd Season - Part II](https://www.anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-2nd-season-part-ii)**
     - Rating: ⭐ 5/5
-    - Episode: 8 eps
+    - Episode: 5 eps
