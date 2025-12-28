@@ -1,12 +1,12 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(4 days ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(5 days ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(2 weeks ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(3 weeks ago)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(3 weeks ago)**
 - [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(1 month ago)**
 - [`SpaceShooterX`](https://github.com/Lazylllama/SpaceShooterX) - _"Space Shooter X"_ **(2 months ago)**
-- [`translations`](https://github.com/jgscripts/translations) - _"Help us translate our scripts so we can make them accessible for more people!"_ **(5 months ago)**
+- [`translations`](https://github.com/jgscripts/translations) - _"Help us translate our scripts so we can make them accessible for more people!"_ **(6 months ago)**
 - [`llama-nvim`](https://github.com/Lazylllama/llama-nvim) - _"My Neovim folder :P"_ **(10 months ago)**
 
 ### ⌨️ My latest projects
@@ -19,18 +19,18 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#                48m 1s    █████████████████░░░░░░░░  67.05%
-TypeScript        13m 9s    █████░░░░░░░░░░░░░░░░░░░░  18.38%
-CSS               4m 26s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.20%
-Unity             2m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.79%
-Bash              2m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.79%
+C#                18m 1s    ███████████░░░░░░░░░░░░░░  43.29%
+TypeScript        13m 9s    ████████░░░░░░░░░░░░░░░░░  31.63%
+CSS               4m 26s    ███░░░░░░░░░░░░░░░░░░░░░░  10.66%
+Unity             2m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
+Bash              2m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
 
 💼 Projects:
-SideScrollerX     48m 1s    ███████████████████░░░░░░  73.03%
-hc-sticker-dash   15m 44s   ██████░░░░░░░░░░░░░░░░░░░  23.93%
-Lumin             2m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.04%
+SideScrollerX     18m 1s    █████████████░░░░░░░░░░░░  50.39%
+hc-sticker-dash   15m 44s   ████████████░░░░░░░░░░░░░  44.02%
+Lumin             2m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.59%
 
-Total: 6 hrs 47 mins
+Total: 2 hrs 40 mins
 ```
 
 
