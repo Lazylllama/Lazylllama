@@ -32,7 +32,7 @@ SideScrollerX        8m 6s        ██░░░░░░░░░░░░░�
 Qbox_507A10.base     4m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.00%
 lation_ui            2m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.45%
 
-Total: 6 hrs 35 mins
+Total: 6 hrs 37 mins
 ```
 
 
@@ -46,7 +46,7 @@ Total: 6 hrs 35 mins
     - Rating: ⭐ 4/5
     - Volumes: 0 vol
 - 📕 **[Hell's Paradise: Jigokuraku](https://www.anime-planet.com/manga/hells-paradise-jigokuraku)**
-    - Rating: ⭐ 4/5
+    - Rating: ⭐ 3/5
     - Volumes: 2 vols
 
 #### 📺 Currently Watching
