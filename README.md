@@ -1,9 +1,9 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(6 days ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 week ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(2 weeks ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(3 weeks ago)**
-- [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(3 weeks ago)**
+- [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(4 weeks ago)**
 - [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(1 month ago)**
 - [`SpaceShooterX`](https://github.com/Lazylllama/SpaceShooterX) - _"Space Shooter X"_ **(2 months ago)**
 - [`translations`](https://github.com/jgscripts/translations) - _"Help us translate our scripts so we can make them accessible for more people!"_ **(6 months ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Lua                  1h 56m 50s   ███████████████████░░░░░░  72.74%
-TypeScript           13m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  8.20%
-C#                   8m 6s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.05%
-Unknown              5m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.37%
-CSS                  4m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.76%
+Lua                  1h 56m 50s   ████████████████████░░░░░  76.09%
+TypeScript           13m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  8.57%
+Unknown              5m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.52%
+CSS                  4m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.89%
+C#                   3m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.99%
 
 💼 Projects:
-lation-test-server   1h 48m 8s    ███████████████████░░░░░░  75.98%
-hc-sticker-dash      15m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  11.06%
-SideScrollerX        8m 6s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.70%
-Qbox_507A10.base     4m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.00%
-lation_ui            2m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.45%
+lation-test-server   1h 48m 8s    ████████████████████░░░░░  79.94%
+hc-sticker-dash      15m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  11.64%
+Qbox_507A10.base     4m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.16%
+SideScrollerX        3m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.26%
+lation_ui            2m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.52%
 
-Total: 6 hrs 37 mins
+Total: 5 hrs 32 mins
 ```
 
 
