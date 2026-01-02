@@ -1,9 +1,9 @@
 ### 👷 The latest repos i've pushed to
 
-- [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(4 days ago)**
+- [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(5 days ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 week ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(3 weeks ago)**
-- [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(4 weeks ago)**
+- [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(1 month ago)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(1 month ago)**
 - [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(1 month ago)**
 - [`SpaceShooterX`](https://github.com/Lazylllama/SpaceShooterX) - _"Space Shooter X"_ **(2 months ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Lua                       2h 16m 37s   ███████████████░░░░░░░░░░  59.03%
-TypeScript                1h 13m 34s   ████████░░░░░░░░░░░░░░░░░  31.79%
-Unknown                   5m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.34%
-CSS                       4m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.92%
-JSON                      2m 44s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.18%
+Lua                       2h 19m 37s   ███████████████░░░░░░░░░░  59.55%
+TypeScript                1h 13m 34s   ████████░░░░░░░░░░░░░░░░░  31.38%
+Unknown                   5m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.31%
+CSS                       4m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.89%
+JSON                      2m 44s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.17%
 
 💼 Projects:
-lation-test-server        2h 9m 17s    ███████████████░░░░░░░░░░  59.31%
-foreningsforsaljning-v2   1h 2m 24s    ████████░░░░░░░░░░░░░░░░░  28.63%
-hc-sticker-dash           15m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.22%
-Qbox_507A10.base          4m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.96%
-unknown                   4m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.92%
+lation-test-server        2h 12m 19s   ███████████████░░░░░░░░░░  59.87%
+foreningsforsaljning-v2   1h 2m 24s    ████████░░░░░░░░░░░░░░░░░  28.24%
+hc-sticker-dash           15m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.12%
+Qbox_507A10.base          4m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.93%
+unknown                   4m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.90%
 
-Total: 7 hrs 53 mins
+Total: 8 hrs 14 mins
 ```
 
 
