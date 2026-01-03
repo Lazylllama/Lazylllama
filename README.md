@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(5 days ago)**
+- [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(6 days ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 week ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(3 weeks ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Lua                       2h 22m 36s   ████████████████░░░░░░░░░  60.06%
-TypeScript                1h 13m 34s   ████████░░░░░░░░░░░░░░░░░  30.99%
+Lua                       2h 24m 25s   ████████████████░░░░░░░░░  60.88%
+TypeScript                1h 13m 34s   ████████░░░░░░░░░░░░░░░░░  31.01%
 Unknown                   5m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.28%
 CSS                       4m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.87%
-JSON                      2m 44s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.15%
+JSON                      2m 44s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.16%
 
 💼 Projects:
-lation-test-server        2h 15m 10s   ███████████████░░░░░░░░░░  59.52%
-foreningsforsaljning-v2   1h 2m 24s    ███████░░░░░░░░░░░░░░░░░░  27.48%
-hc-sticker-dash           15m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.93%
-Qbox_507A10.base          4m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.88%
-unknown                   4m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.85%
+lation-test-server        2h 16m 58s   ███████████████░░░░░░░░░░  59.84%
+foreningsforsaljning-v2   1h 2m 24s    ███████░░░░░░░░░░░░░░░░░░  27.26%
+hc-sticker-dash           15m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.88%
+Qbox_507A10.base          4m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.87%
+unknown                   4m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
 
-Total: 8 hrs 31 mins
+Total: 8 hrs 33 mins
 ```
 
 
