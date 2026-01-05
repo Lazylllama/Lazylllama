@@ -6,7 +6,7 @@
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(1 month ago)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(1 month ago)**
 - [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(1 month ago)**
-- [`SpaceShooterX`](https://github.com/Lazylllama/SpaceShooterX) - _"Space Shooter X"_ **(2 months ago)**
+- [`SpaceShooterX`](https://github.com/Lazylllama/SpaceShooterX) - _"Space Shooter X"_ **(3 months ago)**
 - [`translations`](https://github.com/jgscripts/translations) - _"Help us translate our scripts so we can make them accessible for more people!"_ **(6 months ago)**
 
 ### ⌨️ My latest projects
@@ -19,20 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Lua                       2h 24m 25s   █████████████████░░░░░░░░  65.16%
-TypeScript                1h 2m 24s    ████████░░░░░░░░░░░░░░░░░  28.16%
-Unknown                   5m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.44%
-JSON                      2m 44s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.24%
-Ini                       2m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.17%
+TypeScript                1h 2m 24s   █████████████░░░░░░░░░░░░  49.69%
+Lua                       54m 20s     ███████████░░░░░░░░░░░░░░  43.27%
+JSON                      2m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.18%
+Mysql                     2m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.64%
+Unknown                   2m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.62%
 
 💼 Projects:
-lation-test-server        2h 16m 58s   █████████████████░░░░░░░░  64.25%
-foreningsforsaljning-v2   1h 2m 24s    ████████░░░░░░░░░░░░░░░░░  29.27%
-Qbox_507A10.base          4m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
-unknown                   4m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.97%
-[findout]                 3m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.53%
+foreningsforsaljning-v2   1h 2m 24s   █████████████░░░░░░░░░░░░  49.66%
+lation-test-server        55m 47s     ████████████░░░░░░░░░░░░░  44.40%
+unknown                   4m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.34%
+[findout]                 3m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.60%
 
-Total: 8 hrs 11 mins
+Total: 4 hrs 25 mins
 ```
 
 
