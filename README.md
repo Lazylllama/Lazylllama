@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(1 week ago)**
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 week ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(2 weeks ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(3 weeks ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(1 month ago)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(1 month ago)**
@@ -19,19 +19,18 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript                1h 2m 24s   █████████████░░░░░░░░░░░░  49.69%
-Lua                       54m 20s     ███████████░░░░░░░░░░░░░░  43.27%
-JSON                      2m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.18%
-Mysql                     2m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.64%
-Unknown                   2m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.62%
+TypeScript                1h 2m 24s   █████████████████░░░░░░░░  64.52%
+Lua                       29m 34s     ████████░░░░░░░░░░░░░░░░░  30.58%
+JSON                      2m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.83%
+Mysql                     2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.07%
 
 💼 Projects:
-foreningsforsaljning-v2   1h 2m 24s   █████████████░░░░░░░░░░░░  49.66%
-lation-test-server        55m 47s     ████████████░░░░░░░░░░░░░  44.40%
-unknown                   4m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.34%
-[findout]                 3m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.60%
+foreningsforsaljning-v2   1h 2m 24s   ████████████████░░░░░░░░░  61.98%
+lation-test-server        30m 49s     ████████░░░░░░░░░░░░░░░░░  30.62%
+unknown                   4m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
+[findout]                 3m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.24%
 
-Total: 4 hrs 25 mins
+Total: 3 hrs 4 mins
 ```
 
 
