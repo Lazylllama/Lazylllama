@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(today)**
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(1 week ago)**
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(2 weeks ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(4 weeks ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(1 month ago)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Lua                  15m 6s    ████████████░░░░░░░░░░░░░  47.87%
-C#                   3m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  11.56%
-JavaScript           2m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  8.89%
-Bash                 2m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.33%
-HTML                 2m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.33%
+C#                   17m 44s   ██████████░░░░░░░░░░░░░░░  36.14%
+Lua                  15m 40s   ████████░░░░░░░░░░░░░░░░░  31.95%
+Unityyaml            2m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.82%
+JavaScript           2m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.72%
+Bash                 2m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.07%
 
 💼 Projects:
-lation-test-server   14m 44s   █████████████░░░░░░░░░░░░  51.24%
-SideScrollerX        3m 39s    ████░░░░░░░░░░░░░░░░░░░░░  12.69%
-[findout]            3m 15s    ███░░░░░░░░░░░░░░░░░░░░░░  11.34%
-map-main             2m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  10.03%
-unknown              2m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.74%
+SideScrollerX        17m 44s   ███████████░░░░░░░░░░░░░░  40.86%
+lation-test-server   15m 18s   █████████░░░░░░░░░░░░░░░░  35.25%
+[findout]            3m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.52%
+map-main             2m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.64%
+unknown              2m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.13%
 
-Total: 1 hrs 35 mins
+Total: 3 hrs 16 mins
 ```
 
 
