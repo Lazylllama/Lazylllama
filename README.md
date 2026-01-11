@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 day ago)**
-- [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(1 week ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(2 days ago)**
+- [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(2 weeks ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(1 month ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(1 month ago)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#                   54m 54s   ██████████████████░░░░░░░  68.10%
-Lua                  10m 3s    ████░░░░░░░░░░░░░░░░░░░░░  12.47%
-Unityyaml            2m 51s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.54%
-JavaScript           2m 48s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.48%
-Bash                 2m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.48%
+C#                   54m 54s   ████████████░░░░░░░░░░░░░  44.50%
+Lua                  25m 40s   ██████░░░░░░░░░░░░░░░░░░░  20.81%
+JSON                 19m 51s   █████░░░░░░░░░░░░░░░░░░░░  16.09%
+Unknown              4m 58s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.04%
+JavaScript           4m 16s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.46%
 
 💼 Projects:
-SideScrollerX        55m 44s   ████████████████████░░░░░  76.70%
-lation-test-server   9m 11s    ████░░░░░░░░░░░░░░░░░░░░░  12.64%
-map-main             2m 53s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.97%
-unknown              2m 52s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.95%
-Lumin                2m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.75%
+SideScrollerX        55m 44s   █████████████░░░░░░░░░░░░  49.36%
+BrainrotV1           40m 14s   █████████░░░░░░░░░░░░░░░░  35.64%
+lation-test-server   9m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  8.13%
+map-main             2m 53s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.55%
+unknown              2m 52s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.54%
 
-Total: 4 hrs 14 mins
+Total: 5 hrs 25 mins
 ```
 
 
