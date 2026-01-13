@@ -1,11 +1,11 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(today)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 day ago)**
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(2 weeks ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(1 month ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(1 month ago)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(1 month ago)**
-- [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(1 month ago)**
+- [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(2 months ago)**
 - [`SpaceShooterX`](https://github.com/Lazylllama/SpaceShooterX) - _"Space Shooter X"_ **(3 months ago)**
 - [`translations`](https://github.com/jgscripts/translations) - _"Help us translate our scripts so we can make them accessible for more people!"_ **(6 months ago)**
 
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Lua                  3h 14m 12s   ████████████████░░░░░░░░░  62.45%
-C#                   54m 54s      █████░░░░░░░░░░░░░░░░░░░░  17.66%
-JSON                 21m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
-Toml                 13m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.23%
-JavaScript           7m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.49%
+Lua                  3h 19m 2s    ████████████████░░░░░░░░░  63.02%
+C#                   54m 54s      █████░░░░░░░░░░░░░░░░░░░░  17.39%
+JSON                 21m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.90%
+Toml                 13m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.16%
+JavaScript           7m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.46%
 
 💼 Projects:
-BrainrotV1           3h 41m 57s   ███████████████████░░░░░░  74.31%
-SideScrollerX        55m 44s      █████░░░░░░░░░░░░░░░░░░░░  18.66%
-lation-test-server   11m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.76%
-map-main             2m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.97%
-unknown              2m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.96%
+BrainrotV1           3h 41m 57s   ███████████████████░░░░░░  73.13%
+SideScrollerX        55m 44s      █████░░░░░░░░░░░░░░░░░░░░  18.37%
+lation-test-server   11m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.70%
+unknown              7m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.54%
+map-main             2m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.95%
 
-Total: 10 hrs 38 mins
+Total: 10 hrs 56 mins
 ```
 
 
