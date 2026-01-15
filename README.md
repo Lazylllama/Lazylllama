@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(3 days ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(today)**
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(2 weeks ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(1 month ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Lua                  3h 15m 21s   ████████████████░░░░░░░░░  61.94%
-C#                   58m 9s       █████░░░░░░░░░░░░░░░░░░░░  18.44%
-JSON                 21m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.91%
-Toml                 13m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
-JavaScript           7m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.46%
+Lua                  3h 15m 21s   ████████████████░░░░░░░░░  61.84%
+C#                   58m 39s      █████░░░░░░░░░░░░░░░░░░░░  18.57%
+JSON                 21m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.90%
+Toml                 13m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.16%
+JavaScript           7m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.45%
 
 💼 Projects:
-BrainrotV1           3h 41m 57s   ███████████████████░░░░░░  72.33%
-SideScrollerX        1h 2m 46s    ██████░░░░░░░░░░░░░░░░░░░  20.45%
-lation-test-server   7m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.53%
-unknown              7m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.44%
+BrainrotV1           3h 41m 57s   ███████████████████░░░░░░  72.11%
+SideScrollerX        1h 3m 44s    ██████░░░░░░░░░░░░░░░░░░░  20.71%
+lation-test-server   7m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.52%
+unknown              7m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.43%
 map-main             2m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.94%
 
-Total: 11 hrs 38 mins
+Total: 12 hrs 1 mins
 ```
 
 
