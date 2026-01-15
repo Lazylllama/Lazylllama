@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(2 days ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(3 days ago)**
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(2 weeks ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(1 month ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(1 month ago)**
@@ -32,7 +32,7 @@ lation-test-server   7m 46s       █░░░░░░░░░░░░░░�
 unknown              7m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.50%
 map-main             2m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.96%
 
-Total: 10 hrs 40 mins
+Total: 10 hrs 38 mins
 ```
 
 
@@ -48,9 +48,6 @@ Total: 10 hrs 40 mins
 
 #### 📺 Currently Watching
 
-- 🎬 **[Jujutsu Kaisen](https://www.anime-planet.com/anime/jujutsu-kaisen)**
-    - Rating: ⭐ 4/5
-    - Episode: 14 eps
 - 🎬 **[Mushoku Tensei: Jobless Reincarnation 2nd Season - Part II](https://www.anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-2nd-season-part-ii)**
     - Rating: ⭐ 5/5
     - Episode: 5 eps
