@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(3 days ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(4 days ago)**
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(3 weeks ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(1 month ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(1 month ago)**
@@ -19,20 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#                   56m 55s      ██████████████░░░░░░░░░░░  53.75%
-Lua                  28m 58s      ███████░░░░░░░░░░░░░░░░░░  27.36%
-JavaScript           5m 24s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.10%
-Toml                 4m 36s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.35%
-Unknown              2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.89%
+C#                   56m 55s      ███████████████████░░░░░░  74.56%
+Lua                  10m 11s      ████░░░░░░░░░░░░░░░░░░░░░  13.34%
+Toml                 3m 14s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.24%
+Markdown             2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.62%
+Unity                2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.62%
 
 💼 Projects:
-SideScrollerX        1h 45m 28s   ██████████████████░░░░░░░  71.66%
-BrainrotV1           29m 32s      ██████░░░░░░░░░░░░░░░░░░░  20.07%
-unknown              6m 49s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
-lation-test-server   3m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.27%
-TestRig              2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.36%
+SideScrollerX        1h 45m 28s   ██████████████████████░░░  87.61%
+unknown              6m 10s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.13%
+BrainrotV1           5m 24s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.49%
+lation-test-server   3m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.77%
 
-Total: 7 hrs 49 mins
+Total: 6 hrs 52 mins
 ```
 
 
