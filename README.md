@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(4 days ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(5 days ago)**
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(3 weeks ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(1 month ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(1 month ago)**
@@ -19,19 +19,18 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#                   56m 55s      ███████████████████░░░░░░  74.56%
-Lua                  10m 11s      ████░░░░░░░░░░░░░░░░░░░░░  13.34%
-Toml                 3m 14s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.24%
-Markdown             2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.62%
-Unity                2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.62%
+C#                   56m 55s      █████████████████████░░░░  81.13%
+Lua                  6m 0s        ███░░░░░░░░░░░░░░░░░░░░░░  8.56%
+Toml                 3m 14s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.61%
+Unity                2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.85%
+JSON                 2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.85%
 
 💼 Projects:
-SideScrollerX        1h 45m 28s   ██████████████████████░░░  87.61%
-unknown              6m 10s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.13%
-BrainrotV1           5m 24s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.49%
-lation-test-server   3m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.77%
+SideScrollerX        1h 45m 28s   ████████████████████████░  92.35%
+BrainrotV1           5m 24s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.73%
+lation-test-server   3m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.92%
 
-Total: 6 hrs 52 mins
+Total: 6 hrs 34 mins
 ```
 
 
