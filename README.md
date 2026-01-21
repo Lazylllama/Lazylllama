@@ -1,5 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4"_ **(today)**
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(today)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(5 days ago)**
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(3 weeks ago)**
@@ -7,31 +8,31 @@
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(1 month ago)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(1 month ago)**
 - [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(2 months ago)**
-- [`SpaceShooterX`](https://github.com/Lazylllama/SpaceShooterX) - _"Space Shooter X"_ **(3 months ago)**
 
 ### ⌨️ My latest projects
 
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4"_
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_
-- [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_
 
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#                   56m 55s      █████████████░░░░░░░░░░░░  49.36%
-HTML                 24m 42s      ██████░░░░░░░░░░░░░░░░░░░  21.43%
-CSS                  20m 26s      █████░░░░░░░░░░░░░░░░░░░░  17.72%
-Lua                  6m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
-Toml                 3m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.81%
+C#                   58m 14s      ███████████░░░░░░░░░░░░░░  42.07%
+HTML                 24m 42s      █████░░░░░░░░░░░░░░░░░░░░  17.85%
+CSS                  20m 26s      ████░░░░░░░░░░░░░░░░░░░░░  14.76%
+Markdown             13m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  9.52%
+Lua                  6m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.34%
 
 💼 Projects:
-SideScrollerX        1h 45m 28s   ██████████████████░░░░░░░  69.56%
-bobadrops            37m 24s      ███████░░░░░░░░░░░░░░░░░░  24.67%
-BrainrotV1           5m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.56%
-lation-test-server   3m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.20%
+SideScrollerX        1h 45m 28s   ███████████████░░░░░░░░░░  59.04%
+bobadrops            37m 24s      ██████░░░░░░░░░░░░░░░░░░░  20.94%
+FlashlightGame       25m 0s       ████░░░░░░░░░░░░░░░░░░░░░  14.00%
+BrainrotV1           5m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.02%
+lation-test-server   3m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.87%
 
-Total: 7 hrs 25 mins
+Total: 8 hrs 12 mins
 ```
 
 
