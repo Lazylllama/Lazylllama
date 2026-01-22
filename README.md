@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4"_ **(1 day ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4"_ **(today)**
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(1 day ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(6 days ago)**
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(3 weeks ago)**
@@ -26,13 +26,13 @@ Markdown             13m 10s      ██░░░░░░░░░░░░░�
 Lua                  6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.50%
 
 💼 Projects:
-SideScrollerX        1h 45m 28s   ████████████░░░░░░░░░░░░░  44.58%
-FlashlightGame       1h 22m 57s   █████████░░░░░░░░░░░░░░░░  35.06%
-bobadrops            37m 24s      ████░░░░░░░░░░░░░░░░░░░░░  15.81%
-BrainrotV1           5m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.28%
-lation-test-server   3m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.41%
+SideScrollerX        1h 45m 28s   ███████████░░░░░░░░░░░░░░  43.77%
+FlashlightGame       1h 27m 19s   ██████████░░░░░░░░░░░░░░░  36.24%
+bobadrops            37m 24s      ████░░░░░░░░░░░░░░░░░░░░░  15.53%
+BrainrotV1           5m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.24%
+lation-test-server   3m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.39%
 
-Total: 9 hrs 48 mins
+Total: 10 hrs 5 mins
 ```
 
 
