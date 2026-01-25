@@ -1,9 +1,9 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(1 day ago)**
-- [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(3 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(2 days ago)**
+- [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(4 days ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 week ago)**
-- [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(3 weeks ago)**
+- [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(4 weeks ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(1 month ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(1 month ago)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#                   49m 56s     █████████░░░░░░░░░░░░░░░░  35.45%
-HTML                 24m 42s     █████░░░░░░░░░░░░░░░░░░░░  17.54%
-CSS                  20m 26s     ████░░░░░░░░░░░░░░░░░░░░░  14.51%
-Markdown             13m 10s     ███░░░░░░░░░░░░░░░░░░░░░░  9.35%
-Lua                  8m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.35%
+C#                   49m 56s     ██████████░░░░░░░░░░░░░░░  36.31%
+HTML                 24m 42s     █████░░░░░░░░░░░░░░░░░░░░  17.97%
+CSS                  20m 26s     ████░░░░░░░░░░░░░░░░░░░░░  14.86%
+Markdown             13m 10s     ███░░░░░░░░░░░░░░░░░░░░░░  9.58%
+Unknown              7m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.76%
 
 💼 Projects:
-FlashlightGame       2h 15m 4s   ███████████████████░░░░░░  72.55%
-bobadrops            37m 24s     ██████░░░░░░░░░░░░░░░░░░░  20.10%
-lation-test-server   6m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.37%
-BrainrotV1           5m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
-unknown              2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.07%
+FlashlightGame       2h 15m 4s   ███████████████████░░░░░░  72.89%
+bobadrops            37m 24s     ██████░░░░░░░░░░░░░░░░░░░  20.19%
+lation-test-server   6m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.39%
+unknown              2m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.38%
+BrainrotV1           2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.08%
 
-Total: 7 hrs 32 mins
+Total: 7 hrs 21 mins
 ```
 
 
