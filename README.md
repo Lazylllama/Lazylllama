@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(2 days ago)**
-- [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(4 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(3 days ago)**
+- [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(5 days ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 week ago)**
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(4 weeks ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#                   49m 56s     █████████░░░░░░░░░░░░░░░░  35.97%
-HTML                 24m 42s     █████░░░░░░░░░░░░░░░░░░░░  17.80%
-CSS                  20m 26s     ████░░░░░░░░░░░░░░░░░░░░░  14.72%
-Markdown             13m 10s     ███░░░░░░░░░░░░░░░░░░░░░░  9.49%
-Lua                  8m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.85%
+C#                   49m 56s     ██████████░░░░░░░░░░░░░░░  36.29%
+HTML                 24m 42s     █████░░░░░░░░░░░░░░░░░░░░  17.96%
+CSS                  20m 26s     ████░░░░░░░░░░░░░░░░░░░░░  14.85%
+Markdown             13m 10s     ███░░░░░░░░░░░░░░░░░░░░░░  9.57%
+Unknown              7m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.76%
 
 💼 Projects:
-FlashlightGame       2h 15m 4s   ██████████████████░░░░░░░  71.47%
-bobadrops            37m 24s     █████░░░░░░░░░░░░░░░░░░░░  19.80%
-lation-test-server   7m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  4.00%
-unknown              2m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.35%
-lation_coke          2m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.26%
+FlashlightGame       2h 15m 4s   ███████████████████░░░░░░  72.71%
+bobadrops            37m 24s     ██████░░░░░░░░░░░░░░░░░░░  20.14%
+lation-test-server   6m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.41%
+unknown              2m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.38%
+lation_coke          2m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.28%
 
-Total: 7 hrs 25 mins
+Total: 7 hrs 24 mins
 ```
 
 
