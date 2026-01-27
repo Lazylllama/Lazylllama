@@ -32,7 +32,7 @@ lation-test-server        7m 50s      █░░░░░░░░░░░░░
 foreningsforsaljning-v2   3m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.58%
 unknown                   2m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.13%
 
-Total: 8 hrs 55 mins
+Total: 8 hrs 57 mins
 ```
 
 
