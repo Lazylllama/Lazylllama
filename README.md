@@ -1,9 +1,9 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(3 days ago)**
-- [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(5 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(4 days ago)**
+- [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(6 days ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 week ago)**
-- [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(4 weeks ago)**
+- [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(1 month ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(1 month ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(1 month ago)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(1 month ago)**
@@ -32,7 +32,7 @@ lation-test-server   7m 50s      █░░░░░░░░░░░░░░�
 unknown              2m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.14%
 lation_coke          2m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.07%
 
-Total: 8 hrs 45 mins
+Total: 8 hrs 47 mins
 ```
 
 
