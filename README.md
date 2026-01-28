@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(4 days ago)**
-- [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(6 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(5 days ago)**
+- [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(1 week ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 week ago)**
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(1 month ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#                        1h 8m 56s   ███████████░░░░░░░░░░░░░░  42.56%
-HTML                      24m 42s     ████░░░░░░░░░░░░░░░░░░░░░  15.26%
-CSS                       20m 26s     ████░░░░░░░░░░░░░░░░░░░░░  12.62%
-Markdown                  13m 10s     ███░░░░░░░░░░░░░░░░░░░░░░  8.13%
-Lua                       9m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.17%
+C#                        1h 8m 56s   ██████████░░░░░░░░░░░░░░░  38.15%
+HTML                      24m 42s     ████░░░░░░░░░░░░░░░░░░░░░  13.68%
+CSS                       20m 26s     ███░░░░░░░░░░░░░░░░░░░░░░  11.31%
+TypeScript                19m 0s      ███░░░░░░░░░░░░░░░░░░░░░░  10.52%
+Markdown                  13m 10s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.29%
 
 💼 Projects:
-FlashlightGame            2h 51m 8s   ███████████████████░░░░░░  75.42%
-bobadrops                 37m 24s     █████░░░░░░░░░░░░░░░░░░░░  16.49%
-lation-test-server        7m 50s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.46%
-foreningsforsaljning-v2   3m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.58%
-unknown                   2m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.13%
+FlashlightGame            2h 51m 8s   ██████████████████░░░░░░░  70.24%
+bobadrops                 37m 24s     ████░░░░░░░░░░░░░░░░░░░░░  15.36%
+foreningsforsaljning-v2   20m 18s     ███░░░░░░░░░░░░░░░░░░░░░░  8.33%
+lation-test-server        7m 50s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.22%
+unknown                   2m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.05%
 
-Total: 8 hrs 57 mins
+Total: 9 hrs 27 mins
 ```
 
 
