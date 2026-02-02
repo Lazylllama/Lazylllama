@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(2 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(3 days ago)**
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(1 week ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(2 weeks ago)**
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(1 month ago)**
@@ -19,20 +19,18 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#                        2h 15m 15s   █████████████████░░░░░░░░  67.34%
-TypeScript                44m 21s      ██████░░░░░░░░░░░░░░░░░░░  22.08%
-Lua                       7m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.51%
-Markdown                  2m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.10%
-Unknown                   2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.00%
+C#                        2h 26m 29s   ██████████████████░░░░░░░  70.34%
+TypeScript                44m 21s      ██████░░░░░░░░░░░░░░░░░░░  21.30%
+Lua                       5m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.50%
+Markdown                  2m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.06%
+Unity                     2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.96%
 
 💼 Projects:
-FlashlightGame            4h 0m 40s    █████████████████████░░░░  81.26%
-foreningsforsaljning-v2   45m 39s      ████░░░░░░░░░░░░░░░░░░░░░  15.42%
-lation-test-server        4m 54s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.66%
-unknown                   2m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.86%
-lation_coke               2m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.80%
+FlashlightGame            4h 19m 18s   ██████████████████████░░░  84.03%
+foreningsforsaljning-v2   45m 39s      ████░░░░░░░░░░░░░░░░░░░░░  14.80%
+lation-test-server        3m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.17%
 
-Total: 12 hrs 5 mins
+Total: 12 hrs 42 mins
 ```
 
 
