@@ -1,5 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
+- [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(today)**
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(2 days ago)**
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(2 weeks ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(2 weeks ago)**
@@ -7,31 +8,31 @@
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(1 month ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(2 months ago)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(2 months ago)**
-- [`llama-rider-dots`](https://github.com/Lazylllama/llama-rider-dots) - _"My JetBrains Rider dots"_ **(2 months ago)**
 
 ### ⌨️ My latest projects
 
+- [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_
-- [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_
 
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#                        2h 57m 51s   ████████████████████░░░░░  78.35%
-TypeScript                27m 21s      ████░░░░░░░░░░░░░░░░░░░░░  12.05%
-Ini                       3m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.58%
-Markdown                  2m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.97%
-Unity                     2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.88%
+C#                        3h 4m 51s    ████████████████░░░░░░░░░  61.46%
+CSS                       39m 51s      ████░░░░░░░░░░░░░░░░░░░░░  13.25%
+TypeScript                27m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  9.09%
+HTML                      24m 55s      ███░░░░░░░░░░░░░░░░░░░░░░  8.28%
+Ini                       3m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.19%
 
 💼 Projects:
-FlashlightGame            4h 46m 10s   ███████████████████████░░  89.68%
-foreningsforsaljning-v2   27m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  8.57%
-unknown                   3m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.12%
-Fallen Scout              2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.63%
+FlashlightGame            4h 53m 10s   ████████████████████░░░░░  77.44%
+toppings                  52m 27s      ████░░░░░░░░░░░░░░░░░░░░░  13.86%
+foreningsforsaljning-v2   27m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.23%
+unknown                   3m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.95%
+Fallen Scout              2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.53%
 
-Total: 14 hrs 8 mins
+Total: 16 hrs 11 mins
 ```
 
 
