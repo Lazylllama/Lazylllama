@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(today)**
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(2 days ago)**
+- [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(1 day ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(3 days ago)**
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(2 weeks ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(2 weeks ago)**
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(1 month ago)**
@@ -19,20 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#                        3h 4m 51s    ████████████████░░░░░░░░░  61.46%
-CSS                       39m 51s      ████░░░░░░░░░░░░░░░░░░░░░  13.25%
-TypeScript                27m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  9.09%
-HTML                      24m 55s      ███░░░░░░░░░░░░░░░░░░░░░░  8.28%
-Ini                       3m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.19%
+C#               2h 26m 23s   ████████████████░░░░░░░░░  62.30%
+CSS              39m 51s      █████░░░░░░░░░░░░░░░░░░░░  16.97%
+HTML             24m 55s      ███░░░░░░░░░░░░░░░░░░░░░░  10.61%
+Ini              3m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.53%
+Markdown         2m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.94%
 
 💼 Projects:
-FlashlightGame            4h 53m 10s   ████████████████████░░░░░  77.44%
-toppings                  52m 27s      ████░░░░░░░░░░░░░░░░░░░░░  13.86%
-foreningsforsaljning-v2   27m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.23%
-unknown                   3m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.95%
-Fallen Scout              2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.53%
+FlashlightGame   3h 17m 21s   ████████████████████░░░░░  77.28%
+toppings         52m 27s      ██████░░░░░░░░░░░░░░░░░░░  20.54%
+unknown          3m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.40%
+Fallen Scout     2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.78%
 
-Total: 16 hrs 11 mins
+Total: 12 hrs 6 mins
 ```
 
 
