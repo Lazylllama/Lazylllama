@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(1 day ago)**
-- [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(3 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(2 days ago)**
+- [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(4 days ago)**
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(2 weeks ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(3 weeks ago)**
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(1 month ago)**
@@ -26,13 +26,13 @@ Ini                  3m 35s       █░░░░░░░░░░░░░░�
 Unity                2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.13%
 
 💼 Projects:
-FlashlightGame       2h 0m 43s    █████████████████░░░░░░░░  66.78%
-toppings             52m 27s      ████████░░░░░░░░░░░░░░░░░  29.02%
-unknown              3m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.98%
+FlashlightGame       2h 0m 25s    █████████████████░░░░░░░░  66.73%
+toppings             52m 27s      ████████░░░░░░░░░░░░░░░░░  29.06%
+unknown              3m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.99%
 Fallen Scout         2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.11%
 lation-test-server   2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.11%
 
-Total: 9 hrs 31 mins
+Total: 9 hrs 28 mins
 ```
 
 
