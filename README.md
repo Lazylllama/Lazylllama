@@ -1,11 +1,11 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(2 days ago)**
-- [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(4 days ago)**
-- [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(2 weeks ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(5 days ago)**
+- [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(1 week ago)**
+- [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(3 weeks ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(3 weeks ago)**
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(1 month ago)**
-- [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(1 month ago)**
+- [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(2 months ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(2 months ago)**
 - [`hc-sticker-dash`](https://github.com/Lazylllama/hc-sticker-dash) - _""_ **(2 months ago)**
 
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#                   1h 30m 10s   █████████████░░░░░░░░░░░░  50.58%
-CSS                  39m 51s      ██████░░░░░░░░░░░░░░░░░░░  22.36%
-HTML                 24m 55s      ████░░░░░░░░░░░░░░░░░░░░░  13.98%
-Lua                  3m 44s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.10%
-Ini                  3m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
+C#                   1h 59m 0s   █████████░░░░░░░░░░░░░░░░  35.24%
+Unity                1h 10m 0s   ██████░░░░░░░░░░░░░░░░░░░  20.73%
+CSS                  57m 52s     █████░░░░░░░░░░░░░░░░░░░░  17.14%
+HTML                 40m 55s     ████░░░░░░░░░░░░░░░░░░░░░  12.12%
+JavaScript           29m 26s     ███░░░░░░░░░░░░░░░░░░░░░░  8.72%
 
 💼 Projects:
-FlashlightGame       2h 0m 25s    █████████████████░░░░░░░░  66.09%
-toppings             52m 27s      ████████░░░░░░░░░░░░░░░░░  28.78%
-lation-test-server   3m 44s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.06%
-unknown              3m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.97%
-Fallen Scout         2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.10%
+FlashlightGame       1h 59m 0s   ██████████░░░░░░░░░░░░░░░  39.32%
+Fallen Scout         1h 10m 0s   ██████░░░░░░░░░░░░░░░░░░░  23.13%
+toppings             1h 6m 27s   ██████░░░░░░░░░░░░░░░░░░░  21.96%
+test                 31m 26s     ███░░░░░░░░░░░░░░░░░░░░░░  10.39%
+lation-test-server   11m 45s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.88%
 
-Total: 9 hrs 40 mins
+Total: 4 hrs 58 mins
 ```
 
 
