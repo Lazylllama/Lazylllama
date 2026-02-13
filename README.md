@@ -1,9 +1,9 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(6 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(1 week ago)**
 - [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(1 week ago)**
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(3 weeks ago)**
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(3 weeks ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(4 weeks ago)**
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(1 month ago)**
 - [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(2 months ago)**
 - [`The-Forge-Calculator-Guides`](https://github.com/Lazylllama/The-Forge-Calculator-Guides) - _"The Forge Calculator Guides"_ **(2 months ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#                   57m 18s   ██████████░░░░░░░░░░░░░░░  38.93%
-Unity                44m 0s    ████████░░░░░░░░░░░░░░░░░  29.89%
-JavaScript           29m 26s   █████░░░░░░░░░░░░░░░░░░░░  20.00%
-Lua                  15m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  10.70%
-Unknown              42s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.48%
+Unity                44m 0s    █████████░░░░░░░░░░░░░░░░  34.14%
+C#                   38m 59s   ████████░░░░░░░░░░░░░░░░░  30.25%
+JavaScript           29m 26s   ██████░░░░░░░░░░░░░░░░░░░  22.84%
+Lua                  15m 45s   ████░░░░░░░░░░░░░░░░░░░░░  12.22%
+Unknown              42s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.54%
 
 💼 Projects:
-FlashlightGame       57m 18s   ██████████░░░░░░░░░░░░░░░  38.59%
-Fallen Scout         44m 0s    ████████░░░░░░░░░░░░░░░░░  29.63%
-test                 31m 26s   ██████░░░░░░░░░░░░░░░░░░░  21.17%
-lation-test-server   11m 45s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.91%
-unknown              4m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.69%
+Fallen Scout         44m 0s    █████████░░░░░░░░░░░░░░░░  33.80%
+FlashlightGame       38m 59s   ████████░░░░░░░░░░░░░░░░░  29.95%
+test                 31m 26s   ███████░░░░░░░░░░░░░░░░░░  24.15%
+lation-test-server   11m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  9.03%
+unknown              4m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.07%
 
-Total: 2 hrs 30 mins
+Total: 2 hrs 12 mins
 ```
 
 
