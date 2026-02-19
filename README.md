@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(today)**
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(today)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(1 day ago)**
 - [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(2 weeks ago)**
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(4 weeks ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 month ago)**
