@@ -1,8 +1,8 @@
 ### 👷 The latest repos i've pushed to
 
-- [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(today)**
-- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(today)**
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(1 day ago)**
+- [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(1 day ago)**
+- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(1 day ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(2 days ago)**
 - [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(2 weeks ago)**
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(1 month ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 month ago)**
@@ -19,20 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#                5h 3m 50s   ███████████░░░░░░░░░░░░░░  42.43%
-Unity             4h 32m 0s   ██████████░░░░░░░░░░░░░░░  37.98%
-Markdown          38m 18s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.35%
-Unknown           33m 42s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.71%
-TypeScript        32m 45s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.57%
+C#                3h 28m 43s   ██████████░░░░░░░░░░░░░░░  39.72%
+Unity             3h 18m 0s    ██████████░░░░░░░░░░░░░░░  37.68%
+Markdown          38m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.29%
+TypeScript        32m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.23%
+Unknown           31m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.03%
 
 💼 Projects:
-FlashlightGame    5h 39m 4s   █████████████░░░░░░░░░░░░  48.98%
-Fallen Scout      4h 32m 0s   ██████████░░░░░░░░░░░░░░░  39.29%
-cv                42m 57s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.20%
-unknown           19m 29s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.81%
-KiCadFootprints   18m 43s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.70%
+FlashlightGame    4h 3m 57s    █████████████░░░░░░░░░░░░  48.44%
+Fallen Scout      3h 18m 0s    ██████████░░░░░░░░░░░░░░░  39.32%
+cv                42m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  8.53%
+KiCadFootprints   18m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.72%
 
-Total: 9 hrs 29 mins
+Total: 7 hrs 12 mins
 ```
 
 
