@@ -1,5 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
+- [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(today)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(2 days ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(2 days ago)**
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(3 days ago)**
@@ -7,32 +8,31 @@
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(1 month ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 month ago)**
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(1 month ago)**
-- [`packsonpacks-queue`](https://github.com/Lazylllama/packsonpacks-queue) - _""_ **(2 months ago)**
 
 ### ⌨️ My latest projects
 
+- [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_
 - [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_
-- [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_
 
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Unity             3h 38m 0s    ████████████░░░░░░░░░░░░░  46.14%
-C#                2h 44m 10s   █████████░░░░░░░░░░░░░░░░  34.75%
-Markdown          34m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.26%
-TypeScript        28m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.01%
-Unknown           27m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.85%
+unity             3h 38m 0s    ████████████░░░░░░░░░░░░░  45.37%
+C#                2h 44m 10s   █████████░░░░░░░░░░░░░░░░  34.17%
+unknown           35m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.42%
+Markdown          34m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
+TypeScript        28m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.91%
 
 💼 Projects:
-Fallen Scout      3h 38m 0s    ████████████░░░░░░░░░░░░░  46.73%
-FlashlightGame    3h 19m 24s   ███████████░░░░░░░░░░░░░░  42.74%
-cv                28m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.09%
-KiCadFootprints   18m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.01%
-unknown           2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.43%
+Fallen Scout      3h 38m 0s    ████████████░░░░░░░░░░░░░  45.94%
+FlashlightGame    3h 19m 24s   ███████████░░░░░░░░░░░░░░  42.02%
+cv                28m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.99%
+KiCadFootprints   18m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.94%
+unknown           10m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.11%
 
-Total: 6 hrs 51 mins
+Total: 6 hrs 59 mins
 ```
 
 
