@@ -1,9 +1,9 @@
 ### 👷 The latest repos i've pushed to
 
-- [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(3 days ago)**
-- [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(5 days ago)**
-- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(5 days ago)**
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(6 days ago)**
+- [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(4 days ago)**
+- [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(6 days ago)**
+- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(6 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(1 week ago)**
 - [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(3 weeks ago)**
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(1 month ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 month ago)**
@@ -19,18 +19,16 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity             4h 38m 0s    ██████████████░░░░░░░░░░░  52.42%
-C#                3h 32m 5s    ██████████░░░░░░░░░░░░░░░  39.99%
-unknown           24m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
-Markdown          15m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.94%
+unity            4h 22m 0s    ████████████████░░░░░░░░░  62.24%
+C#               2h 32m 57s   ██████████░░░░░░░░░░░░░░░  36.33%
+unknown          6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
 
 💼 Projects:
-Fallen Scout      4h 38m 0s    ██████████████░░░░░░░░░░░  52.62%
-FlashlightGame    3h 41m 36s   ███████████░░░░░░░░░░░░░░  41.94%
-KiCadFootprints   18m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.54%
-unknown           10m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.89%
+Fallen Scout     4h 22m 0s    ████████████████░░░░░░░░░  61.65%
+FlashlightGame   2h 32m 57s   █████████░░░░░░░░░░░░░░░░  35.99%
+unknown          10m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.35%
 
-Total: 7 hrs 20 mins
+Total: 5 hrs 38 mins
 ```
 
 
