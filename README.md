@@ -1,8 +1,8 @@
 ### 👷 The latest repos i've pushed to
 
-- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(today)**
-- [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(4 days ago)**
-- [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(6 days ago)**
+- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(1 day ago)**
+- [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(5 days ago)**
+- [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(1 week ago)**
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(1 week ago)**
 - [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(3 weeks ago)**
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(1 month ago)**
@@ -19,16 +19,16 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity            4h 22m 0s    ████████████████░░░░░░░░░  62.24%
-C#               2h 32m 57s   ██████████░░░░░░░░░░░░░░░  36.33%
-unknown          6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
+unity            2h 32m 0s   █████████████████░░░░░░░░  67.00%
+C#               1h 8m 52s   ████████░░░░░░░░░░░░░░░░░  30.36%
+unknown          6m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.64%
 
 💼 Projects:
-Fallen Scout     4h 22m 0s    ████████████████░░░░░░░░░  61.65%
-FlashlightGame   2h 32m 57s   █████████░░░░░░░░░░░░░░░░  35.99%
-unknown          10m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.35%
+Fallen Scout     2h 32m 0s   █████████████████░░░░░░░░  65.84%
+FlashlightGame   1h 8m 52s   ████████░░░░░░░░░░░░░░░░░  29.83%
+unknown          10m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.33%
 
-Total: 5 hrs 38 mins
+Total: 3 hrs 14 mins
 ```
 
 
