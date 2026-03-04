@@ -1,10 +1,10 @@
 ### 👷 The latest repos i've pushed to
 
-- [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(1 day ago)**
-- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(1 day ago)**
+- [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(2 days ago)**
+- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(2 days ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(1 week ago)**
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(1 week ago)**
-- [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(3 weeks ago)**
+- [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(4 weeks ago)**
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(1 month ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 month ago)**
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(2 months ago)**
@@ -19,16 +19,14 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity            2h 4m 0s     ███████████████░░░░░░░░░░  57.63%
-C#               1h 25m 11s   ██████████░░░░░░░░░░░░░░░  39.59%
-unknown          6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.79%
+unity            2h 4m 0s     ███████████████░░░░░░░░░░  59.28%
+C#               1h 25m 11s   ███████████░░░░░░░░░░░░░░  40.72%
 
 💼 Projects:
-Fallen Scout     2h 4m 0s     ███████████████░░░░░░░░░░  57.63%
-FlashlightGame   1h 25m 11s   ██████████░░░░░░░░░░░░░░░  39.59%
-unknown          6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.79%
+Fallen Scout     2h 4m 0s     ███████████████░░░░░░░░░░  59.28%
+FlashlightGame   1h 25m 11s   ███████████░░░░░░░░░░░░░░  40.72%
 
-Total: 2 hrs 49 mins
+Total: 2 hrs 41 mins
 ```
 
 
