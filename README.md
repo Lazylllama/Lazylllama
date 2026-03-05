@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(2 days ago)**
-- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(2 days ago)**
+- [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(3 days ago)**
+- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(3 days ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(1 week ago)**
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(1 week ago)**
 - [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(4 weeks ago)**
