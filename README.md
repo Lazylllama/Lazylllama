@@ -19,14 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity            2h 4m 0s    ███████████████░░░░░░░░░░  57.94%
-C#               1h 30m 1s   ███████████░░░░░░░░░░░░░░  42.06%
+unity              2h 4m 0s    ██████████░░░░░░░░░░░░░░░  39.87%
+C#                 1h 30m 1s   ████████░░░░░░░░░░░░░░░░░  28.95%
+TypeScript         51m 5s      █████░░░░░░░░░░░░░░░░░░░░  16.43%
+JSON               30m 36s     ███░░░░░░░░░░░░░░░░░░░░░░  9.84%
+unknown            6m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.20%
 
 💼 Projects:
-Fallen Scout     2h 4m 0s    ███████████████░░░░░░░░░░  57.94%
-FlashlightGame   1h 30m 1s   ███████████░░░░░░░░░░░░░░  42.06%
+Fallen Scout       2h 4m 0s    ███████████░░░░░░░░░░░░░░  43.90%
+FlashlightGame     1h 30m 1s   ████████░░░░░░░░░░░░░░░░░  31.87%
+beacon-api         36m 58s     ████░░░░░░░░░░░░░░░░░░░░░  13.09%
+beacon-dashboard   31m 29s     ███░░░░░░░░░░░░░░░░░░░░░░  11.15%
 
-Total: 2 hrs 46 mins
+Total: 3 hrs 59 mins
 ```
 
 
