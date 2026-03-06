@@ -1,9 +1,9 @@
 ### 👷 The latest repos i've pushed to
 
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(today)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(4 days ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(4 days ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(1 week ago)**
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(1 week ago)**
 - [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(1 month ago)**
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(1 month ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 month ago)**
@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity              2h 4m 0s    ██████████░░░░░░░░░░░░░░░  39.87%
-C#                 1h 30m 1s   ████████░░░░░░░░░░░░░░░░░  28.95%
-TypeScript         51m 5s      █████░░░░░░░░░░░░░░░░░░░░  16.43%
-JSON               30m 36s     ███░░░░░░░░░░░░░░░░░░░░░░  9.84%
-unknown            6m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.20%
+unity              3h 8m 0s     ████████████░░░░░░░░░░░░░  44.43%
+C#                 1h 51m 17s   ███████░░░░░░░░░░░░░░░░░░  26.30%
+TypeScript         1h 15m 59s   █████░░░░░░░░░░░░░░░░░░░░  17.96%
+JSON               32m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.70%
+unknown            6m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.62%
 
 💼 Projects:
-Fallen Scout       2h 4m 0s    ███████████░░░░░░░░░░░░░░  43.90%
-FlashlightGame     1h 30m 1s   ████████░░░░░░░░░░░░░░░░░  31.87%
-beacon-api         36m 58s     ████░░░░░░░░░░░░░░░░░░░░░  13.09%
-beacon-dashboard   31m 29s     ███░░░░░░░░░░░░░░░░░░░░░░  11.15%
+Fallen Scout       3h 8m 0s     ████████████░░░░░░░░░░░░░  47.47%
+FlashlightGame     1h 51m 17s   ████████░░░░░░░░░░░░░░░░░  28.10%
+beacon-dashboard   55m 46s      ████░░░░░░░░░░░░░░░░░░░░░  14.08%
+beacon-api         40m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  10.35%
 
-Total: 3 hrs 59 mins
+Total: 5 hrs 33 mins
 ```
 
 
