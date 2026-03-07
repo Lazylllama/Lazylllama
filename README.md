@@ -1,8 +1,8 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(today)**
-- [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(4 days ago)**
-- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(4 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(1 day ago)**
+- [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(5 days ago)**
+- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(5 days ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(1 week ago)**
 - [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(1 month ago)**
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(1 month ago)**
@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity              3h 8m 0s     ██████████░░░░░░░░░░░░░░░  37.96%
-TypeScript         2h 9m 58s    ███████░░░░░░░░░░░░░░░░░░  26.25%
-C#                 1h 51m 17s   ██████░░░░░░░░░░░░░░░░░░░  22.47%
-JSON               32m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.58%
-unknown            24m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
+TypeScript         2h 27m 17s   ██████████░░░░░░░░░░░░░░░  36.51%
+unity              2h 0m 0s     ████████░░░░░░░░░░░░░░░░░  29.75%
+C#                 1h 1m 46s    ████░░░░░░░░░░░░░░░░░░░░░  15.31%
+JSON               32m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  8.08%
+unknown            30m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.59%
 
 💼 Projects:
-Fallen Scout       3h 8m 0s     ███████████░░░░░░░░░░░░░░  41.18%
-beacon-dashboard   1h 54m 9s    ███████░░░░░░░░░░░░░░░░░░  25.01%
-FlashlightGame     1h 51m 17s   ███████░░░░░░░░░░░░░░░░░░  24.38%
-beacon-api         43m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  9.43%
+beacon-dashboard   2h 11m 28s   ██████████░░░░░░░░░░░░░░░  36.62%
+Fallen Scout       2h 0m 0s     █████████░░░░░░░░░░░░░░░░  33.42%
+FlashlightGame     1h 1m 46s    █████░░░░░░░░░░░░░░░░░░░░  17.20%
+beacon-api         45m 47s      ████░░░░░░░░░░░░░░░░░░░░░  12.75%
 
-Total: 6 hrs 32 mins
+Total: 5 hrs 21 mins
 ```
 
 
