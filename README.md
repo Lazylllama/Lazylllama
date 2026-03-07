@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript         2h 27m 17s   ██████████░░░░░░░░░░░░░░░  36.51%
-unity              2h 0m 0s     ████████░░░░░░░░░░░░░░░░░  29.75%
-C#                 1h 1m 46s    ████░░░░░░░░░░░░░░░░░░░░░  15.31%
-JSON               32m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  8.08%
-unknown            30m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.59%
+TypeScript         2h 52m 49s   ███████████░░░░░░░░░░░░░░  40.07%
+unity              2h 0m 0s     ███████░░░░░░░░░░░░░░░░░░  27.82%
+C#                 1h 1m 46s    ████░░░░░░░░░░░░░░░░░░░░░  14.32%
+JSON               32m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.56%
+unknown            30m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.10%
 
 💼 Projects:
-beacon-dashboard   2h 11m 28s   ██████████░░░░░░░░░░░░░░░  36.62%
-Fallen Scout       2h 0m 0s     █████████░░░░░░░░░░░░░░░░  33.42%
-FlashlightGame     1h 1m 46s    █████░░░░░░░░░░░░░░░░░░░░  17.20%
-beacon-api         45m 47s      ████░░░░░░░░░░░░░░░░░░░░░  12.75%
+beacon-dashboard   2h 37m 1s    ███████████░░░░░░░░░░░░░░  40.83%
+Fallen Scout       2h 0m 0s     ████████░░░░░░░░░░░░░░░░░  31.20%
+FlashlightGame     1h 1m 46s    █████░░░░░░░░░░░░░░░░░░░░  16.06%
+beacon-api         45m 47s      ███░░░░░░░░░░░░░░░░░░░░░░  11.91%
 
-Total: 5 hrs 21 mins
+Total: 5 hrs 46 mins
 ```
 
 
