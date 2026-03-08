@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript         5h 48m 40s   ██████████████░░░░░░░░░░░  52.22%
-unity              2h 0m 0s     █████░░░░░░░░░░░░░░░░░░░░  17.97%
-JSON               1h 10m 44s   ███░░░░░░░░░░░░░░░░░░░░░░  10.59%
-C#                 1h 1m 46s    ███░░░░░░░░░░░░░░░░░░░░░░  9.25%
-unknown            42m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.44%
+TypeScript         5h 53m 0s    ██████████████░░░░░░░░░░░  52.02%
+unity              2h 0m 0s     █████░░░░░░░░░░░░░░░░░░░░  17.68%
+JSON               1h 12m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  10.73%
+C#                 1h 1m 46s    ███░░░░░░░░░░░░░░░░░░░░░░  9.10%
+unknown            47m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
 
 💼 Projects:
-beacon-dashboard   3h 23m 49s   █████████░░░░░░░░░░░░░░░░  33.25%
-beacon-api         2h 53m 52s   ████████░░░░░░░░░░░░░░░░░  28.36%
-Fallen Scout       2h 0m 0s     █████░░░░░░░░░░░░░░░░░░░░  19.58%
-FlashlightGame     1h 1m 46s    ███░░░░░░░░░░░░░░░░░░░░░░  10.08%
-beacon-fivem       45m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.40%
+beacon-dashboard   3h 25m 2s    █████████░░░░░░░░░░░░░░░░  32.94%
+beacon-api         2h 55m 20s   ████████░░░░░░░░░░░░░░░░░  28.17%
+Fallen Scout       2h 0m 0s     █████░░░░░░░░░░░░░░░░░░░░  19.28%
+FlashlightGame     1h 1m 46s    ███░░░░░░░░░░░░░░░░░░░░░░  9.92%
+beacon-fivem       49m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.95%
 
-Total: 8 hrs 56 mins
+Total: 9 hrs 3 mins
 ```
 
 
