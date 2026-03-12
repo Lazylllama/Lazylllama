@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(2 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(3 days ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(1 week ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(1 week ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(2 weeks ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript         6h 50m 56s   ████████████░░░░░░░░░░░░░  46.53%
-unity              2h 38m 0s    █████░░░░░░░░░░░░░░░░░░░░  17.89%
-JSON               1h 45m 18s   ███░░░░░░░░░░░░░░░░░░░░░░  11.92%
-C#                 1h 41m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  11.50%
-unknown            1h 12m 55s   ███░░░░░░░░░░░░░░░░░░░░░░  8.26%
+TypeScript         8h 19m 56s   █████████████░░░░░░░░░░░░  48.61%
+unity              2h 38m 0s    ████░░░░░░░░░░░░░░░░░░░░░  15.36%
+JSON               1h 56m 56s   ███░░░░░░░░░░░░░░░░░░░░░░  11.37%
+C#                 1h 36m 44s   ███░░░░░░░░░░░░░░░░░░░░░░  9.40%
+unknown            1h 24m 9s    ███░░░░░░░░░░░░░░░░░░░░░░  8.18%
 
 💼 Projects:
-beacon-dashboard   3h 35m 1s    ███████░░░░░░░░░░░░░░░░░░  27.58%
-beacon-api         2h 55m 20s   ██████░░░░░░░░░░░░░░░░░░░  22.49%
-Fallen Scout       2h 38m 0s    ██████░░░░░░░░░░░░░░░░░░░  20.27%
-FlashlightGame     1h 41m 35s   ████░░░░░░░░░░░░░░░░░░░░░  13.03%
-lcp-app            1h 11m 49s   ███░░░░░░░░░░░░░░░░░░░░░░  9.21%
+beacon-dashboard   3h 35m 1s    ███████░░░░░░░░░░░░░░░░░░  24.79%
+beacon-api         2h 55m 20s   ██████░░░░░░░░░░░░░░░░░░░  20.21%
+lcp-app            2h 44m 41s   █████░░░░░░░░░░░░░░░░░░░░  18.98%
+Fallen Scout       2h 38m 0s    █████░░░░░░░░░░░░░░░░░░░░  18.21%
+FlashlightGame     1h 36m 44s   ███░░░░░░░░░░░░░░░░░░░░░░  11.15%
 
-Total: 11 hrs 7 mins
+Total: 12 hrs 35 mins
 ```
 
 
