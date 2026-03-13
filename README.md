@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(3 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(4 days ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(1 week ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(1 week ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(2 weeks ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript         9h 38m 15s   █████████████░░░░░░░░░░░░  50.88%
-unity              2h 38m 0s    ████░░░░░░░░░░░░░░░░░░░░░  13.90%
-JSON               2h 13m 17s   ███░░░░░░░░░░░░░░░░░░░░░░  11.73%
-C#                 1h 36m 44s   ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
-unknown            1h 33m 23s   ███░░░░░░░░░░░░░░░░░░░░░░  8.22%
+TypeScript         10h 24m 47s   ██████████████░░░░░░░░░░░  52.39%
+unity              2h 38m 0s     ████░░░░░░░░░░░░░░░░░░░░░  13.25%
+JSON               2h 13m 17s    ███░░░░░░░░░░░░░░░░░░░░░░  11.18%
+unknown            1h 40m 59s    ███░░░░░░░░░░░░░░░░░░░░░░  8.47%
+C#                 1h 36m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  8.11%
 
 💼 Projects:
-lcp-app            4h 6m 41s    ███████░░░░░░░░░░░░░░░░░░  25.98%
-beacon-dashboard   3h 35m 1s    ██████░░░░░░░░░░░░░░░░░░░  22.65%
-beacon-api         2h 55m 20s   █████░░░░░░░░░░░░░░░░░░░░  18.47%
-Fallen Scout       2h 38m 0s    █████░░░░░░░░░░░░░░░░░░░░  16.64%
-FlashlightGame     1h 36m 44s   ███░░░░░░░░░░░░░░░░░░░░░░  10.19%
+lcp-app            4h 57m 54s    ████████░░░░░░░░░░░░░░░░░  29.77%
+beacon-dashboard   3h 35m 1s     ██████░░░░░░░░░░░░░░░░░░░  21.49%
+beacon-api         2h 55m 20s    █████░░░░░░░░░░░░░░░░░░░░  17.52%
+Fallen Scout       2h 38m 0s     ████░░░░░░░░░░░░░░░░░░░░░  15.79%
+FlashlightGame     1h 36m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  9.67%
 
-Total: 13 hrs 57 mins
+Total: 14 hrs 49 mins
 ```
 
 
