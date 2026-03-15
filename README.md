@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(1 day ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(2 days ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(1 week ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(1 week ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(2 weeks ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript         11h 22m 4s   ██████████████░░░░░░░░░░░  52.18%
-unity              3h 2m 0s     ████░░░░░░░░░░░░░░░░░░░░░  13.92%
-C#                 2h 16m 56s   ███░░░░░░░░░░░░░░░░░░░░░░  10.48%
-JSON               1h 59m 6s    ███░░░░░░░░░░░░░░░░░░░░░░  9.11%
-unknown            1h 52m 28s   ███░░░░░░░░░░░░░░░░░░░░░░  8.60%
+TypeScript         8h 28m 23s   ████████████░░░░░░░░░░░░░  45.41%
+unity              3h 2m 0s     █████░░░░░░░░░░░░░░░░░░░░  16.26%
+C#                 2h 16m 56s   ████░░░░░░░░░░░░░░░░░░░░░  12.23%
+JSON               1h 40m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  9.02%
+unknown            1h 39m 51s   ███░░░░░░░░░░░░░░░░░░░░░░  8.92%
 
 💼 Projects:
-lcp-app            8h 28m 37s   ████████████░░░░░░░░░░░░░  45.64%
-Fallen Scout       3h 2m 0s     █████░░░░░░░░░░░░░░░░░░░░  16.33%
-FlashlightGame     2h 16m 56s   ████░░░░░░░░░░░░░░░░░░░░░  12.29%
-beacon-api         2h 10m 17s   ███░░░░░░░░░░░░░░░░░░░░░░  11.69%
-beacon-dashboard   1h 38m 52s   ███░░░░░░░░░░░░░░░░░░░░░░  8.87%
+lcp-app            9h 22m 29s   ████████████████░░░░░░░░░  61.68%
+Fallen Scout       3h 2m 0s     █████░░░░░░░░░░░░░░░░░░░░  19.96%
+FlashlightGame     2h 16m 56s   ████░░░░░░░░░░░░░░░░░░░░░  15.02%
+beacon-dashboard   23m 53s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.62%
+beacon-api         4m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.49%
 
-Total: 16 hrs 24 mins
+Total: 13 hrs 42 mins
 ```
 
 
