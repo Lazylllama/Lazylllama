@@ -1,12 +1,12 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(today)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(1 day ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(2 weeks ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(2 weeks ago)**
-- [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(2 weeks ago)**
+- [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(3 weeks ago)**
 - [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(1 month ago)**
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(1 month ago)**
-- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(1 month ago)**
+- [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(2 months ago)**
 - [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(2 months ago)**
 
 ### ⌨️ My latest projects
@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript       9h 17m 23s    ███████████░░░░░░░░░░░░░░  42.54%
-unity            3h 52m 0s     █████░░░░░░░░░░░░░░░░░░░░  17.70%
-C#               2h 37m 15s    ███░░░░░░░░░░░░░░░░░░░░░░  12.00%
-unknown          1h 59m 4s     ███░░░░░░░░░░░░░░░░░░░░░░  9.09%
-JSON             1h 53m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
+TypeScript       9h 17m 23s    █████████████░░░░░░░░░░░░  48.24%
+unity            2h 22m 0s     ████░░░░░░░░░░░░░░░░░░░░░  12.29%
+unknown          1h 59m 4s     ███░░░░░░░░░░░░░░░░░░░░░░  10.31%
+JSON             1h 53m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  9.79%
+C#               1h 32m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.98%
 
 💼 Projects:
-lcp-app          11h 30m 30s   ████████████████░░░░░░░░░  63.51%
-Fallen Scout     3h 52m 0s     ██████░░░░░░░░░░░░░░░░░░░  21.34%
-FlashlightGame   2h 37m 15s    ████░░░░░░░░░░░░░░░░░░░░░  14.46%
-.claude          7m 28s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.69%
+lcp-app          11h 30m 30s   ███████████████████░░░░░░  74.08%
+Fallen Scout     2h 22m 0s     ████░░░░░░░░░░░░░░░░░░░░░  15.23%
+FlashlightGame   1h 32m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  9.89%
+.claude          7m 28s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.80%
 
-Total: 16 hrs 34 mins
+Total: 14 hrs 43 mins
 ```
 
 
