@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(today)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(1 day ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(2 weeks ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(2 weeks ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(3 weeks ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript       9h 55m 58s   ████████████░░░░░░░░░░░░░  47.07%
-unity            2h 40m 0s    ████░░░░░░░░░░░░░░░░░░░░░  12.64%
-unknown          2h 24m 56s   ███░░░░░░░░░░░░░░░░░░░░░░  11.45%
-JSON             2h 5m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  9.88%
-C#               1h 34m 11s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.44%
+TypeScript       10h 1m 58s   █████████████░░░░░░░░░░░░  48.02%
+unity            2h 34m 0s    ████░░░░░░░░░░░░░░░░░░░░░  12.28%
+unknown          2h 24m 56s   ███░░░░░░░░░░░░░░░░░░░░░░  11.56%
+JSON             2h 5m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  9.98%
+C#               1h 21m 46s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.52%
 
 💼 Projects:
-lcp-app          12h 31m 6s   ███████████████████░░░░░░  73.59%
-Fallen Scout     2h 40m 0s    ████░░░░░░░░░░░░░░░░░░░░░  15.68%
-FlashlightGame   1h 34m 11s   ███░░░░░░░░░░░░░░░░░░░░░░  9.23%
-.claude          7m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.73%
-unknown          5m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.56%
+lcp-app          12h 37m 6s   ███████████████████░░░░░░  75.09%
+Fallen Scout     2h 34m 0s    ████░░░░░░░░░░░░░░░░░░░░░  15.27%
+FlashlightGame   1h 21m 46s   ███░░░░░░░░░░░░░░░░░░░░░░  8.11%
+.claude          7m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.74%
+unknown          5m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.57%
 
-Total: 16 hrs 13 mins
+Total: 16 hrs 4 mins
 ```
 
 
