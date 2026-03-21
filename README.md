@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(today)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(1 day ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(2 weeks ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(2 weeks ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(3 weeks ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript       8h 58m 30s    ███████████░░░░░░░░░░░░░░  42.91%
-unknown          2h 39m 41s    ████░░░░░░░░░░░░░░░░░░░░░  12.72%
-unity            2h 34m 0s     ████░░░░░░░░░░░░░░░░░░░░░  12.27%
-JSON             2h 26m 50s    ███░░░░░░░░░░░░░░░░░░░░░░  11.70%
-Markdown         1h 31m 57s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.33%
+TypeScript       7h 34m 13s   ████████████░░░░░░░░░░░░░  45.18%
+unknown          2h 27m 50s   ████░░░░░░░░░░░░░░░░░░░░░  14.70%
+JSON             2h 24m 50s   ████░░░░░░░░░░░░░░░░░░░░░  14.41%
+Markdown         1h 31m 57s   ███░░░░░░░░░░░░░░░░░░░░░░  9.15%
+unity            1h 6m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.56%
 
 💼 Projects:
-lcp-app          12h 56m 32s   ███████████████████░░░░░░  75.41%
-Fallen Scout     2h 34m 0s     ████░░░░░░░░░░░░░░░░░░░░░  14.96%
-FlashlightGame   1h 21m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.94%
-unknown          7m 43s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.75%
-.claude          7m 28s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.73%
+lcp-app          11h 25m 0s   ██████████████████████░░░  86.85%
+Fallen Scout     1h 6m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  8.37%
+FlashlightGame   20m 19s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.58%
+unknown          7m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.98%
+.claude          7m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.95%
 
-Total: 16 hrs 23 mins
+Total: 13 hrs 1 mins
 ```
 
 
