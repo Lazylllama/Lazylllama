@@ -1,8 +1,8 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(2 days ago)**
-- [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(2 weeks ago)**
-- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(2 weeks ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(3 days ago)**
+- [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(3 weeks ago)**
+- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(3 weeks ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(3 weeks ago)**
 - [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(1 month ago)**
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(2 months ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript       6h 57m 57s    ████████████░░░░░░░░░░░░░  44.36%
-JSON             2h 29m 39s    ████░░░░░░░░░░░░░░░░░░░░░  15.88%
-unknown          2h 1m 55s     ████░░░░░░░░░░░░░░░░░░░░░  12.94%
-Markdown         1h 28m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  9.35%
-unity            1h 6m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
+TypeScript       5h 28m 37s   █████████████░░░░░░░░░░░░  49.08%
+JSON             1h 26m 51s   ████░░░░░░░░░░░░░░░░░░░░░  12.97%
+unknown          1h 18m 24s   ███░░░░░░░░░░░░░░░░░░░░░░  11.71%
+unity            1h 6m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  9.86%
+Shell            37m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.53%
 
 💼 Projects:
-lcp-app          10h 47m 21s   ██████████████████████░░░  86.19%
-Fallen Scout     1h 6m 0s      ███░░░░░░░░░░░░░░░░░░░░░░  8.79%
-FlashlightGame   20m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.70%
-unknown          7m 43s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.03%
-.claude          7m 28s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.99%
+lcp-app          7h 38m 37s   █████████████████████░░░░  81.55%
+Fallen Scout     1h 6m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  11.74%
+FlashlightGame   20m 19s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
+unknown          7m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.37%
+.claude          7m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.33%
 
-Total: 12 hrs 24 mins
+Total: 9 hrs 15 mins
 ```
 
 
