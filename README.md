@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(3 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(today)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(3 weeks ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(3 weeks ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(3 weeks ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript       5h 28m 37s   ████████████░░░░░░░░░░░░░  45.51%
-unity            1h 36m 0s    ████░░░░░░░░░░░░░░░░░░░░░  13.29%
-JSON             1h 26m 51s   ████░░░░░░░░░░░░░░░░░░░░░  12.03%
-unknown          1h 18m 24s   ███░░░░░░░░░░░░░░░░░░░░░░  10.86%
-C#               42m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.94%
+TypeScript       5h 28m 37s   ███████████░░░░░░░░░░░░░░  40.69%
+unity            2h 14m 0s    █████░░░░░░░░░░░░░░░░░░░░  16.59%
+C#               1h 30m 18s   ███░░░░░░░░░░░░░░░░░░░░░░  11.18%
+JSON             1h 26m 51s   ███░░░░░░░░░░░░░░░░░░░░░░  10.75%
+unknown          1h 18m 24s   ███░░░░░░░░░░░░░░░░░░░░░░  9.71%
 
 💼 Projects:
-lcp-app          7h 38m 37s   ███████████████████░░░░░░  74.58%
-Fallen Scout     1h 36m 0s    ████░░░░░░░░░░░░░░░░░░░░░  15.61%
-FlashlightGame   42m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.97%
-unknown          7m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.25%
-.claude          7m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.21%
+lcp-app          7h 38m 37s   █████████████████░░░░░░░░  65.48%
+Fallen Scout     2h 14m 0s    █████░░░░░░░░░░░░░░░░░░░░  19.13%
+FlashlightGame   1h 30m 18s   ████░░░░░░░░░░░░░░░░░░░░░  12.89%
+unknown          7m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.10%
+.claude          7m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.07%
 
-Total: 9 hrs 52 mins
+Total: 11 hrs 2 mins
 ```
 
 
