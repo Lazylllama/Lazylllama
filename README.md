@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(1 day ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"DIGA1 Grupp 4 - Fallen Scout"_ **(today)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(3 weeks ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(3 weeks ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(4 weeks ago)**
@@ -19,18 +19,18 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript       7h 37m 57s   ███████████░░░░░░░░░░░░░░  42.10%
-unity            4h 34m 0s    ███████░░░░░░░░░░░░░░░░░░  25.19%
-C#               2h 12m 0s    ████░░░░░░░░░░░░░░░░░░░░░  12.13%
-JSON             1h 16m 57s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.07%
-unknown          45m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.20%
+TypeScript       7h 37m 57s   ██████████░░░░░░░░░░░░░░░  37.84%
+unity            5h 24m 0s    ███████░░░░░░░░░░░░░░░░░░  26.77%
+C#               3h 20m 27s   █████░░░░░░░░░░░░░░░░░░░░  16.56%
+JSON             1h 16m 57s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.36%
+unknown          45m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.77%
 
 💼 Projects:
-lcp-app          9h 30m 37s   ███████████████░░░░░░░░░░  58.35%
-Fallen Scout     4h 34m 0s    ████████░░░░░░░░░░░░░░░░░  28.02%
-FlashlightGame   2h 13m 17s   ████░░░░░░░░░░░░░░░░░░░░░  13.63%
+lcp-app          9h 30m 37s   ██████████████░░░░░░░░░░░  52.05%
+Fallen Scout     5h 24m 0s    ████████░░░░░░░░░░░░░░░░░  29.55%
+FlashlightGame   3h 21m 44s   █████░░░░░░░░░░░░░░░░░░░░  18.40%
 
-Total: 14 hrs 54 mins
+Total: 16 hrs 17 mins
 ```
 
 
