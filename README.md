@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity                    19h 20m 0s    ███████████████░░░░░░░░░░  57.54%
-C#                       12h 10m 11s   ██████████░░░░░░░░░░░░░░░  36.22%
-unknown                  42m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.10%
-TypeScript               29m 23s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.46%
-JSON                     16m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.83%
+unity                    19h 24m 0s    ███████████████░░░░░░░░░░  57.63%
+C#                       12h 10m 11s   ██████████░░░░░░░░░░░░░░░  36.15%
+unknown                  42m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.09%
+TypeScript               29m 23s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.45%
+JSON                     16m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.82%
 
 💼 Projects:
-Fallen Scout             19h 20m 0s    ███████████████░░░░░░░░░░  57.29%
-FlashlightGame           12h 28m 11s   ██████████░░░░░░░░░░░░░░░  36.95%
-fallen-interactive-web   58m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.89%
+Fallen Scout             19h 24m 0s    ███████████████░░░░░░░░░░  57.37%
+FlashlightGame           12h 28m 11s   ██████████░░░░░░░░░░░░░░░  36.88%
+fallen-interactive-web   58m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.88%
 unknown                  37m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.87%
 SourceRepo               6m 33s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.32%
 
-Total: 27 hrs 12 mins
+Total: 27 hrs 16 mins
 ```
 
 
