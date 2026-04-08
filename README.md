@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity                    16h 34m 0s   ███████████████░░░░░░░░░░  56.99%
-C#                       9h 16m 17s   ████████░░░░░░░░░░░░░░░░░  31.90%
-unknown                  1h 25m 6s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.88%
-TypeScript               29m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.68%
-GLSL                     24m 40s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.41%
+unity                    17h 14m 0s   ███████████████░░░░░░░░░░  56.77%
+C#                       9h 38m 10s   ████████░░░░░░░░░░░░░░░░░  31.75%
+unknown                  1h 40m 27s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.52%
+TypeScript               29m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.61%
+GLSL                     24m 40s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.35%
 
 💼 Projects:
-Fallen Scout             16h 34m 0s   ███████████████░░░░░░░░░░  58.44%
-FlashlightGame           9h 46m 47s   █████████░░░░░░░░░░░░░░░░  34.50%
-fallen-interactive-web   58m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
-llama-shadermc           43m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.56%
-SourceRepo               6m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.39%
+Fallen Scout             17h 14m 0s   ███████████████░░░░░░░░░░  58.15%
+FlashlightGame           10h 24m 0s   █████████░░░░░░░░░░░░░░░░  35.09%
+fallen-interactive-web   58m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.29%
+llama-shadermc           43m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.45%
+SourceRepo               6m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.37%
 
-Total: 22 hrs 56 mins
+Total: 23 hrs 59 mins
 ```
 
 
