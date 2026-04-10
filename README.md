@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity                    21h 0m 0s    ███████████████░░░░░░░░░░  56.41%
-C#                       12h 6m 37s   █████████░░░░░░░░░░░░░░░░  32.53%
-unknown                  2h 5m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
-TypeScript               34m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.53%
-GLSL                     24m 40s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.10%
+unity                    19h 22m 0s    ██████████████░░░░░░░░░░░  55.17%
+C#                       11h 37m 31s   █████████░░░░░░░░░░░░░░░░  33.11%
+unknown                  2h 5m 42s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
+TypeScript               34m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.63%
+GLSL                     24m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.17%
 
 💼 Projects:
-Fallen Scout             21h 3m 12s   ███████████████░░░░░░░░░░  58.25%
-FlashlightGame           13h 0m 24s   █████████░░░░░░░░░░░░░░░░  35.99%
-fallen-interactive-web   58m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.70%
-llama-shadermc           43m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
-UnityPackages            14m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.66%
+Fallen Scout             19h 25m 12s   ███████████████░░░░░░░░░░  57.14%
+FlashlightGame           12h 31m 17s   ██████████░░░░░░░░░░░░░░░  36.84%
+fallen-interactive-web   58m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.87%
+llama-shadermc           43m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.13%
+UnityPackages            12m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.60%
 
-Total: 29 hrs 2 mins
+Total: 27 hrs 5 mins
 ```
 
 
