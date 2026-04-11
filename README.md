@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 day ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(today)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(1 month ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(1 month ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity                    18h 46m 0s    ██████████████░░░░░░░░░░░  55.62%
-C#                       11h 24m 52s   █████████░░░░░░░░░░░░░░░░  33.83%
-unknown                  1h 57m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.78%
-TypeScript               26m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.31%
-GLSL                     24m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.22%
+unity                    20h 0m 0s     ██████████████░░░░░░░░░░░  55.34%
+C#                       12h 35m 6s    █████████░░░░░░░░░░░░░░░░  34.82%
+unknown                  1h 57m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.40%
+TypeScript               26m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.22%
+GLSL                     24m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.14%
 
 💼 Projects:
-Fallen Scout             18h 49m 12s   ███████████████░░░░░░░░░░  57.36%
-FlashlightGame           12h 9m 0s     ██████████░░░░░░░░░░░░░░░  37.03%
-fallen-interactive-web   46m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.34%
-llama-shadermc           43m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.21%
-UnityPackages            12m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.62%
+Fallen Scout             20h 3m 12s    ███████████████░░░░░░░░░░  56.94%
+FlashlightGame           13h 19m 14s   ██████████░░░░░░░░░░░░░░░  37.82%
+fallen-interactive-web   46m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.18%
+llama-shadermc           43m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.06%
+UnityPackages            12m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.58%
 
-Total: 26 hrs 5 mins
+Total: 27 hrs 41 mins
 ```
 
 
