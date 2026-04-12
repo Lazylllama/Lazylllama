@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity            30h 14m 0s    ████████████████░░░░░░░░░  62.51%
-C#               15h 43m 46s   █████████░░░░░░░░░░░░░░░░  32.52%
+unity            30h 14m 0s    ████████████████░░░░░░░░░  62.42%
+C#               15h 43m 46s   █████████░░░░░░░░░░░░░░░░  32.48%
 unknown          1h 25m 41s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.95%
 GLSL             24m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.85%
-Csproj           11m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.40%
+Csproj           11m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.39%
 
 💼 Projects:
-Fallen Scout     30h 17m 12s   ████████████████░░░░░░░░░  63.48%
-FlashlightGame   16h 13m 44s   █████████░░░░░░░░░░░░░░░░  34.01%
+Fallen Scout     30h 17m 12s   ████████████████░░░░░░░░░  63.43%
+FlashlightGame   16h 13m 44s   █████████░░░░░░░░░░░░░░░░  33.99%
 llama-shadermc   43m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.52%
 UnityPackages    19m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.66%
 unknown          5m 50s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.20%
 
-Total: 37 hrs 30 mins
+Total: 37 hrs 34 mins
 ```
 
 
