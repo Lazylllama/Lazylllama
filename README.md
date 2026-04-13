@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity            28h 16m 0s    ████████████████░░░░░░░░░  62.70%
-C#               14h 29m 29s   █████████░░░░░░░░░░░░░░░░  32.15%
+unity            28h 16m 0s    ████████████████░░░░░░░░░  62.66%
+C#               14h 29m 29s   █████████░░░░░░░░░░░░░░░░  32.12%
 unknown          1h 9m 20s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.56%
-TypeScript       41m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.52%
+TypeScript       43m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.60%
 Csproj           11m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.42%
 
 💼 Projects:
-Fallen Scout     28h 19m 12s   ████████████████░░░░░░░░░  63.74%
-FlashlightGame   14h 52m 10s   █████████░░░░░░░░░░░░░░░░  33.47%
-lcp-app          45m 57s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.72%
+Fallen Scout     28h 19m 12s   ████████████████░░░░░░░░░  63.70%
+FlashlightGame   14h 52m 10s   █████████░░░░░░░░░░░░░░░░  33.44%
+lcp-app          47m 57s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.80%
 UnityPackages    19m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.71%
 unknown          5m 50s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.22%
 
-Total: 35 hrs 18 mins
+Total: 35 hrs 20 mins
 ```
 
 
