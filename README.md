@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(today)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 day ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(1 month ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(1 month ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity            26h 24m 0s    ███████████████░░░░░░░░░░  59.41%
-C#               13h 44m 57s   ████████░░░░░░░░░░░░░░░░░  30.94%
-TypeScript       2h 27m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.55%
-unknown          1h 18m 39s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.95%
-Csproj           11m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.43%
+unity            24h 46m 0s    ███████████████░░░░░░░░░░  59.26%
+C#               12h 50m 57s   ████████░░░░░░░░░░░░░░░░░  30.74%
+TypeScript       2h 27m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.90%
+unknown          1h 18m 39s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.14%
+Csproj           6m 57s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.28%
 
 💼 Projects:
-Fallen Scout     26h 27m 12s   ████████████████░░░░░░░░░  60.68%
-FlashlightGame   14h 7m 38s    █████████░░░░░░░░░░░░░░░░  32.40%
-lcp-app          2h 32m 36s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.83%
-UnityPackages    19m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.73%
-unknown          5m 50s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.22%
+Fallen Scout     24h 49m 12s   ████████████████░░░░░░░░░  60.59%
+FlashlightGame   13h 11m 36s   █████████░░░░░░░░░░░░░░░░  32.21%
+lcp-app          2h 32m 36s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.21%
+UnityPackages    15m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.61%
+unknown          5m 50s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.24%
 
-Total: 35 hrs 4 mins
+Total: 32 hrs 46 mins
 ```
 
 
