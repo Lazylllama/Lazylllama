@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 day ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(2 days ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(1 month ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(1 month ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity            18h 54m 0s   ████████████████░░░░░░░░░  61.18%
-C#               8h 52m 53s   ████████░░░░░░░░░░░░░░░░░  28.75%
-TypeScript       2h 23m 3s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.72%
-unknown          35m 46s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.93%
-INI              3m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.21%
+unity            14h 32m 0s   ████████████████░░░░░░░░░  62.68%
+C#               5h 32m 26s   ██████░░░░░░░░░░░░░░░░░░░  23.90%
+TypeScript       2h 23m 3s    ███░░░░░░░░░░░░░░░░░░░░░░  10.28%
+unknown          35m 46s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.57%
+INI              3m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.28%
 
 💼 Projects:
-Fallen Scout     18h 54m 0s   ████████████████░░░░░░░░░  62.10%
-FlashlightGame   8h 48m 54s   ████████░░░░░░░░░░░░░░░░░  28.96%
-lcp-app          2h 32m 36s   ███░░░░░░░░░░░░░░░░░░░░░░  8.36%
-unknown          5m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.32%
-UnityPackages    4m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.26%
+Fallen Scout     14h 32m 0s   ████████████████░░░░░░░░░  63.94%
+FlashlightGame   5h 28m 28s   ███████░░░░░░░░░░░░░░░░░░  24.09%
+lcp-app          2h 32m 36s   ███░░░░░░░░░░░░░░░░░░░░░░  11.19%
+unknown          5m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.43%
+UnityPackages    4m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.35%
 
-Total: 24 hrs 29 mins
+Total: 18 hrs 42 mins
 ```
 
 
