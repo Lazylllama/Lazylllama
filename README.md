@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(2 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(today)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(1 month ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(1 month ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity            14h 32m 0s   ████████████████░░░░░░░░░  62.68%
-C#               5h 32m 26s   ██████░░░░░░░░░░░░░░░░░░░  23.90%
-TypeScript       2h 23m 3s    ███░░░░░░░░░░░░░░░░░░░░░░  10.28%
-unknown          35m 46s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.57%
-INI              3m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.28%
+unity            14h 40m 0s   ████████████████░░░░░░░░░  62.11%
+C#               5h 48m 5s    ███████░░░░░░░░░░░░░░░░░░  24.57%
+TypeScript       2h 23m 3s    ███░░░░░░░░░░░░░░░░░░░░░░  10.10%
+unknown          35m 46s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.52%
+INI              5m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.41%
 
 💼 Projects:
-Fallen Scout     14h 32m 0s   ████████████████░░░░░░░░░  63.94%
-FlashlightGame   5h 28m 28s   ███████░░░░░░░░░░░░░░░░░░  24.09%
-lcp-app          2h 32m 36s   ███░░░░░░░░░░░░░░░░░░░░░░  11.19%
-unknown          5m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.43%
-UnityPackages    4m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.35%
+Fallen Scout     14h 40m 0s   ████████████████░░░░░░░░░  63.25%
+FlashlightGame   5h 44m 7s    ███████░░░░░░░░░░░░░░░░░░  24.73%
+lcp-app          2h 32m 36s   ███░░░░░░░░░░░░░░░░░░░░░░  10.97%
+unknown          7m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.56%
+UnityPackages    6m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.49%
 
-Total: 18 hrs 42 mins
+Total: 19 hrs 2 mins
 ```
 
 
