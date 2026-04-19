@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(today)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 day ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(1 month ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(1 month ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity            15h 56m 0s   ████████████████░░░░░░░░░  61.54%
-C#               6h 44m 33s   ███████░░░░░░░░░░░░░░░░░░  26.04%
-TypeScript       2h 23m 3s    ███░░░░░░░░░░░░░░░░░░░░░░  9.21%
-unknown          35m 46s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.30%
-INI              10m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.66%
+unity                    10h 12m 0s   ██████████████░░░░░░░░░░░  55.21%
+C#                       4h 9m 20s    ██████░░░░░░░░░░░░░░░░░░░  22.49%
+TypeScript               2h 58m 15s   █████░░░░░░░░░░░░░░░░░░░░  16.08%
+unknown                  39m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.54%
+INI                      10m 39s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.96%
 
 💼 Projects:
-Fallen Scout     15h 56m 0s   ████████████████░░░░░░░░░  62.56%
-FlashlightGame   6h 40m 34s   ███████░░░░░░░░░░░░░░░░░░  26.21%
-lcp-app          2h 32m 36s   ███░░░░░░░░░░░░░░░░░░░░░░  9.99%
-unknown          12m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.80%
-UnityPackages    6m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.44%
+Fallen Scout             10h 12m 0s   ███████████████░░░░░░░░░░  57.48%
+FlashlightGame           4h 9m 20s    ██████░░░░░░░░░░░░░░░░░░░  23.42%
+lcp-app                  3h 4m 22s    █████░░░░░░░░░░░░░░░░░░░░  17.31%
+fallen-interactive-web   12m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.20%
+unknown                  6m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.60%
 
-Total: 20 hrs 40 mins
+Total: 14 hrs 54 mins
 ```
 
 
