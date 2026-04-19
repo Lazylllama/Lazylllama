@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 day ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(today)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(1 month ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(1 month ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity                    10h 12m 0s   ██████████████░░░░░░░░░░░  55.21%
-C#                       4h 9m 20s    ██████░░░░░░░░░░░░░░░░░░░  22.49%
-TypeScript               2h 58m 15s   █████░░░░░░░░░░░░░░░░░░░░  16.08%
-unknown                  39m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.54%
-INI                      10m 39s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.96%
+unity                    10h 26m 0s   ██████████████░░░░░░░░░░░  55.01%
+C#                       4h 9m 20s    ██████░░░░░░░░░░░░░░░░░░░  21.91%
+TypeScript               3h 9m 45s    █████░░░░░░░░░░░░░░░░░░░░  16.67%
+unknown                  43m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.80%
+INI                      10m 39s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.94%
 
 💼 Projects:
-Fallen Scout             10h 12m 0s   ███████████████░░░░░░░░░░  57.48%
-FlashlightGame           4h 9m 20s    ██████░░░░░░░░░░░░░░░░░░░  23.42%
-lcp-app                  3h 4m 22s    █████░░░░░░░░░░░░░░░░░░░░  17.31%
-fallen-interactive-web   12m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.20%
-unknown                  6m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.60%
+Fallen Scout             10h 26m 0s   ███████████████░░░░░░░░░░  57.10%
+FlashlightGame           4h 11m 20s   ██████░░░░░░░░░░░░░░░░░░░  22.92%
+lcp-app                  3h 19m 54s   █████░░░░░░░░░░░░░░░░░░░░  18.23%
+fallen-interactive-web   12m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.16%
+unknown                  6m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.58%
 
-Total: 14 hrs 54 mins
+Total: 15 hrs 22 mins
 ```
 
 
