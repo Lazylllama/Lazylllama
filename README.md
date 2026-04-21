@@ -1,38 +1,38 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(today)**
-- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(1 month ago)**
+- [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(1 day ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 day ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(1 month ago)**
+- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(1 month ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(1 month ago)**
 - [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(2 months ago)**
-- [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(2 months ago)**
+- [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(3 months ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(3 months ago)**
-- [`documentation`](https://github.com/IamLation/documentation) - _"Documentation site for Lation Scripts"_ **(3 months ago)**
 
 ### ⌨️ My latest projects
 
+- [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_
-- [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_
 
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity                    3h 46m 0s    ██████████░░░░░░░░░░░░░░░  36.74%
-TypeScript               2h 31m 22s   ███████░░░░░░░░░░░░░░░░░░  24.60%
-C#                       1h 33m 40s   ████░░░░░░░░░░░░░░░░░░░░░  15.23%
-Rust                     1h 27m 24s   ████░░░░░░░░░░░░░░░░░░░░░  14.21%
-unknown                  20m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.38%
+unity                    3h 24m 0s    █████████░░░░░░░░░░░░░░░░  35.03%
+Rust                     1h 58m 27s   ██████░░░░░░░░░░░░░░░░░░░  20.34%
+TypeScript               1h 26m 47s   ████░░░░░░░░░░░░░░░░░░░░░  14.90%
+C#                       1h 25m 36s   ████░░░░░░░░░░░░░░░░░░░░░  14.70%
+Markdown                 27m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.66%
 
 💼 Projects:
-Fallen Scout             3h 46m 0s    ██████████░░░░░░░░░░░░░░░  38.57%
-lcp-app                  2h 31m 56s   ███████░░░░░░░░░░░░░░░░░░  25.93%
-FlashlightGame           1h 35m 40s   █████░░░░░░░░░░░░░░░░░░░░  16.33%
-sheetsmith               1h 33m 16s   ████░░░░░░░░░░░░░░░░░░░░░  15.92%
-fallen-interactive-web   12m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.17%
+Fallen Scout             3h 24m 0s    ██████████░░░░░░░░░░░░░░░  38.47%
+sheetsmith               2h 12m 15s   ███████░░░░░░░░░░░░░░░░░░  24.94%
+FlashlightGame           1h 27m 36s   █████░░░░░░░░░░░░░░░░░░░░  16.52%
+lcp-app                  1h 27m 21s   █████░░░░░░░░░░░░░░░░░░░░  16.47%
+fallen-interactive-web   12m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.40%
 
-Total: 8 hrs 53 mins
+Total: 7 hrs 58 mins
 ```
 
 
