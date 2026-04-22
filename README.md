@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Rust                     3h 51m 24s   █████████░░░░░░░░░░░░░░░░  32.44%
-unity                    3h 24m 0s    ████████░░░░░░░░░░░░░░░░░  28.60%
-C#                       2h 5m 38s    █████░░░░░░░░░░░░░░░░░░░░  17.61%
-Markdown                 46m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.51%
-TypeScript               44m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.27%
+Rust                     4h 13m 45s   █████████░░░░░░░░░░░░░░░░  34.49%
+unity                    3h 24m 0s    ███████░░░░░░░░░░░░░░░░░░  27.73%
+C#                       2h 5m 38s    █████░░░░░░░░░░░░░░░░░░░░  17.08%
+Markdown                 46m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.31%
+TypeScript               44m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.08%
 
 💼 Projects:
-sheetsmith               4h 18m 15s   ██████████░░░░░░░░░░░░░░░  38.87%
-Fallen Scout             3h 24m 0s    ████████░░░░░░░░░░░░░░░░░  30.70%
-FlashlightGame           2h 7m 38s    █████░░░░░░░░░░░░░░░░░░░░  19.21%
-lcp-app                  45m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.81%
-fallen-interactive-web   12m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.92%
+sheetsmith               4h 40m 36s   ███████████░░░░░░░░░░░░░░  40.86%
+Fallen Scout             3h 24m 0s    ████████░░░░░░░░░░░░░░░░░  29.70%
+FlashlightGame           2h 7m 38s    █████░░░░░░░░░░░░░░░░░░░░  18.58%
+lcp-app                  45m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.59%
+fallen-interactive-web   12m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.85%
 
-Total: 10 hrs 2 mins
+Total: 10 hrs 24 mins
 ```
 
 
