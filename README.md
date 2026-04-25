@@ -1,10 +1,10 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(today)**
-- [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(2 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 day ago)**
+- [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(3 days ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(1 month ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(1 month ago)**
-- [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(1 month ago)**
+- [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(2 months ago)**
 - [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(2 months ago)**
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(3 months ago)**
 - [`SideScrollerX`](https://github.com/Lazylllama/SideScrollerX) - _"Renamed to Lumin. Side Scroller project with a wide variety of "features""_ **(3 months ago)**
@@ -27,7 +27,7 @@ TOML                     1h 9m 26s    ██░░░░░░░░░░░░
 
 💼 Projects:
 sheetsmith               8h 41m 19s   ██████████████░░░░░░░░░░░  53.52%
-Fallen Scout             3h 44m 0s    ██████░░░░░░░░░░░░░░░░░░░  23.00%
+Fallen Scout             3h 44m 0s    ██████░░░░░░░░░░░░░░░░░░░  22.99%
 FlashlightGame           2h 32m 5s    ████░░░░░░░░░░░░░░░░░░░░░  15.61%
 lcp-app                  45m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.65%
 fallen-interactive-web   12m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.31%
