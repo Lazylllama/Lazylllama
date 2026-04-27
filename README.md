@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(2 days ago)**
-- [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(4 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 day ago)**
+- [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(5 days ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(1 month ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(1 month ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(2 months ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Rust                     7h 43m 31s   ███████████░░░░░░░░░░░░░░  42.15%
-unity                    3h 46m 0s    ██████░░░░░░░░░░░░░░░░░░░  20.55%
-C#                       2h 50m 54s   ████░░░░░░░░░░░░░░░░░░░░░  15.54%
-Markdown                 1h 22m 6s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.46%
-TOML                     1h 9m 26s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.31%
+Rust             7h 43m 31s   ████████████░░░░░░░░░░░░░  45.32%
+unity            3h 22m 0s    █████░░░░░░░░░░░░░░░░░░░░  19.75%
+C#               2h 53m 33s   █████░░░░░░░░░░░░░░░░░░░░  16.97%
+Markdown         1h 14m 5s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.24%
+TOML             1h 9m 26s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.79%
 
 💼 Projects:
-sheetsmith               8h 41m 19s   ██████████████░░░░░░░░░░░  53.81%
-Fallen Scout             3h 46m 0s    ██████░░░░░░░░░░░░░░░░░░░  23.33%
-FlashlightGame           2h 52m 54s   █████░░░░░░░░░░░░░░░░░░░░  17.85%
-lcp-app                  27m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.85%
-fallen-interactive-web   12m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.31%
+sheetsmith       8h 41m 19s   ███████████████░░░░░░░░░░  57.50%
+Fallen Scout     3h 22m 0s    ██████░░░░░░░░░░░░░░░░░░░  22.28%
+FlashlightGame   2h 52m 54s   █████░░░░░░░░░░░░░░░░░░░░  19.07%
+UnityPackages    6m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.68%
+unknown          4m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.46%
 
-Total: 15 hrs 1 mins
+Total: 13 hrs 59 mins
 ```
 
 
