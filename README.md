@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
 - [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(today)**
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 day ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(2 days ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(1 month ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(1 month ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(2 months ago)**
@@ -19,20 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Rust             8h 25m 13s   ████████████░░░░░░░░░░░░░  45.42%
-unity            3h 52m 0s    ██████░░░░░░░░░░░░░░░░░░░  20.86%
-C#               3h 20m 50s   █████░░░░░░░░░░░░░░░░░░░░  18.06%
-Markdown         1h 13m 38s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.62%
-TOML             1h 0m 49s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.47%
+Rust             7h 49m 34s   ████████████░░░░░░░░░░░░░  44.95%
+unity            3h 52m 0s    ██████░░░░░░░░░░░░░░░░░░░  22.21%
+C#               2h 40m 48s   ████░░░░░░░░░░░░░░░░░░░░░  15.39%
+TOML             1h 14m 41s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.15%
+Markdown         1h 5m 49s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.30%
 
 💼 Projects:
-sheetsmith       9h 25m 48s   ██████████████░░░░░░░░░░░  55.81%
-Fallen Scout     3h 52m 0s    ██████░░░░░░░░░░░░░░░░░░░  22.88%
-FlashlightGame   3h 25m 41s   ██████░░░░░░░░░░░░░░░░░░░  20.29%
-UnityPackages    6m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.61%
-unknown          4m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.41%
+sheetsmith       8h 53m 35s   ███████████████░░░░░░░░░░  57.17%
+Fallen Scout     3h 52m 0s    ███████░░░░░░░░░░░░░░░░░░  24.86%
+FlashlightGame   2h 45m 39s   █████░░░░░░░░░░░░░░░░░░░░  17.75%
+unknown          2m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.23%
 
-Total: 15 hrs 16 mins
+Total: 14 hrs 4 mins
 ```
 
 
