@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(today)**
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(2 days ago)**
+- [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(1 day ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(3 days ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(1 month ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(1 month ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(2 months ago)**
@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Rust             7h 49m 34s   ████████████░░░░░░░░░░░░░  44.77%
-unity            3h 52m 0s    ██████░░░░░░░░░░░░░░░░░░░  22.12%
-C#               2h 40m 48s   ████░░░░░░░░░░░░░░░░░░░░░  15.33%
-TOML             1h 14m 41s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.12%
-Markdown         1h 10m 12s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.69%
+Rust             3h 57m 27s   █████████░░░░░░░░░░░░░░░░  33.64%
+unity            3h 52m 0s    █████████░░░░░░░░░░░░░░░░  32.86%
+C#               2h 40m 48s   ██████░░░░░░░░░░░░░░░░░░░  22.78%
+Markdown         36m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.20%
+TOML             26m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.72%
 
 💼 Projects:
-sheetsmith       8h 57m 57s   ███████████████░░░░░░░░░░  57.37%
-Fallen Scout     3h 52m 0s    ███████░░░░░░░░░░░░░░░░░░  24.74%
-FlashlightGame   2h 45m 39s   █████░░░░░░░░░░░░░░░░░░░░  17.66%
-unknown          2m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.23%
+sheetsmith       4h 33m 55s   ███████████░░░░░░░░░░░░░░  40.66%
+Fallen Scout     3h 52m 0s    █████████░░░░░░░░░░░░░░░░  34.44%
+FlashlightGame   2h 45m 39s   ███████░░░░░░░░░░░░░░░░░░  24.59%
+unknown          2m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.32%
 
-Total: 14 hrs 8 mins
+Total: 9 hrs 42 mins
 ```
 
 
