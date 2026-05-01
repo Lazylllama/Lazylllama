@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(today)**
 - [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(2 days ago)**
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(4 days ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(2 months ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(2 months ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(2 months ago)**
@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity            5h 4m 0s     ██████████░░░░░░░░░░░░░░░  37.11%
-Rust             3h 57m 27s   ████████░░░░░░░░░░░░░░░░░  28.98%
-C#               3h 22m 6s    ███████░░░░░░░░░░░░░░░░░░  24.67%
-Markdown         36m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
-TOML             26m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.20%
+unity            6h 10m 0s    ███████████░░░░░░░░░░░░░░  40.02%
+Rust             3h 57m 27s   ███████░░░░░░░░░░░░░░░░░░  25.68%
+C#               3h 52m 17s   ███████░░░░░░░░░░░░░░░░░░  25.13%
+Markdown         45m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.95%
+TOML             26m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.84%
 
 💼 Projects:
-Fallen Scout     5h 4m 0s     ██████████░░░░░░░░░░░░░░░  38.63%
-sheetsmith       4h 33m 55s   █████████░░░░░░░░░░░░░░░░  34.80%
-FlashlightGame   3h 26m 57s   ███████░░░░░░░░░░░░░░░░░░  26.30%
-unknown          2m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.27%
+Fallen Scout     6h 10m 0s    ███████████░░░░░░░░░░░░░░  41.47%
+sheetsmith       4h 33m 55s   ████████░░░░░░░░░░░░░░░░░  30.70%
+FlashlightGame   4h 6m 13s    ███████░░░░░░░░░░░░░░░░░░  27.59%
+unknown          2m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.24%
 
-Total: 11 hrs 12 mins
+Total: 12 hrs 34 mins
 ```
 
 
