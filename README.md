@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(2 days ago)**
-- [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(4 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(3 days ago)**
+- [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(5 days ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(2 months ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(2 months ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(2 months ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity            7h 30m 0s    ██████████░░░░░░░░░░░░░░░  39.57%
-C#               4h 1m 9s     ██████░░░░░░░░░░░░░░░░░░░  21.21%
-Rust             3h 57m 27s   ██████░░░░░░░░░░░░░░░░░░░  20.88%
-TypeScript       1h 11m 50s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.32%
-Markdown         43m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.84%
+unity            8h 8m 0s     ███████████░░░░░░░░░░░░░░  40.87%
+C#               4h 20m 4s    ██████░░░░░░░░░░░░░░░░░░░  21.78%
+Rust             3h 57m 27s   █████░░░░░░░░░░░░░░░░░░░░  19.89%
+TypeScript       1h 11m 50s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.02%
+Markdown         43m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.65%
 
 💼 Projects:
-Fallen Scout     7h 30m 0s    ███████████░░░░░░░░░░░░░░  42.17%
-sheetsmith       4h 33m 55s   ███████░░░░░░░░░░░░░░░░░░  25.67%
-FlashlightGame   4h 15m 5s    ██████░░░░░░░░░░░░░░░░░░░  23.90%
-Skol-bot         1h 20m 0s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.50%
-unknown          8m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.77%
+Fallen Scout     8h 8m 0s     ███████████░░░░░░░░░░░░░░  43.46%
+FlashlightGame   4h 34m 40s   ███████░░░░░░░░░░░░░░░░░░  24.46%
+sheetsmith       4h 33m 55s   ███████░░░░░░░░░░░░░░░░░░  24.40%
+Skol-bot         1h 20m 0s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.12%
+unknown          6m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.56%
 
-Total: 15 hrs 13 mins
+Total: 15 hrs 51 mins
 ```
 
 
