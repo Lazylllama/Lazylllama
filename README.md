@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(4 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(today)**
 - [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(1 week ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(2 months ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(2 months ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity            6h 28m 0s    ██████████░░░░░░░░░░░░░░░  38.21%
-TypeScript       4h 29m 52s   ███████░░░░░░░░░░░░░░░░░░  26.58%
-C#               3h 18m 1s    █████░░░░░░░░░░░░░░░░░░░░  19.50%
-JSON             1h 11m 5s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
-Shell            30m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.01%
+unity            6h 34m 0s    ██████████░░░░░░░░░░░░░░░  38.58%
+TypeScript       4h 29m 52s   ███████░░░░░░░░░░░░░░░░░░  26.42%
+C#               3h 18m 1s    █████░░░░░░░░░░░░░░░░░░░░  19.39%
+JSON             1h 11m 5s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.96%
+Shell            30m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.99%
 
 💼 Projects:
-Fallen Scout     6h 28m 0s    ███████████░░░░░░░░░░░░░░  43.30%
-FlashlightGame   3h 27m 6s    ██████░░░░░░░░░░░░░░░░░░░  23.11%
-Skol-bot         2h 43m 17s   █████░░░░░░░░░░░░░░░░░░░░  18.22%
-skol-bot         1h 48m 7s    ████░░░░░░░░░░░░░░░░░░░░░  12.06%
-lcp-app          23m 26s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.61%
+Fallen Scout     6h 34m 0s    ███████████░░░░░░░░░░░░░░  43.67%
+FlashlightGame   3h 27m 6s    ██████░░░░░░░░░░░░░░░░░░░  22.96%
+Skol-bot         2h 43m 17s   █████░░░░░░░░░░░░░░░░░░░░  18.10%
+skol-bot         1h 48m 7s    ███░░░░░░░░░░░░░░░░░░░░░░  11.98%
+lcp-app          23m 26s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.60%
 
-Total: 12 hrs 55 mins
+Total: 13 hrs 1 mins
 ```
 
 
