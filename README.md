@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 day ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(2 days ago)**
 - [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(1 week ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(2 months ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(2 months ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity            4h 54m 0s    █████████░░░░░░░░░░░░░░░░  33.80%
-TypeScript       4h 40m 45s   █████████░░░░░░░░░░░░░░░░  32.28%
-C#               2h 18m 36s   ████░░░░░░░░░░░░░░░░░░░░░  15.94%
-JSON             1h 11m 5s    ███░░░░░░░░░░░░░░░░░░░░░░  8.17%
-Shell            30m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.51%
+TypeScript       4h 54m 38s   ████████████░░░░░░░░░░░░░  45.98%
+unity            2h 46m 0s    ███████░░░░░░░░░░░░░░░░░░  25.90%
+C#               1h 15m 21s   ███░░░░░░░░░░░░░░░░░░░░░░  11.76%
+JSON             39m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.18%
+unknown          36m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
 
 💼 Projects:
-Fallen Scout     4h 54m 0s    ██████████░░░░░░░░░░░░░░░  39.36%
-Skol-bot         2h 47m 24s   ██████░░░░░░░░░░░░░░░░░░░  22.41%
-FlashlightGame   2h 18m 36s   █████░░░░░░░░░░░░░░░░░░░░  18.56%
-skol-bot         1h 48m 7s    ████░░░░░░░░░░░░░░░░░░░░░  14.48%
-lcp-app          32m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.36%
+Fallen Scout     2h 46m 0s    ████████░░░░░░░░░░░░░░░░░  29.44%
+lcp-app          2h 8m 56s    ██████░░░░░░░░░░░░░░░░░░░  22.87%
+skol-bot         1h 48m 7s    █████░░░░░░░░░░░░░░░░░░░░  19.18%
+Skol-bot         1h 25m 24s   ████░░░░░░░░░░░░░░░░░░░░░  15.15%
+FlashlightGame   1h 15m 21s   ████░░░░░░░░░░░░░░░░░░░░░  13.36%
 
-Total: 11 hrs 0 mins
+Total: 8 hrs 48 mins
 ```
 
 
