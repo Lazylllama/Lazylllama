@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 day ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(2 days ago)**
 - [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(2 weeks ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(2 months ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(2 months ago)**
@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript       3h 39m 5s    █████████████████░░░░░░░░  66.87%
-unity            1h 8m 0s     ██████░░░░░░░░░░░░░░░░░░░  20.75%
-unknown          17m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.29%
-JSON             9m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.00%
-C#               4m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.26%
+TypeScript       3h 12m 17s   █████████████████░░░░░░░░  66.68%
+unity            1h 8m 0s     ██████░░░░░░░░░░░░░░░░░░░  23.58%
+unknown          12m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.40%
+JSON             6m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.09%
+C#               4m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
 
 💼 Projects:
-lcp-app          3h 47m 35s   ██████████████████░░░░░░░  71.77%
-Fallen Scout     1h 8m 0s     ██████░░░░░░░░░░░░░░░░░░░  21.44%
-Skol-bot         17m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
-FlashlightGame   4m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.30%
+lcp-app          3h 22m 9s    ██████████████████░░░░░░░  71.75%
+Fallen Scout     1h 8m 0s     ███████░░░░░░░░░░░░░░░░░░  24.13%
+Skol-bot         7m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.66%
+FlashlightGame   4m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.46%
 
-Total: 5 hrs 21 mins
+Total: 4 hrs 45 mins
 ```
 
 
