@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`nema17-music`](https://github.com/Lazylllama/nema17-music) - _"Play music on your nema17 stepper motors"_ **(1 day ago)**
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 day ago)**
+- [`nema17-music`](https://github.com/Lazylllama/nema17-music) - _"Play music on your nema17 stepper motors"_ **(2 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(2 days ago)**
 - [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(2 weeks ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(2 months ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(2 months ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript       4h 27m 37s   ██████████████░░░░░░░░░░░  55.43%
-unity            1h 32m 0s    █████░░░░░░░░░░░░░░░░░░░░  19.06%
-C#               59m 38s      ████░░░░░░░░░░░░░░░░░░░░░  12.35%
-unknown          26m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.55%
-Python           15m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.28%
+TypeScript       4h 14m 43s   ████████████████░░░░░░░░░  61.64%
+C#               55m 38s      ████░░░░░░░░░░░░░░░░░░░░░  13.46%
+unity            52m 0s       ████░░░░░░░░░░░░░░░░░░░░░  12.58%
+unknown          16m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.91%
+Python           15m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.84%
 
 💼 Projects:
-lcp-app          4h 41m 29s   ████████████████░░░░░░░░░  61.12%
-Fallen Scout     1h 32m 0s    █████░░░░░░░░░░░░░░░░░░░░  19.98%
-FlashlightGame   59m 38s      ████░░░░░░░░░░░░░░░░░░░░░  12.95%
-nema17-music     23m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
-Skol-bot         2m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.46%
+lcp-app          4h 23m 42s   █████████████████░░░░░░░░  66.48%
+FlashlightGame   55m 38s      ████░░░░░░░░░░░░░░░░░░░░░  14.03%
+Fallen Scout     52m 0s       ████░░░░░░░░░░░░░░░░░░░░░  13.11%
+nema17-music     23m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.84%
+unknown          2m 6s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.53%
 
-Total: 7 hrs 42 mins
+Total: 6 hrs 38 mins
 ```
 
 
