@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 week ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(today)**
 - [`nema17-music`](https://github.com/Lazylllama/nema17-music) - _"Play music on your nema17 stepper motors"_ **(2 weeks ago)**
 - [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(1 month ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(2 months ago)**
@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript       3h 9m 23s    ████████████░░░░░░░░░░░░░  45.35%
-unity            1h 18m 0s    █████░░░░░░░░░░░░░░░░░░░░  18.68%
-unknown          56m 44s      ████░░░░░░░░░░░░░░░░░░░░░  13.58%
-YAML             46m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  11.06%
-C#               24m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
+TypeScript       3h 9m 23s    ██████████░░░░░░░░░░░░░░░  39.22%
+unity            2h 14m 0s    ███████░░░░░░░░░░░░░░░░░░  27.75%
+unknown          56m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  11.75%
+YAML             46m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  9.57%
+C#               34m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.07%
 
 💼 Projects:
-lcp-app          3h 34m 39s   ███████████████░░░░░░░░░░  56.12%
-Fallen Scout     1h 18m 0s    ██████░░░░░░░░░░░░░░░░░░░  20.39%
-lcp-api          1h 4m 54s    █████░░░░░░░░░░░░░░░░░░░░  16.97%
-FlashlightGame   24m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.52%
+lcp-app          3h 34m 39s   ████████████░░░░░░░░░░░░░  47.95%
+Fallen Scout     2h 14m 0s    ████████░░░░░░░░░░░░░░░░░  29.93%
+lcp-api          1h 4m 54s    ████░░░░░░░░░░░░░░░░░░░░░  14.50%
+FlashlightGame   34m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.63%
 
-Total: 6 hrs 9 mins
+Total: 7 hrs 7 mins
 ```
 
 
