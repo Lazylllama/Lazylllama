@@ -1,10 +1,10 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 day ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(2 days ago)**
 - [`nema17-music`](https://github.com/Lazylllama/nema17-music) - _"Play music on your nema17 stepper motors"_ **(2 weeks ago)**
 - [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(1 month ago)**
-- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(2 months ago)**
-- [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(2 months ago)**
+- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(3 months ago)**
+- [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(3 months ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(3 months ago)**
 - [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(3 months ago)**
 - [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(4 months ago)**
@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity            2h 34m 0s    █████████░░░░░░░░░░░░░░░░  34.47%
-TypeScript       2h 11m 49s   ████████░░░░░░░░░░░░░░░░░  29.50%
-unknown          52m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  11.72%
-YAML             46m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  10.34%
-C#               46m 1s       ███░░░░░░░░░░░░░░░░░░░░░░  10.30%
+unity            2h 34m 0s   ██████████████░░░░░░░░░░░  53.65%
+TypeScript       46m 43s     █████░░░░░░░░░░░░░░░░░░░░  16.28%
+C#               46m 1s      █████░░░░░░░░░░░░░░░░░░░░  16.03%
+unknown          19m 25s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.76%
+YAML             17m 37s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.14%
 
 💼 Projects:
-lcp-app          2h 35m 53s   ██████████░░░░░░░░░░░░░░░  37.04%
-Fallen Scout     2h 34m 0s    ██████████░░░░░░░░░░░░░░░  36.60%
-lcp-api          1h 4m 54s    ████░░░░░░░░░░░░░░░░░░░░░  15.42%
-FlashlightGame   46m 1s       ███░░░░░░░░░░░░░░░░░░░░░░  10.94%
+Fallen Scout     2h 34m 0s   ██████████████░░░░░░░░░░░  54.48%
+lcp-api          49m 12s     █████░░░░░░░░░░░░░░░░░░░░  17.41%
+FlashlightGame   46m 1s      █████░░░░░░░░░░░░░░░░░░░░  16.28%
+lcp-app          33m 26s     ███░░░░░░░░░░░░░░░░░░░░░░  11.83%
 
-Total: 6 hrs 29 mins
+Total: 4 hrs 12 mins
 ```
 
 
