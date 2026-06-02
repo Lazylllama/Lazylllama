@@ -19,14 +19,16 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity            3h 12m 0s   █████████████████████░░░░  81.12%
-C#               44m 42s     █████░░░░░░░░░░░░░░░░░░░░  18.88%
+unity            3h 12m 0s   █████████████████████░░░░  80.44%
+C#               44m 42s     █████░░░░░░░░░░░░░░░░░░░░  18.73%
+Markdown         2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.84%
 
 💼 Projects:
-Fallen Scout     3h 12m 0s   █████████████████████░░░░  81.12%
-FlashlightGame   44m 42s     █████░░░░░░░░░░░░░░░░░░░░  18.88%
+Fallen Scout     3h 12m 0s   █████████████████████░░░░  80.12%
+FlashlightGame   44m 42s     █████░░░░░░░░░░░░░░░░░░░░  18.65%
+stardance        2m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.23%
 
-Total: 3 hrs 17 mins
+Total: 3 hrs 23 mins
 ```
 
 
