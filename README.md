@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 day ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(2 days ago)**
 - [`nema17-music`](https://github.com/Lazylllama/nema17-music) - _"Play music on your nema17 stepper motors"_ **(2 weeks ago)**
 - [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(1 month ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(3 months ago)**
@@ -19,16 +19,18 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity            3h 12m 0s   █████████████████████░░░░  80.44%
-C#               44m 42s     █████░░░░░░░░░░░░░░░░░░░░  18.73%
-Markdown         2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.84%
+unity            3h 12m 0s   ████████████████████░░░░░  77.72%
+C#               44m 42s     █████░░░░░░░░░░░░░░░░░░░░  18.09%
+Ruby             4m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.75%
+Markdown         4m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.62%
+unknown          2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.81%
 
 💼 Projects:
-Fallen Scout     3h 12m 0s   █████████████████████░░░░  80.12%
-FlashlightGame   44m 42s     █████░░░░░░░░░░░░░░░░░░░░  18.65%
-stardance        2m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.23%
+Fallen Scout     3h 12m 0s   ████████████████████░░░░░  78.32%
+FlashlightGame   44m 42s     █████░░░░░░░░░░░░░░░░░░░░  18.23%
+stardance        8m 26s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
 
-Total: 3 hrs 23 mins
+Total: 3 hrs 28 mins
 ```
 
 
