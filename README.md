@@ -2,12 +2,12 @@
 
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(5 days ago)**
 - [`nema17-music`](https://github.com/Lazylllama/nema17-music) - _"Play music on your nema17 stepper motors"_ **(3 weeks ago)**
+- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(1 month ago)**
 - [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(1 month ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(3 months ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(3 months ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(3 months ago)**
 - [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(4 months ago)**
-- [`bobadrops`](https://github.com/Lazylllama/bobadrops) - _""_ **(4 months ago)**
 
 ### ⌨️ My latest projects
 
