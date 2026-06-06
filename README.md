@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(4 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(5 days ago)**
 - [`nema17-music`](https://github.com/Lazylllama/nema17-music) - _"Play music on your nema17 stepper motors"_ **(3 weeks ago)**
 - [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(1 month ago)**
 - [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(3 months ago)**
@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unity            3h 12m 0s    █████████░░░░░░░░░░░░░░░░  33.16%
-Ruby             2h 8m 4s     ██████░░░░░░░░░░░░░░░░░░░  22.12%
-SCSS             1h 20m 39s   ████░░░░░░░░░░░░░░░░░░░░░  13.93%
-HTML+ERB         1h 13m 17s   ████░░░░░░░░░░░░░░░░░░░░░  12.66%
-C#               44m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.72%
+Ruby             2h 19m 21s   █████████░░░░░░░░░░░░░░░░  34.25%
+SCSS             1h 20m 39s   █████░░░░░░░░░░░░░░░░░░░░  19.82%
+HTML+ERB         1h 13m 17s   █████░░░░░░░░░░░░░░░░░░░░  18.01%
+unity            36m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  8.85%
+unknown          32m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
 
 💼 Projects:
-stardance        3h 21m 28s   ████████████░░░░░░░░░░░░░  45.77%
-Fallen Scout     3h 12m 0s    ███████████░░░░░░░░░░░░░░  43.62%
-FlashlightGame   44m 42s      ███░░░░░░░░░░░░░░░░░░░░░░  10.16%
-unknown          2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.45%
+stardance        3h 32m 49s   █████████████████████░░░░  81.71%
+Fallen Scout     36m 0s       ████░░░░░░░░░░░░░░░░░░░░░  13.82%
+FlashlightGame   9m 38s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.70%
+unknown          2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.77%
 
-Total: 6 hrs 43 mins
+Total: 4 hrs 15 mins
 ```
 
 
