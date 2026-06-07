@@ -1,38 +1,38 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(5 days ago)**
+- [`llama-on-rails`](https://github.com/Lazylllama/llama-on-rails) - _"my website, on rails"_ **(today)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(6 days ago)**
 - [`nema17-music`](https://github.com/Lazylllama/nema17-music) - _"Play music on your nema17 stepper motors"_ **(3 weeks ago)**
 - [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(1 month ago)**
 - [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(1 month ago)**
-- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(3 months ago)**
 - [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_ **(3 months ago)**
+- [`llamapad`](https://github.com/Lazylllama/llamapad) - _""_ **(3 months ago)**
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_ **(3 months ago)**
-- [`toppings`](https://github.com/Lazylllama/toppings) - _"https://toppings.hackclub.com"_ **(4 months ago)**
 
 ### ⌨️ My latest projects
 
+- [`llama-on-rails`](https://github.com/Lazylllama/llama-on-rails) - _"my website, on rails"_
 - [`nema17-music`](https://github.com/Lazylllama/nema17-music) - _"Play music on your nema17 stepper motors"_
 - [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_
 - [`packsonpacks-assets`](https://github.com/Lazylllama/packsonpacks-assets) - _""_
-- [`KiCadFootprints`](https://github.com/Lazylllama/KiCadFootprints) - _""_
 
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Ruby             2h 19m 21s   █████████░░░░░░░░░░░░░░░░  33.75%
-SCSS             1h 20m 39s   █████░░░░░░░░░░░░░░░░░░░░  19.54%
-HTML+ERB         1h 13m 17s   █████░░░░░░░░░░░░░░░░░░░░  17.75%
-unity            36m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  8.72%
-unknown          34m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  8.29%
+Ruby             2h 32m 57s   ███████░░░░░░░░░░░░░░░░░░  27.67%
+SCSS             1h 28m 36s   █████░░░░░░░░░░░░░░░░░░░░  16.03%
+HTML+ERB         1h 21m 17s   ████░░░░░░░░░░░░░░░░░░░░░  14.71%
+unknown          1h 4m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  11.65%
+unity            38m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.87%
 
 💼 Projects:
-stardance        3h 32m 49s   █████████████████████░░░░  80.39%
-Fallen Scout     36m 0s       ████░░░░░░░░░░░░░░░░░░░░░  13.60%
-FlashlightGame   9m 38s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.64%
-unknown          4m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.62%
-unknown          2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.76%
+stardance        3h 52m 45s   ███████████████████░░░░░░  72.62%
+Fallen Scout     38m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  11.86%
+llama-on-rails   33m 49s      ███░░░░░░░░░░░░░░░░░░░░░░  10.55%
+FlashlightGame   9m 38s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.01%
+unknown          4m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.34%
 
-Total: 4 hrs 20 mins
+Total: 5 hrs 12 mins
 ```
 
 
