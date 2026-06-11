@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`llama-on-rails`](https://github.com/Lazylllama/llama-on-rails) - _"my website, on rails"_ **(3 days ago)**
+- [`llama-on-rails`](https://github.com/Lazylllama/llama-on-rails) - _"my website, on rails"_ **(4 days ago)**
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 week ago)**
 - [`nema17-music`](https://github.com/Lazylllama/nema17-music) - _"Play music on your nema17 stepper motors"_ **(3 weeks ago)**
 - [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Ruby             2h 43m 8s    ███████░░░░░░░░░░░░░░░░░░  24.18%
-SCSS             1h 30m 36s   ████░░░░░░░░░░░░░░░░░░░░░  13.43%
-HTML+ERB         1h 30m 11s   ████░░░░░░░░░░░░░░░░░░░░░  13.37%
-unknown          1h 22m 40s   ████░░░░░░░░░░░░░░░░░░░░░  12.26%
-Lapse            1h 20m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  11.95%
+Ruby             2h 10m 7s    ██████░░░░░░░░░░░░░░░░░░░  20.67%
+SCSS             1h 30m 36s   ████░░░░░░░░░░░░░░░░░░░░░  14.39%
+HTML+ERB         1h 24m 0s    ████░░░░░░░░░░░░░░░░░░░░░  13.35%
+Lapse            1h 20m 35s   ████░░░░░░░░░░░░░░░░░░░░░  12.80%
+unknown          1h 15m 59s   ████░░░░░░░░░░░░░░░░░░░░░  12.07%
 
 💼 Projects:
-stardance        5h 12m 38s   ████████████████████░░░░░  78.56%
-llama-on-rails   45m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  11.56%
-auth             14m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.72%
-unknown          10m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.51%
-sheetsmith       6m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.57%
+stardance        4h 29m 43s   ███████████████████░░░░░░  74.59%
+llama-on-rails   45m 59s      ████░░░░░░░░░░░░░░░░░░░░░  12.72%
+auth             14m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.09%
+anslagstavlor    8m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.36%
+unknown          8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.21%
 
-Total: 6 hrs 37 mins
+Total: 6 hrs 2 mins
 ```
 
 
