@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`llama-on-rails`](https://github.com/Lazylllama/llama-on-rails) - _"my website, on rails"_ **(5 days ago)**
+- [`llama-on-rails`](https://github.com/Lazylllama/llama-on-rails) - _"my website, on rails"_ **(6 days ago)**
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 week ago)**
 - [`nema17-music`](https://github.com/Lazylllama/nema17-music) - _"Play music on your nema17 stepper motors"_ **(4 weeks ago)**
 - [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Lapse            1h 24m 32s   ██████░░░░░░░░░░░░░░░░░░░  22.75%
-unknown          1h 5m 59s    █████░░░░░░░░░░░░░░░░░░░░  17.75%
-Ruby             42m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  11.33%
-Markdown         34m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  9.34%
-JSON             24m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.57%
+Lapse            1h 24m 32s   ██████░░░░░░░░░░░░░░░░░░░  23.54%
+unknown          1h 1m 59s    █████░░░░░░░░░░░░░░░░░░░░  17.26%
+Ruby             37m 14s      ███░░░░░░░░░░░░░░░░░░░░░░  10.37%
+Markdown         34m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  9.67%
+JSON             24m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.79%
 
 💼 Projects:
-stardance        2h 1m 10s    ██████████████░░░░░░░░░░░  54.14%
-llama-on-rails   45m 59s      ██████░░░░░░░░░░░░░░░░░░░  20.55%
-auth             14m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.61%
-anslagstavlor    10m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.71%
-sheetsmith       8m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.69%
+stardance        1h 56m 14s   ██████████████░░░░░░░░░░░  53.11%
+llama-on-rails   45m 59s      ██████░░░░░░░░░░░░░░░░░░░  21.01%
+auth             14m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.76%
+anslagstavlor    10m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.82%
+sheetsmith       8m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.77%
 
-Total: 3 hrs 47 mins
+Total: 3 hrs 42 mins
 ```
 
 
