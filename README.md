@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
 - [`llama-on-rails`](https://github.com/Lazylllama/llama-on-rails) - _"my website, on rails"_ **(1 week ago)**
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 week ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(2 weeks ago)**
 - [`nema17-music`](https://github.com/Lazylllama/nema17-music) - _"Play music on your nema17 stepper motors"_ **(1 month ago)**
 - [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(1 month ago)**
 - [`SheetSmith`](https://github.com/Lazylllama/SheetSmith) - _"A simple sprite sheet packer written in Rust. It takes a directory of images and packs them into a single sprite sheet, along with metadata about the position and size of each sprite."_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Lapse            1h 24m 32s   ███████░░░░░░░░░░░░░░░░░░  24.55%
-unknown          59m 59s      █████░░░░░░░░░░░░░░░░░░░░  17.42%
-Markdown         34m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  10.08%
-Ruby             28m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  8.24%
-JSON             24m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.09%
+Lapse           1h 24m 32s   █████████████░░░░░░░░░░░░  49.58%
+Markdown        24m 34s      ████░░░░░░░░░░░░░░░░░░░░░  14.41%
+unknown         17m 33s      ███░░░░░░░░░░░░░░░░░░░░░░  10.29%
+JSON            12m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
+unity           10m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.87%
 
 💼 Projects:
-stardance        1h 41m 26s   █████████████░░░░░░░░░░░░  48.36%
-llama-on-rails   45m 59s      ██████░░░░░░░░░░░░░░░░░░░  21.92%
-auth             14m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.06%
-anslagstavlor    10m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
-Fallen Scout     10m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.77%
+stardance       1h 27m 39s   ███████████████░░░░░░░░░░  58.43%
+auth            14m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  9.87%
+anslagstavlor   10m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
+Fallen Scout    10m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.67%
+sheetsmith      8m 15s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.50%
 
-Total: 3 hrs 33 mins
+Total: 2 hrs 37 mins
 ```
 
 
