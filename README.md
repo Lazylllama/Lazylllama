@@ -39,19 +39,18 @@ Total: 19 hrs 17 mins
 ### 📺 Currently Watching
 
 - 🎬 **[KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202)**
-    - Progress: 0/10 ep
+    - Progress: 0/10 eps
 - 🎬 **[Re:ZERO -Starting Life in Another World-](https://anilist.co/anime/21355)**
     - Progress: 1/25 ep
 ### 📗 Currently Reading
 
 - 📕 **[Chainsaw Man](https://anilist.co/manga/105778)** — ⭐ 10/10
-    - Progress: 0/232 chapter
+    - Progress: 17/24 vol
 - 📕 **[Solo Leveling](https://anilist.co/manga/105398)** — ⭐ 8/10
-    - Progress: 97/201 chapters
+    - Progress: 97/201 ch
 ### ✅ Recently Completed
-
-- 🎬 **[Re:ZERO -Starting Life in Another World-](https://anilist.co/anime/21355)** `TV` — `CURRENT`
-- 🎬 **[KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202)** `TV` — `CURRENT`
-- 🎬 **[That Time I Got Reincarnated as a Slime](https://anilist.co/anime/101280)** `TV` — `PLANNING`
-- 🎬 **[I Made Friends with the Second Prettiest Girl in My Class](https://anilist.co/anime/169580)** `TV` — `PLANNING`
-- 🎬 **[The Quintessential Quintuplets](https://anilist.co/anime/103572)** `TV` — `PLANNING`
+- 🎬 **[Chainsaw Man](https://anilist.co/anime/127230)** `TV` — ⭐ 10/10
+- 🎬 **[Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465)** `TV` — ⭐ 9/10
+- 🎬 **[Mushoku Tensei: Jobless Reincarnation Cour 2](https://anilist.co/anime/127720)** `TV` — ⭐ 8/10
+- 🎬 **[Mushoku Tensei: Jobless Reincarnation Season 2](https://anilist.co/anime/146065)** `TV` — ⭐ 10/10
+- 🎬 **[Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873)** `TV` — ⭐ 10/10
