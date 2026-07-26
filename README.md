@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
+- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"its a dashboard... for Nephthys"_ **(today)**
 - [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(1 day ago)**
-- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"its a dashboard... for Nephthys"_ **(1 day ago)**
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(2 days ago)**
 - [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(3 days ago)**
 - [`my-amazing-website`](https://github.com/Lazylllama/my-amazing-website) - _""_ **(1 week ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript                15h 12m 47s   ████████████████░░░░░░░░░  63.62%
-unknown                   2h 47m 38s    ███░░░░░░░░░░░░░░░░░░░░░░  11.68%
-unity                     1h 58m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  8.22%
-Shell                     1h 3m 43s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.44%
-JSON                      43m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.07%
+TypeScript                15h 39m 2s    ████████████████░░░░░░░░░  63.08%
+unknown                   2h 54m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  11.75%
+unity                     1h 58m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.93%
+Shell                     1h 22m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.51%
+JSON                      45m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.09%
 
 💼 Projects:
-nephthys-dashboard        14h 42m 42s   ███████████████████░░░░░░  75.15%
-FishingGame               2h 0m 23s     ███░░░░░░░░░░░░░░░░░░░░░░  10.25%
-Skol-bot                  53m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.54%
-quickbutik-order-alerts   52m 43s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.49%
-lazyllama                 40m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
+nephthys-dashboard        15h 22m 30s   ███████████████████░░░░░░  75.96%
+FishingGame               2h 0m 23s     ███░░░░░░░░░░░░░░░░░░░░░░  9.91%
+Skol-bot                  53m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.39%
+quickbutik-order-alerts   52m 43s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.34%
+lazyllama                 40m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.33%
 
-Total: 19 hrs 29 mins
+Total: 20 hrs 8 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
