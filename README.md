@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript                16h 8m 31s    ████████████████░░░░░░░░░  63.71%
-unknown                   2h 56m 57s    ███░░░░░░░░░░░░░░░░░░░░░░  11.64%
-unity                     1h 58m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.76%
-Shell                     1h 22m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.40%
+TypeScript                16h 8m 31s    ████████████████░░░░░░░░░  63.63%
+unknown                   2h 56m 57s    ███░░░░░░░░░░░░░░░░░░░░░░  11.63%
+unity                     2h 0m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.88%
+Shell                     1h 22m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.39%
 JSON                      45m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.02%
 
 💼 Projects:
-nephthys-dashboard        15h 51m 58s   ████████████████████░░░░░  76.53%
-FishingGame               2h 0m 23s     ███░░░░░░░░░░░░░░░░░░░░░░  9.68%
-Skol-bot                  53m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
-quickbutik-order-alerts   52m 43s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.24%
+nephthys-dashboard        15h 51m 58s   ████████████████████░░░░░  76.41%
+FishingGame               2h 2m 23s     ███░░░░░░░░░░░░░░░░░░░░░░  9.82%
+Skol-bot                  53m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
+quickbutik-order-alerts   52m 43s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.23%
 lazyllama                 40m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.25%
 
-Total: 20 hrs 38 mins
+Total: 20 hrs 40 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
