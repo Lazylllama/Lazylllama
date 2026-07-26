@@ -1,9 +1,9 @@
 ### 👷 The latest repos i've pushed to
 
-- [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(today)**
-- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"its a dashboard... for Nephthys"_ **(today)**
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 day ago)**
-- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(2 days ago)**
+- [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(1 day ago)**
+- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"its a dashboard... for Nephthys"_ **(1 day ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(2 days ago)**
+- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(3 days ago)**
 - [`my-amazing-website`](https://github.com/Lazylllama/my-amazing-website) - _""_ **(1 week ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(1 week ago)**
 - [`lazyllama.xyz`](https://github.com/Lazylllama/lazyllama.xyz) - _"My new portfolio. lazylllama.github.io has to retire 🫡"_ **(3 weeks ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript                15h 12m 47s   █████████████████░░░░░░░░  64.16%
-unknown                   2h 47m 38s    ███░░░░░░░░░░░░░░░░░░░░░░  11.78%
-unity                     1h 46m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.45%
-Shell                     1h 3m 43s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
-JSON                      43m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.09%
+TypeScript                15h 12m 47s   ████████████████░░░░░░░░░  63.62%
+unknown                   2h 47m 38s    ███░░░░░░░░░░░░░░░░░░░░░░  11.68%
+unity                     1h 58m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  8.22%
+Shell                     1h 3m 43s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.44%
+JSON                      43m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.07%
 
 💼 Projects:
-nephthys-dashboard        14h 42m 42s   ███████████████████░░░░░░  75.92%
-FishingGame               1h 48m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  9.32%
-Skol-bot                  53m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
-quickbutik-order-alerts   52m 43s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.53%
-lazyllama                 40m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.48%
+nephthys-dashboard        14h 42m 42s   ███████████████████░░░░░░  75.15%
+FishingGame               2h 0m 23s     ███░░░░░░░░░░░░░░░░░░░░░░  10.25%
+Skol-bot                  53m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.54%
+quickbutik-order-alerts   52m 43s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.49%
+lazyllama                 40m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
 
-Total: 19 hrs 17 mins
+Total: 19 hrs 29 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
