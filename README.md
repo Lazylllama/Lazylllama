@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript                13h 27m 24s   ██████████████░░░░░░░░░░░  52.88%
-unknown                   3h 7m 48s     ████░░░░░░░░░░░░░░░░░░░░░  12.30%
-unity                     2h 4m 0s      ███░░░░░░░░░░░░░░░░░░░░░░  8.12%
-HTML+ERB                  1h 42m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.73%
-Shell                     1h 22m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.37%
+TypeScript                14h 27m 36s   ██████████████░░░░░░░░░░░  52.05%
+unknown                   3h 26m 18s    ████░░░░░░░░░░░░░░░░░░░░░  12.38%
+HTML+ERB                  2h 4m 10s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.45%
+unity                     2h 4m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.44%
+Ruby                      1h 39m 27s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
 
 💼 Projects:
-nephthys-dashboard        13h 6m 29s    █████████████████░░░░░░░░  65.69%
-FishingGame               2h 8m 25s     ███░░░░░░░░░░░░░░░░░░░░░░  10.73%
-stardance                 2h 2m 56s     ███░░░░░░░░░░░░░░░░░░░░░░  10.27%
-Skol-bot                  53m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.46%
-quickbutik-order-alerts   52m 43s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.40%
+nephthys-dashboard        14h 9m 29s    █████████████████░░░░░░░░  65.43%
+stardance                 2h 32m 28s    ███░░░░░░░░░░░░░░░░░░░░░░  11.74%
+FishingGame               2h 8m 25s     ███░░░░░░░░░░░░░░░░░░░░░░  9.89%
+Skol-bot                  53m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
+quickbutik-order-alerts   52m 43s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
 
-Total: 19 hrs 49 mins
+Total: 21 hrs 29 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
