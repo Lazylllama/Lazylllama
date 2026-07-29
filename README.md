@@ -1,12 +1,12 @@
 ### 👷 The latest repos i've pushed to
 
 - [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"its a dashboard... for Nephthys"_ **(1 day ago)**
-- [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(1 day ago)**
-- [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(3 days ago)**
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(4 days ago)**
-- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(5 days ago)**
-- [`my-amazing-website`](https://github.com/Lazylllama/my-amazing-website) - _""_ **(1 week ago)**
-- [`lazyllama.xyz`](https://github.com/Lazylllama/lazyllama.xyz) - _"My new portfolio. lazylllama.github.io has to retire 🫡"_ **(3 weeks ago)**
+- [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(2 days ago)**
+- [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(4 days ago)**
+- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(5 days ago)**
+- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(6 days ago)**
+- [`my-amazing-website`](https://github.com/Lazylllama/my-amazing-website) - _""_ **(2 weeks ago)**
+- [`lazyllama.xyz`](https://github.com/Lazylllama/lazyllama.xyz) - _"My new portfolio. lazylllama.github.io has to retire 🫡"_ **(4 weeks ago)**
 - [`llama-on-rails`](https://github.com/Lazylllama/llama-on-rails) - _"my website, on rails"_ **(1 month ago)**
 
 ### ⌨️ My latest projects
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript                13h 42m 10s   █████████████░░░░░░░░░░░░  51.64%
-unknown                   3h 9m 34s     ███░░░░░░░░░░░░░░░░░░░░░░  11.91%
-HTML+ERB                  2h 4m 10s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
-unity                     2h 4m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.79%
-Ruby                      1h 39m 27s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.25%
+TypeScript           12h 57m 43s   ███████████████░░░░░░░░░░  56.09%
+HTML+ERB             2h 4m 10s     ███░░░░░░░░░░░░░░░░░░░░░░  8.95%
+unity                2h 4m 0s      ███░░░░░░░░░░░░░░░░░░░░░░  8.94%
+unknown              2h 1m 59s     ███░░░░░░░░░░░░░░░░░░░░░░  8.80%
+Ruby                 1h 39m 27s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.17%
 
 💼 Projects:
-nephthys-dashboard        13h 22m 1s    █████████████████░░░░░░░░  64.78%
-stardance                 2h 32m 28s    ████░░░░░░░░░░░░░░░░░░░░░  12.32%
-FishingGame               2h 8m 25s     ███░░░░░░░░░░░░░░░░░░░░░░  10.37%
-Skol-bot                  53m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.31%
-quickbutik-order-alerts   52m 43s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.26%
+nephthys-dashboard   12h 50m 46s   ██████████████████░░░░░░░  69.23%
+stardance            2h 32m 28s    ████░░░░░░░░░░░░░░░░░░░░░  13.69%
+FishingGame          2h 8m 25s     ███░░░░░░░░░░░░░░░░░░░░░░  11.53%
+Skol-bot             53m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.79%
+lazyllama            6m 20s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.57%
 
-Total: 20 hrs 29 mins
+Total: 18 hrs 32 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
