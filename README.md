@@ -1,8 +1,8 @@
 ### 👷 The latest repos i've pushed to
 
-- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"its a dashboard... for Nephthys"_ **(3 days ago)**
-- [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(4 days ago)**
-- [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(6 days ago)**
+- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"its a dashboard... for Nephthys"_ **(4 days ago)**
+- [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(5 days ago)**
+- [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(1 week ago)**
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 week ago)**
 - [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(1 week ago)**
 - [`my-amazing-website`](https://github.com/Lazylllama/my-amazing-website) - _""_ **(2 weeks ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript           7h 19m 9s    ██████████░░░░░░░░░░░░░░░  36.99%
-Lapse                3h 11m 1s    █████░░░░░░░░░░░░░░░░░░░░  16.09%
-HTML+ERB             2h 2m 25s    ███░░░░░░░░░░░░░░░░░░░░░░  10.31%
-unity                1h 48m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  9.10%
-Ruby                 1h 43m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  8.75%
+Lapse                4h 33m 1s    ███████░░░░░░░░░░░░░░░░░░  24.98%
+TypeScript           3h 53m 39s   ██████░░░░░░░░░░░░░░░░░░░  21.38%
+HTML+ERB             2h 8m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  11.77%
+Ruby                 1h 53m 55s   ███░░░░░░░░░░░░░░░░░░░░░░  10.42%
+unity                1h 44m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  9.52%
 
 💼 Projects:
-nephthys-dashboard   7h 28m 29s   ████████████░░░░░░░░░░░░░  46.18%
-wild                 3h 11m 1s    █████░░░░░░░░░░░░░░░░░░░░  19.67%
-stardance            2h 16m 28s   ████░░░░░░░░░░░░░░░░░░░░░  14.05%
-FishingGame          1h 52m 25s   ███░░░░░░░░░░░░░░░░░░░░░░  11.57%
-wilderness           1h 6m 9s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.81%
+nephthys-dashboard   3h 39m 27s   ███████░░░░░░░░░░░░░░░░░░  26.73%
+wild                 3h 11m 1s    ██████░░░░░░░░░░░░░░░░░░░  23.26%
+wilderness           2h 29m 1s    █████░░░░░░░░░░░░░░░░░░░░  18.15%
+stardance            2h 16m 28s   █████░░░░░░░░░░░░░░░░░░░░  16.62%
+FishingGame          1h 48m 25s   ████░░░░░░░░░░░░░░░░░░░░░  13.20%
 
-Total: 16 hrs 15 mins
+Total: 13 hrs 45 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
