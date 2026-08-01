@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Lapse                4h 33m 1s    ███████░░░░░░░░░░░░░░░░░░  24.98%
-TypeScript           3h 53m 39s   ██████░░░░░░░░░░░░░░░░░░░  21.38%
-HTML+ERB             2h 8m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  11.77%
-Ruby                 1h 53m 55s   ███░░░░░░░░░░░░░░░░░░░░░░  10.42%
-unity                1h 44m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  9.52%
+Lapse                4h 33m 1s    ███████░░░░░░░░░░░░░░░░░░  24.83%
+TypeScript           3h 53m 39s   ██████░░░░░░░░░░░░░░░░░░░  21.25%
+HTML+ERB             2h 8m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  11.70%
+Ruby                 1h 53m 55s   ███░░░░░░░░░░░░░░░░░░░░░░  10.36%
+unity                1h 44m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  9.46%
 
 💼 Projects:
-nephthys-dashboard   3h 39m 27s   ███████░░░░░░░░░░░░░░░░░░  26.73%
-wild                 3h 11m 1s    ██████░░░░░░░░░░░░░░░░░░░  23.26%
-wilderness           2h 29m 1s    █████░░░░░░░░░░░░░░░░░░░░  18.15%
-stardance            2h 16m 28s   █████░░░░░░░░░░░░░░░░░░░░  16.62%
-FishingGame          1h 48m 25s   ████░░░░░░░░░░░░░░░░░░░░░  13.20%
+nephthys-dashboard   3h 39m 27s   ███████░░░░░░░░░░░░░░░░░░  26.45%
+wild                 3h 11m 1s    ██████░░░░░░░░░░░░░░░░░░░  23.03%
+wilderness           2h 31m 1s    █████░░░░░░░░░░░░░░░░░░░░  18.21%
+stardance            2h 16m 28s   █████░░░░░░░░░░░░░░░░░░░░  16.45%
+FishingGame          1h 48m 25s   ████░░░░░░░░░░░░░░░░░░░░░  13.07%
 
-Total: 13 hrs 45 mins
+Total: 13 hrs 51 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
