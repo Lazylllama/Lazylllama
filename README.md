@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"its a dashboard... for Nephthys"_ **(6 days ago)**
+- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"its a dashboard... for Nephthys"_ **(1 week ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(1 week ago)**
 - [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(1 week ago)**
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 week ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript           6h 14m 55s   ████████░░░░░░░░░░░░░░░░░  31.31%
-Lapse                4h 33m 1s    ██████░░░░░░░░░░░░░░░░░░░  22.80%
-HTML+ERB             2h 8m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  10.74%
-Ruby                 1h 56m 34s   ███░░░░░░░░░░░░░░░░░░░░░░  9.73%
-unknown              1h 53m 19s   ███░░░░░░░░░░░░░░░░░░░░░░  9.46%
+TypeScript           6h 17m 4s    ██████████░░░░░░░░░░░░░░░  39.38%
+Lapse                4h 33m 1s    ████████░░░░░░░░░░░░░░░░░  28.52%
+unknown              1h 23m 24s   ███░░░░░░░░░░░░░░░░░░░░░░  8.71%
+CSS                  1h 15m 53s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.93%
+Markdown             28m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.94%
 
 💼 Projects:
-wilderness           6h 32m 7s    ███████████░░░░░░░░░░░░░░  43.90%
-wild                 3h 11m 1s    ██████░░░░░░░░░░░░░░░░░░░  21.38%
-nephthys-dashboard   2h 17m 8s    ████░░░░░░░░░░░░░░░░░░░░░  15.35%
-stardance            2h 16m 28s   ████░░░░░░░░░░░░░░░░░░░░░  15.28%
-lazyllama            26m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.96%
+wilderness           7h 42m 38s   ████████████████░░░░░░░░░  61.54%
+wild                 3h 11m 1s    ███████░░░░░░░░░░░░░░░░░░  25.41%
+nephthys-dashboard   1h 9m 57s    ███░░░░░░░░░░░░░░░░░░░░░░  9.30%
+lazyllama            18m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.41%
+dots-hyprland        9m 57s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.32%
 
-Total: 14 hrs 56 mins
+Total: 12 hrs 34 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
