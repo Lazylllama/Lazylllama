@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript           6h 17m 4s    ██████████░░░░░░░░░░░░░░░  39.38%
-Lapse                4h 33m 1s    ████████░░░░░░░░░░░░░░░░░  28.52%
-unknown              1h 23m 24s   ███░░░░░░░░░░░░░░░░░░░░░░  8.71%
-CSS                  1h 15m 53s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.93%
-Markdown             28m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.94%
+TypeScript           6h 22m 15s   ██████████░░░░░░░░░░░░░░░  39.71%
+Lapse                4h 33m 1s    ████████░░░░░░░░░░░░░░░░░  28.36%
+unknown              1h 23m 24s   ███░░░░░░░░░░░░░░░░░░░░░░  8.66%
+CSS                  1h 15m 53s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.88%
+Markdown             28m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.92%
 
 💼 Projects:
-wilderness           7h 42m 38s   ████████████████░░░░░░░░░  61.54%
-wild                 3h 11m 1s    ███████░░░░░░░░░░░░░░░░░░  25.41%
-nephthys-dashboard   1h 9m 57s    ███░░░░░░░░░░░░░░░░░░░░░░  9.30%
-lazyllama            18m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.41%
-dots-hyprland        9m 57s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.32%
+wilderness           7h 45m 49s   ████████████████░░░░░░░░░  61.54%
+wild                 3h 11m 1s    ███████░░░░░░░░░░░░░░░░░░  25.24%
+nephthys-dashboard   1h 11m 57s   ███░░░░░░░░░░░░░░░░░░░░░░  9.51%
+lazyllama            18m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.39%
+dots-hyprland        9m 57s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.31%
 
-Total: 12 hrs 34 mins
+Total: 12 hrs 39 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
