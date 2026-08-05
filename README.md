@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"its a dashboard... for Nephthys"_ **(1 day ago)**
+- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(today)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(1 week ago)**
 - [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(1 week ago)**
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 week ago)**
@@ -12,27 +12,27 @@
 ### ⌨️ My latest projects
 
 - [`my-amazing-website`](https://github.com/Lazylllama/my-amazing-website) - _""_
-- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"its a dashboard... for Nephthys"_
+- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_
 - [`llama-on-rails`](https://github.com/Lazylllama/llama-on-rails) - _"my website, on rails"_
 - [`nema17-music`](https://github.com/Lazylllama/nema17-music) - _"Play music on your nema17 stepper motors"_
 
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript           7h 57m 27s   ██████████░░░░░░░░░░░░░░░  36.83%
-Lapse                4h 33m 1s    ██████░░░░░░░░░░░░░░░░░░░  21.06%
-unknown              2h 12m 55s   ███░░░░░░░░░░░░░░░░░░░░░░  10.25%
-Ruby                 2h 2m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  9.47%
-CSS                  1h 20m 54s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
+TypeScript           8h 25m 52s   ██████████░░░░░░░░░░░░░░░  36.71%
+Lapse                4h 56m 41s   ██████░░░░░░░░░░░░░░░░░░░  21.53%
+unknown              2h 16m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  9.91%
+Ruby                 2h 4m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  9.05%
+CSS                  1h 20m 54s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.87%
 
 💼 Projects:
-wilderness           10h 56m 4s   ██████████████████░░░░░░░  68.56%
-wild                 3h 11m 1s    █████░░░░░░░░░░░░░░░░░░░░  19.96%
-nephthys-dashboard   1h 8m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.12%
-lazyllama            18m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.89%
-stardance            13m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.41%
+wilderness           11h 5m 25s   █████████████████░░░░░░░░  64.83%
+wild                 3h 11m 1s    █████░░░░░░░░░░░░░░░░░░░░  18.61%
+nephthys-dashboard   2h 8m 22s    ████░░░░░░░░░░░░░░░░░░░░░  12.51%
+lazyllama            18m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.76%
+stardance            13m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.32%
 
-Total: 15 hrs 55 mins
+Total: 17 hrs 3 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
