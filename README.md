@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(4 days ago)**
-- [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(1 week ago)**
+- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(5 days ago)**
+- [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(2 weeks ago)**
 - [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(2 weeks ago)**
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(2 weeks ago)**
 - [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(2 weeks ago)**
@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript           7h 45m 41s   █████████████░░░░░░░░░░░░  50.06%
-Ruby                 2h 17m 58s   ████░░░░░░░░░░░░░░░░░░░░░  14.83%
-unknown              1h 27m 16s   ███░░░░░░░░░░░░░░░░░░░░░░  9.38%
-Markdown             46m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.95%
-YAML                 42m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.57%
+TypeScript           6h 29m 46s   ████████████░░░░░░░░░░░░░  46.40%
+Ruby                 2h 46m 43s   █████░░░░░░░░░░░░░░░░░░░░  19.85%
+unknown              1h 25m 2s    ███░░░░░░░░░░░░░░░░░░░░░░  10.12%
+Markdown             48m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.74%
+YAML                 29m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.50%
 
 💼 Projects:
-wilderness           8h 46m 50s   ████████████████████░░░░░  77.92%
-nephthys-dashboard   2h 8m 0s     █████░░░░░░░░░░░░░░░░░░░░  18.93%
-stardance            13m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.00%
-lazyllama            7m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.15%
+wilderness           7h 18m 32s   ███████████████████░░░░░░  74.22%
+nephthys-dashboard   2h 8m 0s     ██████░░░░░░░░░░░░░░░░░░░  21.66%
+stardance            13m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.28%
+lazyllama            10m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
 
-Total: 11 hrs 16 mins
+Total: 9 hrs 51 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
