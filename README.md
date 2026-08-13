@@ -1,10 +1,10 @@
 ### 👷 The latest repos i've pushed to
 
-- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(2 days ago)**
+- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(3 days ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(2 weeks ago)**
 - [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(2 weeks ago)**
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(2 weeks ago)**
-- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(2 weeks ago)**
+- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(3 weeks ago)**
 - [`my-amazing-website`](https://github.com/Lazylllama/my-amazing-website) - _""_ **(4 weeks ago)**
 - [`lazyllama.xyz`](https://github.com/Lazylllama/lazyllama.xyz) - _"My new portfolio. lazylllama.github.io has to retire 🫡"_ **(1 month ago)**
 - [`llama-on-rails`](https://github.com/Lazylllama/llama-on-rails) - _"my website, on rails"_ **(2 months ago)**
@@ -19,18 +19,17 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript           5h 23m 1s    ████████████░░░░░░░░░░░░░  47.53%
-Ruby                 2h 48m 35s   ███████░░░░░░░░░░░░░░░░░░  24.81%
-Markdown             41m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.05%
-unknown              37m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.51%
-Lapse                21m 39s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.19%
+TypeScript   3h 32m 11s   ██████████████░░░░░░░░░░░  52.53%
+Ruby         1h 57m 5s    ████████░░░░░░░░░░░░░░░░░  28.98%
+Markdown     18m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
+unknown      18m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.69%
+YAML         12m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.00%
 
 💼 Projects:
-wilderness           6h 44m 35s   ██████████████████████░░░  84.67%
-nephthys-dashboard   1h 2m 29s    ████░░░░░░░░░░░░░░░░░░░░░  13.08%
-lazyllama            10m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.26%
+wilderness   4h 34m 27s   █████████████████████████  96.22%
+lazyllama    10m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.78%
 
-Total: 8 hrs 0 mins
+Total: 4 hrs 47 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
