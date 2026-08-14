@@ -19,17 +19,17 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript   2h 50m 40s   ████████████░░░░░░░░░░░░░  45.24%
-Ruby         1h 52m 18s   ████████░░░░░░░░░░░░░░░░░  29.77%
-unknown      31m 14s      ███░░░░░░░░░░░░░░░░░░░░░░  8.28%
-YAML         19m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.15%
-Markdown     18m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
+TypeScript   3h 0m 24s    ███████████░░░░░░░░░░░░░░  41.57%
+Ruby         2h 11m 16s   ████████░░░░░░░░░░░░░░░░░  30.25%
+unknown      56m 22s      ████░░░░░░░░░░░░░░░░░░░░░  12.99%
+YAML         22m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.14%
+Markdown     18m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.37%
 
 💼 Projects:
-wilderness   4h 20m 24s   █████████████████████████  96.02%
-lazyllama    10m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.98%
+wilderness   5h 1m 24s    ████████████████████████░  95.93%
+lazyllama    12m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.07%
 
-Total: 4 hrs 31 mins
+Total: 5 hrs 14 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
