@@ -1,8 +1,8 @@
 ### 👷 The latest repos i've pushed to
 
-- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(4 days ago)**
+- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(5 days ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(2 weeks ago)**
-- [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(2 weeks ago)**
+- [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(3 weeks ago)**
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(3 weeks ago)**
 - [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(3 weeks ago)**
 - [`my-amazing-website`](https://github.com/Lazylllama/my-amazing-website) - _""_ **(1 month ago)**
@@ -19,17 +19,17 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript   3h 1m 29s    ██████████░░░░░░░░░░░░░░░  39.97%
-Ruby         2h 26m 41s   █████████░░░░░░░░░░░░░░░░  32.31%
-unknown      1h 0m 2s     ████░░░░░░░░░░░░░░░░░░░░░  13.22%
-YAML         22m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.92%
-Markdown     18m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.18%
+TypeScript   3h 6m 50s    ███████████░░░░░░░░░░░░░░  40.67%
+Ruby         2h 26m 41s   ████████░░░░░░░░░░░░░░░░░  31.93%
+unknown      1h 0m 2s     ████░░░░░░░░░░░░░░░░░░░░░  13.07%
+YAML         22m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
+Markdown     18m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.13%
 
 💼 Projects:
-wilderness   5h 26m 22s   █████████████████████████  96.23%
-lazyllama    12m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.77%
+wilderness   5h 31m 43s   █████████████████████████  96.29%
+lazyllama    12m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.71%
 
-Total: 5 hrs 39 mins
+Total: 5 hrs 44 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
