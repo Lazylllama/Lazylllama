@@ -1,13 +1,13 @@
 ### 👷 The latest repos i've pushed to
 
-- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(5 days ago)**
+- [`capybraita`](https://github.com/asuperidea/capybraita) - _"Game made for Hackclub Macondo"_ **(1 day ago)**
+- [`horus-dashboard`](https://github.com/Lazylllama/horus-dashboard) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(6 days ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(2 weeks ago)**
 - [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(3 weeks ago)**
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(3 weeks ago)**
 - [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(3 weeks ago)**
 - [`my-amazing-website`](https://github.com/Lazylllama/my-amazing-website) - _""_ **(1 month ago)**
 - [`lazyllama.xyz`](https://github.com/Lazylllama/lazyllama.xyz) - _"My new portfolio. lazylllama.github.io has to retire 🫡"_ **(1 month ago)**
-- [`llama-on-rails`](https://github.com/Lazylllama/llama-on-rails) - _"my website, on rails"_ **(2 months ago)**
 
 ### ⌨️ My latest projects
 
@@ -19,16 +19,16 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript   3h 6m 50s    ███████████░░░░░░░░░░░░░░  42.27%
-Ruby         2h 26m 41s   █████████░░░░░░░░░░░░░░░░  33.19%
-unknown      55m 0s       ████░░░░░░░░░░░░░░░░░░░░░  12.44%
-YAML         20m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.60%
-Markdown     14m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.39%
+TypeScript   3h 35m 54s   ███████████░░░░░░░░░░░░░░  43.53%
+Ruby         2h 51m 36s   █████████░░░░░░░░░░░░░░░░  34.60%
+unknown      55m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  11.09%
+YAML         20m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.10%
+Markdown     14m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.02%
 
 💼 Projects:
-wilderness   5h 29m 43s   █████████████████████████  100.00%
+wilderness   6h 7m 23s    █████████████████████████  100.00%
 
-Total: 5 hrs 31 mins
+Total: 6 hrs 9 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
