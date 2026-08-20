@@ -1,12 +1,12 @@
 ### 👷 The latest repos i've pushed to
 
-- [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(today)**
-- [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(today)**
-- [`capybraita`](https://github.com/asuperidea/capybraita) - _"Game made for Hackclub Macondo"_ **(4 days ago)**
+- [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(1 day ago)**
+- [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 day ago)**
+- [`capybraita`](https://github.com/asuperidea/capybraita) - _"Game made for Hackclub Macondo"_ **(5 days ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(3 weeks ago)**
 - [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(3 weeks ago)**
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(3 weeks ago)**
-- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(3 weeks ago)**
+- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(4 weeks ago)**
 - [`my-amazing-website`](https://github.com/Lazylllama/my-amazing-website) - _""_ **(1 month ago)**
 
 ### ⌨️ My latest projects
@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript           3h 11m 49s   ██████████░░░░░░░░░░░░░░░  37.54%
-unknown              1h 49m 16s   ██████░░░░░░░░░░░░░░░░░░░  21.38%
-Ruby                 1h 31m 3s    █████░░░░░░░░░░░░░░░░░░░░  17.82%
-Shell                58m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  11.54%
-Lapse                18m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.52%
+TypeScript           3h 11m 4s    ██████████░░░░░░░░░░░░░░░  37.16%
+unknown              1h 54m 15s   ██████░░░░░░░░░░░░░░░░░░░  22.22%
+Ruby                 1h 28m 3s    █████░░░░░░░░░░░░░░░░░░░░  17.12%
+Shell                58m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  11.46%
+Lapse                18m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.50%
 
 💼 Projects:
-wilderness           3h 8m 24s    ████████████░░░░░░░░░░░░░  46.38%
-nephthys-dashboard   2h 50m 15s   ███████████░░░░░░░░░░░░░░  41.91%
-horustrailer         41m 2s       ███░░░░░░░░░░░░░░░░░░░░░░  10.10%
-frames               6m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.61%
+wilderness           3h 5m 23s    ████████████░░░░░░░░░░░░░  45.07%
+nephthys-dashboard   2h 58m 21s   ███████████░░░░░░░░░░░░░░  43.36%
+horustrailer         41m 2s       ███░░░░░░░░░░░░░░░░░░░░░░  9.98%
+frames               6m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.59%
 
-Total: 6 hrs 47 mins
+Total: 6 hrs 52 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
