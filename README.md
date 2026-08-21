@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript           4h 8m 9s     ███████████░░░░░░░░░░░░░░  43.12%
-unknown              1h 46m 8s    █████░░░░░░░░░░░░░░░░░░░░  18.44%
-Ruby                 1h 20m 3s    ████░░░░░░░░░░░░░░░░░░░░░  13.91%
-Shell                58m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  10.24%
-JSON                 25m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
+TypeScript           4h 54m 2s    ████████████░░░░░░░░░░░░░  47.32%
+unknown              1h 46m 8s    █████░░░░░░░░░░░░░░░░░░░░  17.08%
+Ruby                 1h 20m 3s    ████░░░░░░░░░░░░░░░░░░░░░  12.88%
+Shell                58m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  9.49%
+JSON                 25m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.15%
 
 💼 Projects:
-nephthys-dashboard   4h 28m 10s   ███████████████░░░░░░░░░░  58.65%
-wilderness           2h 21m 30s   ████████░░░░░░░░░░░░░░░░░  30.95%
-horustrailer         41m 2s       ███░░░░░░░░░░░░░░░░░░░░░░  8.97%
-frames               6m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
+nephthys-dashboard   5h 14m 3s    ████████████████░░░░░░░░░  62.42%
+wilderness           2h 21m 30s   ████████░░░░░░░░░░░░░░░░░  28.12%
+horustrailer         41m 2s       ███░░░░░░░░░░░░░░░░░░░░░░  8.16%
+frames               6m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.30%
 
-Total: 7 hrs 36 mins
+Total: 8 hrs 22 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
