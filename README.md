@@ -1,13 +1,13 @@
 ### 👷 The latest repos i've pushed to
 
-- [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(today)**
-- [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(today)**
-- [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(2 days ago)**
-- [`capybraita`](https://github.com/asuperidea/capybraita) - _"Game made for Hackclub Macondo"_ **(6 days ago)**
+- [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 day ago)**
+- [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 day ago)**
+- [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(3 days ago)**
+- [`capybraita`](https://github.com/asuperidea/capybraita) - _"Game made for Hackclub Macondo"_ **(1 week ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(3 weeks ago)**
-- [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(3 weeks ago)**
+- [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(4 weeks ago)**
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(4 weeks ago)**
-- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(4 weeks ago)**
+- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(1 month ago)**
 
 ### ⌨️ My latest projects
 
@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript           4h 54m 2s    ████████████░░░░░░░░░░░░░  47.32%
-unknown              1h 46m 8s    █████░░░░░░░░░░░░░░░░░░░░  17.08%
-Ruby                 1h 20m 3s    ████░░░░░░░░░░░░░░░░░░░░░  12.88%
-Shell                58m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  9.49%
-JSON                 25m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.15%
+TypeScript           4h 27m 29s   █████████████░░░░░░░░░░░░  49.92%
+unknown              1h 33m 49s   █████░░░░░░░░░░░░░░░░░░░░  17.51%
+Shell                58m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  11.00%
+Ruby                 36m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.77%
+JSON                 25m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
 
 💼 Projects:
-nephthys-dashboard   5h 14m 3s    ████████████████░░░░░░░░░  62.42%
-wilderness           2h 21m 30s   ████████░░░░░░░░░░░░░░░░░  28.12%
-horustrailer         41m 2s       ███░░░░░░░░░░░░░░░░░░░░░░  8.16%
-frames               6m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.30%
+nephthys-dashboard   5h 14m 3s    ██████████████████░░░░░░░  71.60%
+wilderness           1h 16m 59s   █████░░░░░░░░░░░░░░░░░░░░  17.55%
+horustrailer         41m 2s       ███░░░░░░░░░░░░░░░░░░░░░░  9.36%
+frames               6m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.49%
 
-Total: 8 hrs 22 mins
+Total: 7 hrs 18 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
