@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(2 days ago)**
+- [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(today)**
 - [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(2 days ago)**
 - [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(4 days ago)**
 - [`capybraita`](https://github.com/asuperidea/capybraita) - _"Game made for Hackclub Macondo"_ **(1 week ago)**
@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript           6h 29m 20s   ███████████████░░░░░░░░░░  58.59%
-unknown              1h 54m 40s   █████░░░░░░░░░░░░░░░░░░░░  17.25%
-Shell                1h 9m 54s    ███░░░░░░░░░░░░░░░░░░░░░░  10.52%
-JSON                 25m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.88%
-Markdown             23m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.48%
+TypeScript           7h 27m 53s   ███████████████░░░░░░░░░░  59.49%
+unknown              2h 11m 41s   █████░░░░░░░░░░░░░░░░░░░░  17.49%
+Shell                1h 14m 24s   ███░░░░░░░░░░░░░░░░░░░░░░  9.88%
+JSON                 27m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.70%
+Markdown             23m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.08%
 
 💼 Projects:
-nephthys-dashboard   8h 0m 4s     ██████████████████████░░░  84.73%
-horustrailer         41m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.24%
-wilderness           38m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.87%
-frames               6m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.15%
+nephthys-dashboard   9h 11m 18s   ██████████████████████░░░  86.44%
+horustrailer         41m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.43%
+wilderness           38m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.10%
+frames               6m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.02%
 
-Total: 9 hrs 26 mins
+Total: 10 hrs 37 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
