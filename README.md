@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 day ago)**
-- [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(6 days ago)**
+- [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(2 days ago)**
+- [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 week ago)**
 - [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(1 week ago)**
 - [`capybraita`](https://github.com/asuperidea/capybraita) - _"Game made for Hackclub Macondo"_ **(1 week ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(3 weeks ago)**
@@ -19,16 +19,17 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript           7h 27m 50s   █████████████████████░░░░  80.30%
-unknown              1h 6m 34s    ███░░░░░░░░░░░░░░░░░░░░░░  11.94%
-Markdown             15m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.70%
-Shell                13m 26s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.41%
-JSON                 10m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.85%
+TypeScript           7h 45m 18s   █████████████████████░░░░  81.24%
+unknown              1h 21m 56s   ████░░░░░░░░░░░░░░░░░░░░░  14.31%
+Shell                13m 26s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.35%
+JSON                 6m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.06%
+Python               4m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.72%
 
 💼 Projects:
-nephthys-dashboard   8h 29m 40s   █████████████████████████  100.00%
+nephthys-dashboard   8h 34m 6s    █████████████████████████  99.75%
+lazyllama            1m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.25%
 
-Total: 8 hrs 29 mins
+Total: 8 hrs 37 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
