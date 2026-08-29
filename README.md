@@ -19,17 +19,17 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript           6h 54m 34s   █████████████████████░░░░  81.03%
-unknown              1h 13m 23s   ████░░░░░░░░░░░░░░░░░░░░░  14.34%
-Shell                13m 26s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.63%
-JSON                 6m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.19%
+TypeScript           7h 8m 6s     █████████████████████░░░░  83.25%
+unknown              1h 11m 16s   ████░░░░░░░░░░░░░░░░░░░░░  13.86%
+JSON                 6m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.18%
+Shell                4m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.90%
 Python               4m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.81%
 
 💼 Projects:
-nephthys-dashboard   7h 28m 39s   █████████████████████████  98.77%
-lazyllama            5m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.23%
+nephthys-dashboard   7h 29m 5s    █████████████████████████  98.25%
+lazyllama            8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.75%
 
-Total: 7 hrs 36 mins
+Total: 7 hrs 39 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
