@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(4 days ago)**
+- [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(today)**
 - [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 week ago)**
 - [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(1 week ago)**
 - [`capybraita`](https://github.com/asuperidea/capybraita) - _"Game made for Hackclub Macondo"_ **(2 weeks ago)**
@@ -19,17 +19,18 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript           7h 10m 17s   █████████████████████░░░░  83.00%
-unknown              1h 11m 16s   ████░░░░░░░░░░░░░░░░░░░░░  13.75%
-JSON                 8m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.56%
-Shell                4m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.89%
-Python               4m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.80%
+TypeScript           5h 5m 42s    █████████████████████░░░░  80.84%
+unknown              58m 39s      ████░░░░░░░░░░░░░░░░░░░░░  15.51%
+Markdown             9m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.45%
+JSON                 4m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.06%
+Shell                18s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.08%
 
 💼 Projects:
-nephthys-dashboard   7h 31m 16s   █████████████████████████  98.26%
-lazyllama            8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.74%
+nephthys-dashboard   5h 28m 17s   ████████████████████████░  95.34%
+wilderness           8m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.33%
+lazyllama            8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.32%
 
-Total: 7 hrs 41 mins
+Total: 5 hrs 47 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
