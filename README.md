@@ -1,5 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
+- [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_ **(today)**
 - [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 day ago)**
 - [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 week ago)**
 - [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(1 week ago)**
@@ -7,30 +8,30 @@
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(3 weeks ago)**
 - [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(1 month ago)**
 - [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 month ago)**
-- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(1 month ago)**
 
 ### ⌨️ My latest projects
 
+- [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_
 - [`my-amazing-website`](https://github.com/Lazylllama/my-amazing-website) - _""_
 - [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_
 - [`llama-on-rails`](https://github.com/Lazylllama/llama-on-rails) - _"my website, on rails"_
-- [`nema17-music`](https://github.com/Lazylllama/nema17-music) - _"Play music on your nema17 stepper motors"_
 
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript           5h 5m 42s    █████████████████████░░░░  80.84%
-unknown              58m 39s      ████░░░░░░░░░░░░░░░░░░░░░  15.51%
-Markdown             9m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.45%
-JSON                 4m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.06%
-Shell                18s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.08%
+TypeScript           5h 7m 55s    ████████████████████░░░░░  79.28%
+unknown              58m 39s      ████░░░░░░░░░░░░░░░░░░░░░  15.10%
+Markdown             9m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.38%
+unity                6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.54%
+JSON                 4m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.03%
 
 💼 Projects:
-nephthys-dashboard   5h 28m 17s   ████████████████████████░  95.34%
-wilderness           8m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.33%
-lazyllama            8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.32%
+nephthys-dashboard   5h 28m 17s   ████████████████████████░  92.59%
+wilderness           12m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.46%
+lazyllama            8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.26%
+FishingGame          6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.69%
 
-Total: 5 hrs 47 mins
+Total: 5 hrs 59 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
