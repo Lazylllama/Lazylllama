@@ -1,5 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
+- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(today)**
 - [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_ **(1 day ago)**
 - [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(2 days ago)**
 - [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 week ago)**
@@ -7,7 +8,6 @@
 - [`capybraita`](https://github.com/asuperidea/capybraita) - _"Game made for Hackclub Macondo"_ **(2 weeks ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(4 weeks ago)**
 - [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(1 month ago)**
-- [`FlashlightGame`](https://github.com/Lazylllama/FlashlightGame) - _"Fallen Interactive: Fallen Scout"_ **(1 month ago)**
 
 ### ⌨️ My latest projects
 
@@ -19,19 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript           4h 12m 59s   ██████████████░░░░░░░░░░░  54.14%
-unknown              1h 28m 14s   █████░░░░░░░░░░░░░░░░░░░░  18.88%
-Markdown             1h 12m 25s   ████░░░░░░░░░░░░░░░░░░░░░  15.50%
-YAML                 16m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.57%
-Ruby                 9m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.93%
+TypeScript           4h 19m 43s   ██████████████░░░░░░░░░░░  53.37%
+unknown              1h 28m 14s   █████░░░░░░░░░░░░░░░░░░░░  18.13%
+Markdown             1h 14m 46s   ████░░░░░░░░░░░░░░░░░░░░░  15.36%
+YAML                 20m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
+Shell                12m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.58%
 
 💼 Projects:
-nephthys-dashboard   4h 28m 6s    ████████████████████░░░░░  77.94%
-wilderness           1h 1m 53s    █████░░░░░░░░░░░░░░░░░░░░  17.99%
-lazyllama            8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.33%
-FishingGame          6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.74%
+nephthys-dashboard   4h 28m 6s    ████████████████████░░░░░  76.13%
+wilderness           1h 1m 53s    █████░░░░░░░░░░░░░░░░░░░░  17.57%
+Skol-bot             8m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.33%
+lazyllama            8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.27%
+FishingGame          6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.70%
 
-Total: 5 hrs 46 mins
+Total: 5 hrs 56 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
