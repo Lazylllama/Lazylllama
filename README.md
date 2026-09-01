@@ -11,10 +11,10 @@
 
 ### ⌨️ My latest projects
 
+- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_
 - [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_
 - [`my-amazing-website`](https://github.com/Lazylllama/my-amazing-website) - _""_
 - [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_
-- [`llama-on-rails`](https://github.com/Lazylllama/llama-on-rails) - _"my website, on rails"_
 
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
