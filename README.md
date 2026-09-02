@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(1 day ago)**
+- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(today)**
 - [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_ **(2 days ago)**
 - [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(3 days ago)**
 - [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 week ago)**
