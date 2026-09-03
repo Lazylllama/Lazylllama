@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript           3h 13m 5s    ████████████░░░░░░░░░░░░░  46.97%
-unknown              1h 23m 20s   ██████░░░░░░░░░░░░░░░░░░░  20.27%
-Markdown             1h 10m 46s   █████░░░░░░░░░░░░░░░░░░░░  17.21%
-YAML                 20m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.08%
-Shell                12m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.05%
+TypeScript           3h 46m 38s   ████████████░░░░░░░░░░░░░  44.44%
+unknown              1h 45m 54s   ██████░░░░░░░░░░░░░░░░░░░  20.77%
+Markdown             1h 24m 56s   █████░░░░░░░░░░░░░░░░░░░░  16.65%
+YAML                 20m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.09%
+Shell                14m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.85%
 
 💼 Projects:
-nephthys-dashboard   3h 19m 57s   ██████████████████░░░░░░░  70.40%
-wilderness           1h 1m 53s    ██████░░░░░░░░░░░░░░░░░░░  21.79%
-Skol-bot             8m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.89%
-lazyllama            8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.82%
-FishingGame          6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.11%
+nephthys-dashboard   3h 19m 57s   ██████████████░░░░░░░░░░░  52.27%
+wilderness           1h 1m 53s    █████░░░░░░░░░░░░░░░░░░░░  16.18%
+swedbank-shit        59m 28s      ████░░░░░░░░░░░░░░░░░░░░░  15.54%
+web                  34m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  8.91%
+Skol-bot             8m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.14%
 
-Total: 4 hrs 48 mins
+Total: 6 hrs 14 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
