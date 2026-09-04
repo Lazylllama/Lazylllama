@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript           2h 32m 10s   ██████████░░░░░░░░░░░░░░░  39.95%
-unknown              1h 19m 35s   ██████░░░░░░░░░░░░░░░░░░░  20.89%
-Markdown             1h 0m 42s    ████░░░░░░░░░░░░░░░░░░░░░  15.93%
-YAML                 20m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.48%
-Shell                14m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.82%
+TypeScript           2h 32m 10s   ██████████░░░░░░░░░░░░░░░  39.12%
+unknown              1h 19m 35s   ██████░░░░░░░░░░░░░░░░░░░  20.46%
+Markdown             1h 0m 42s    ████░░░░░░░░░░░░░░░░░░░░░  15.61%
+YAML                 20m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.37%
+Shell                14m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.74%
 
 💼 Projects:
-nephthys-dashboard   2h 0m 30s    ██████████░░░░░░░░░░░░░░░  39.93%
-wilderness           1h 1m 53s    ██████░░░░░░░░░░░░░░░░░░░  20.50%
-swedbank-shit        59m 28s      █████░░░░░░░░░░░░░░░░░░░░  19.70%
-web                  34m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  11.29%
-Skol-bot             8m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.72%
+nephthys-dashboard   2h 0m 30s    ██████████░░░░░░░░░░░░░░░  39.15%
+wilderness           1h 1m 53s    ██████░░░░░░░░░░░░░░░░░░░  20.11%
+swedbank-shit        59m 28s      █████░░░░░░░░░░░░░░░░░░░░  19.32%
+web                  34m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  11.07%
+Skol-bot             8m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.66%
 
-Total: 4 hrs 53 mins
+Total: 5 hrs 1 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
