@@ -1,11 +1,11 @@
 ### 👷 The latest repos i've pushed to
 
-- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(2 days ago)**
-- [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_ **(4 days ago)**
-- [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(5 days ago)**
+- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(3 days ago)**
+- [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_ **(5 days ago)**
+- [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(6 days ago)**
 - [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(2 weeks ago)**
 - [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(2 weeks ago)**
-- [`capybraita`](https://github.com/asuperidea/capybraita) - _"Game made for Hackclub Macondo"_ **(2 weeks ago)**
+- [`capybraita`](https://github.com/asuperidea/capybraita) - _"Game made for Hackclub Macondo"_ **(3 weeks ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(1 month ago)**
 - [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(1 month ago)**
 
