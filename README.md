@@ -1,8 +1,8 @@
 ### 👷 The latest repos i've pushed to
 
-- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(3 days ago)**
-- [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_ **(5 days ago)**
-- [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(6 days ago)**
+- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(4 days ago)**
+- [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_ **(6 days ago)**
+- [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 week ago)**
 - [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(2 weeks ago)**
 - [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(2 weeks ago)**
 - [`capybraita`](https://github.com/asuperidea/capybraita) - _"Game made for Hackclub Macondo"_ **(3 weeks ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-TypeScript           2h 32m 10s   ██████████░░░░░░░░░░░░░░░  38.60%
-unknown              1h 31m 10s   ██████░░░░░░░░░░░░░░░░░░░  23.13%
-Markdown             54m 24s      ████░░░░░░░░░░░░░░░░░░░░░  13.80%
-YAML                 20m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.29%
-Shell                14m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.69%
+unknown              1h 28m 41s   ███████░░░░░░░░░░░░░░░░░░  27.25%
+TypeScript           1h 27m 58s   ███████░░░░░░░░░░░░░░░░░░  27.03%
+Markdown             52m 22s      █████░░░░░░░░░░░░░░░░░░░░  16.09%
+YAML                 20m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.41%
+Shell                14m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.47%
 
 💼 Projects:
-nephthys-dashboard   2h 0m 30s    ██████████░░░░░░░░░░░░░░░  36.34%
-swedbank-shit        1h 21m 18s   ███████░░░░░░░░░░░░░░░░░░  24.52%
-wilderness           1h 1m 53s    █████░░░░░░░░░░░░░░░░░░░░  18.66%
-web                  42m 44s      ████░░░░░░░░░░░░░░░░░░░░░  12.89%
-Skol-bot             8m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.47%
+swedbank-shit        1h 21m 18s   ████████░░░░░░░░░░░░░░░░░  30.40%
+wilderness           1h 1m 53s    ██████░░░░░░░░░░░░░░░░░░░  23.14%
+nephthys-dashboard   56m 18s      ██████░░░░░░░░░░░░░░░░░░░  21.05%
+web                  42m 44s      ████░░░░░░░░░░░░░░░░░░░░░  15.98%
+Skol-bot             8m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.07%
 
-Total: 5 hrs 15 mins
+Total: 4 hrs 11 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
