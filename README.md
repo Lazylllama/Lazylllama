@@ -19,16 +19,16 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#                2h 11m 4s    ██████████░░░░░░░░░░░░░░░  38.43%
-unity             1h 58m 0s    █████████░░░░░░░░░░░░░░░░  34.60%
-Unity3D Asset     1h 32m 0s    ███████░░░░░░░░░░░░░░░░░░  26.97%
+C#                2h 20m 48s   ███████████░░░░░░░░░░░░░░  40.14%
+unity             1h 58m 0s    █████████░░░░░░░░░░░░░░░░  33.64%
+Unity3D Asset     1h 32m 0s    ███████░░░░░░░░░░░░░░░░░░  26.23%
 
 💼 Projects:
-Tanuki Game       2h 38m 0s    ██████████████░░░░░░░░░░░  54.96%
-TanukiGame        1h 44m 16s   ██████████░░░░░░░░░░░░░░░  36.27%
-BallRollMaxxing   25m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  8.77%
+Tanuki Game       2h 38m 0s    ██████████████░░░░░░░░░░░  53.16%
+TanukiGame        1h 54m 0s    ██████████░░░░░░░░░░░░░░░  38.36%
+BallRollMaxxing   25m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  8.48%
 
-Total: 3 hrs 44 mins
+Total: 3 hrs 54 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
