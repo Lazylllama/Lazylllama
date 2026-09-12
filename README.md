@@ -1,13 +1,13 @@
 ### 👷 The latest repos i've pushed to
 
-- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(4 days ago)**
-- [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_ **(6 days ago)**
+- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(1 day ago)**
+- [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(4 days ago)**
+- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(1 week ago)**
+- [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_ **(1 week ago)**
 - [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 week ago)**
-- [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(2 weeks ago)**
-- [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(2 weeks ago)**
-- [`capybraita`](https://github.com/asuperidea/capybraita) - _"Game made for Hackclub Macondo"_ **(3 weeks ago)**
-- [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(1 month ago)**
-- [`FishingGame`](https://github.com/Th1n0-I/FishingGame) - _"A game about fishing."_ **(1 month ago)**
+- [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(3 weeks ago)**
+- [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(3 weeks ago)**
+- [`capybraita`](https://github.com/asuperidea/capybraita) - _"Game made for Hackclub Macondo"_ **(4 weeks ago)**
 
 ### ⌨️ My latest projects
 
@@ -19,20 +19,16 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-unknown              1h 28m 41s   ███████░░░░░░░░░░░░░░░░░░  25.78%
-TypeScript           1h 27m 58s   ███████░░░░░░░░░░░░░░░░░░  25.57%
-Markdown             52m 22s      ████░░░░░░░░░░░░░░░░░░░░░  15.22%
-YAML                 20m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.07%
-C#                   18m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.37%
+C#                2h 11m 4s    ██████████░░░░░░░░░░░░░░░  38.43%
+unity             1h 58m 0s    █████████░░░░░░░░░░░░░░░░  34.60%
+Unity3D Asset     1h 32m 0s    ███████░░░░░░░░░░░░░░░░░░  26.97%
 
 💼 Projects:
-swedbank-shit        1h 21m 18s   ████████░░░░░░░░░░░░░░░░░  28.40%
-wilderness           1h 1m 53s    ██████░░░░░░░░░░░░░░░░░░░  21.61%
-nephthys-dashboard   56m 18s      █████░░░░░░░░░░░░░░░░░░░░  19.66%
-web                  42m 44s      ████░░░░░░░░░░░░░░░░░░░░░  14.93%
-BallRollMaxxing      18m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.61%
+Tanuki Game       2h 38m 0s    ██████████████░░░░░░░░░░░  54.96%
+TanukiGame        1h 44m 16s   ██████████░░░░░░░░░░░░░░░  36.27%
+BallRollMaxxing   25m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  8.77%
 
-Total: 4 hrs 32 mins
+Total: 3 hrs 44 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
