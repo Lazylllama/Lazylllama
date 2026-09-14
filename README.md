@@ -19,15 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#              2h 3m 33s   ██████████░░░░░░░░░░░░░░░  37.04%
-unity           1h 58m 0s   █████████░░░░░░░░░░░░░░░░  35.38%
-Unity3D Asset   1h 32m 0s   ███████░░░░░░░░░░░░░░░░░░  27.58%
+C#                3h 2m 4s    ████████████░░░░░░░░░░░░░  44.88%
+unity             2h 2m 0s    ████████░░░░░░░░░░░░░░░░░  30.07%
+Unity3D Asset     1h 36m 0s   ██████░░░░░░░░░░░░░░░░░░░  23.66%
+Ruby              4m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.13%
+HTML+ERB          41s         █░░░░░░░░░░░░░░░░░░░░░░░░  0.17%
 
 💼 Projects:
-Tanuki Game     2h 38m 0s   ███████████████░░░░░░░░░░  56.12%
-TanukiGame      2h 3m 33s   ███████████░░░░░░░░░░░░░░  43.88%
+Tanuki Game       2h 44m 0s   ████████████░░░░░░░░░░░░░  46.92%
+TanukiGame        2h 3m 33s   █████████░░░░░░░░░░░░░░░░  35.35%
+BallRollMaxxing   57m 24s     █████░░░░░░░░░░░░░░░░░░░░  16.42%
+stardance         4m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.31%
 
-Total: 3 hrs 36 mins
+Total: 4 hrs 48 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
