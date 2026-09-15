@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(today)**
-- [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(6 days ago)**
+- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(1 day ago)**
+- [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(1 week ago)**
 - [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(1 week ago)**
 - [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_ **(2 weeks ago)**
 - [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(2 weeks ago)**
