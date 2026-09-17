@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#                    3h 22m 4s   ████████░░░░░░░░░░░░░░░░░  31.52%
-Unity3D Asset         3h 22m 0s   ████████░░░░░░░░░░░░░░░░░  31.51%
-unity                 1h 44m 0s   █████░░░░░░░░░░░░░░░░░░░░  16.22%
-Lapse                 1h 12m 1s   ███░░░░░░░░░░░░░░░░░░░░░░  11.23%
-unknown               30m 50s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
+C#                    2h 40m 7s   ████████░░░░░░░░░░░░░░░░░  30.84%
+Unity3D Asset         2h 30m 0s   ████████░░░░░░░░░░░░░░░░░  28.89%
+unity                 1h 16m 0s   ████░░░░░░░░░░░░░░░░░░░░░  14.64%
+Lapse                 1h 12m 1s   ████░░░░░░░░░░░░░░░░░░░░░  13.87%
+unknown               30m 50s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.94%
 
 💼 Projects:
-Tanuki Game           4h 40m 1s   ██████████████░░░░░░░░░░░  53.05%
-TanukiGame            2h 54m 2s   █████████░░░░░░░░░░░░░░░░  32.97%
-PacksOnPacksOverlay   41m 36s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.88%
-BallRollMaxxing       32m 11s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.10%
+Tanuki Game           3h 50m 1s   ██████████████░░░░░░░░░░░  52.77%
+TanukiGame            2h 12m 5s   ████████░░░░░░░░░░░░░░░░░  30.30%
+PacksOnPacksOverlay   41m 36s     ███░░░░░░░░░░░░░░░░░░░░░░  9.54%
+BallRollMaxxing       32m 11s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.38%
 
-Total: 7 hrs 29 mins
+Total: 6 hrs 20 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
