@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(3 days ago)**
+- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(today)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(1 week ago)**
 - [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(2 weeks ago)**
 - [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_ **(2 weeks ago)**
@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#                    2h 12m 57s   ████████░░░░░░░░░░░░░░░░░  30.35%
-Unity3D Asset         1h 58m 0s    ███████░░░░░░░░░░░░░░░░░░  26.94%
-Lapse                 1h 12m 1s    █████░░░░░░░░░░░░░░░░░░░░  16.44%
-unity                 54m 0s       ████░░░░░░░░░░░░░░░░░░░░░  12.33%
-unknown               30m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.04%
+Unity3D Asset         2h 30m 0s    ████████░░░░░░░░░░░░░░░░░  31.51%
+C#                    2h 12m 57s   ███████░░░░░░░░░░░░░░░░░░  27.93%
+Lapse                 1h 12m 1s    ████░░░░░░░░░░░░░░░░░░░░░  15.13%
+unity                 1h 0m 0s     ████░░░░░░░░░░░░░░░░░░░░░  12.60%
+unknown               30m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.48%
 
 💼 Projects:
-Tanuki Game           3h 18m 1s    ██████████████░░░░░░░░░░░  52.56%
-TanukiGame            1h 44m 55s   ███████░░░░░░░░░░░░░░░░░░  27.85%
-PacksOnPacksOverlay   41m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  11.04%
-BallRollMaxxing       32m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  8.54%
+Tanuki Game           3h 50m 1s    ███████████████░░░░░░░░░░  56.28%
+TanukiGame            1h 44m 55s   ███████░░░░░░░░░░░░░░░░░░  25.67%
+PacksOnPacksOverlay   41m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  10.18%
+BallRollMaxxing       32m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.87%
 
-Total: 5 hrs 40 mins
+Total: 6 hrs 12 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
