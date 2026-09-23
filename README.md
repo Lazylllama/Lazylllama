@@ -1,9 +1,9 @@
 ### 👷 The latest repos i've pushed to
 
-- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(1 day ago)**
-- [`JumpToStartX`](https://github.com/Lazylllama/JumpToStartX) - _"unity is better all day every day"_ **(3 days ago)**
+- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(2 days ago)**
+- [`JumpToStartX`](https://github.com/Lazylllama/JumpToStartX) - _"unity is better all day every day"_ **(4 days ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(2 weeks ago)**
-- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(2 weeks ago)**
+- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(3 weeks ago)**
 - [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_ **(3 weeks ago)**
 - [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(3 weeks ago)**
 - [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 month ago)**
