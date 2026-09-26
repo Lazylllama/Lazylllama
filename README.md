@@ -11,26 +11,26 @@
 
 ### ⌨️ My latest projects
 
+- [`third-space-reminder`](https://github.com/Lazylllama/third-space-reminder) - _""_
 - [`JumpToStartX`](https://github.com/Lazylllama/JumpToStartX) - _"unity is better all day every day"_
 - [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_
 - [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_
-- [`my-amazing-website`](https://github.com/Lazylllama/my-amazing-website) - _""_
 
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Unity3D Asset   5h 32m 32s   ██████████░░░░░░░░░░░░░░░  36.62%
-Lapse           4h 28m 1s    ████████░░░░░░░░░░░░░░░░░  29.52%
-unity           2h 42m 0s    █████░░░░░░░░░░░░░░░░░░░░  17.84%
-C#              2h 19m 52s   ████░░░░░░░░░░░░░░░░░░░░░  15.40%
-unknown         5m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.57%
+Unity3D Asset   6h 12m 32s    ██████████░░░░░░░░░░░░░░░  37.87%
+Lapse           4h 28m 1s     ███████░░░░░░░░░░░░░░░░░░  27.24%
+unity           2h 58m 0s     █████░░░░░░░░░░░░░░░░░░░░  18.09%
+C#              2h 39m 37s    █████░░░░░░░░░░░░░░░░░░░░  16.22%
+unknown         5m 10s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.53%
 
 💼 Projects:
-Tanuki Game     10h 7m 29s   █████████████████████░░░░  81.03%
-tanukigame      1h 44m 58s   ████░░░░░░░░░░░░░░░░░░░░░  14.00%
-TanukiGame      37m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.97%
+Tanuki Game     10h 47m 29s   ████████████████████░░░░░  79.99%
+tanukigame      1h 44m 58s    ████░░░░░░░░░░░░░░░░░░░░░  12.97%
+TanukiGame      57m 2s        ██░░░░░░░░░░░░░░░░░░░░░░░  7.05%
 
-Total: 11 hrs 7 mins
+Total: 11 hrs 50 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
