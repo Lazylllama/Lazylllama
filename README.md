@@ -1,12 +1,12 @@
 ### 👷 The latest repos i've pushed to
 
-- [`third-space-reminder`](https://github.com/Lazylllama/third-space-reminder) - _""_ **(today)**
-- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(2 days ago)**
+- [`third-space-reminder`](https://github.com/Lazylllama/third-space-reminder) - _""_ **(1 day ago)**
+- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(3 days ago)**
 - [`JumpToStartX`](https://github.com/Lazylllama/JumpToStartX) - _"unity is better all day every day"_ **(1 week ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(2 weeks ago)**
 - [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(3 weeks ago)**
 - [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_ **(3 weeks ago)**
-- [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(3 weeks ago)**
+- [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(4 weeks ago)**
 - [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 month ago)**
 
 ### ⌨️ My latest projects
