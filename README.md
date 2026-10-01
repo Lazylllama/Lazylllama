@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Unity3D Asset         5h 18m 48s   ██████████░░░░░░░░░░░░░░░  38.32%
-C#                    3h 4m 21s    ██████░░░░░░░░░░░░░░░░░░░  22.16%
-unity                 3h 2m 0s     ██████░░░░░░░░░░░░░░░░░░░  21.88%
-Lapse                 1h 55m 0s    ████░░░░░░░░░░░░░░░░░░░░░  13.82%
-TypeScript            10m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.21%
+Unity3D Asset         5h 20m 48s   ██████████░░░░░░░░░░░░░░░  38.38%
+C#                    3h 4m 21s    ██████░░░░░░░░░░░░░░░░░░░  22.05%
+unity                 3h 4m 0s     ██████░░░░░░░░░░░░░░░░░░░  22.01%
+Lapse                 1h 55m 0s    ████░░░░░░░░░░░░░░░░░░░░░  13.76%
+TypeScript            10m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.20%
 
 💼 Projects:
-Tanuki Game           6h 41m 37s   █████████████████░░░░░░░░  66.49%
-TanukiGame            2h 33m 16s   ███████░░░░░░░░░░░░░░░░░░  25.37%
-tanukigame            29m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
-nephthys-dashboard    16m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.71%
+Tanuki Game           6h 43m 37s   █████████████████░░░░░░░░  66.60%
+TanukiGame            2h 33m 16s   ███████░░░░░░░░░░░░░░░░░░  25.29%
+tanukigame            29m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.80%
+nephthys-dashboard    16m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.70%
 PacksOnPacksOverlay   3m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.61%
 
-Total: 8 hrs 1 mins
+Total: 8 hrs 3 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
