@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(1 day ago)**
+- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(today)**
 - [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(2 days ago)**
 - [`third-space-reminder`](https://github.com/Lazylllama/third-space-reminder) - _""_ **(5 days ago)**
 - [`JumpToStartX`](https://github.com/Lazylllama/JumpToStartX) - _"unity is better all day every day"_ **(1 week ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Unity3D Asset         5h 20m 48s   ██████████░░░░░░░░░░░░░░░  38.38%
-C#                    3h 4m 21s    ██████░░░░░░░░░░░░░░░░░░░  22.05%
-unity                 3h 4m 0s     ██████░░░░░░░░░░░░░░░░░░░  22.01%
-Lapse                 1h 55m 0s    ████░░░░░░░░░░░░░░░░░░░░░  13.76%
-TypeScript            10m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.20%
+Unity3D Asset         5h 52m 48s   ██████████░░░░░░░░░░░░░░░  38.68%
+unity                 3h 28m 0s    ██████░░░░░░░░░░░░░░░░░░░  22.80%
+C#                    3h 24m 35s   ██████░░░░░░░░░░░░░░░░░░░  22.43%
+Lapse                 1h 55m 0s    ████░░░░░░░░░░░░░░░░░░░░░  12.61%
+TypeScript            10m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.10%
 
 💼 Projects:
-Tanuki Game           6h 43m 37s   █████████████████░░░░░░░░  66.60%
-TanukiGame            2h 33m 16s   ███████░░░░░░░░░░░░░░░░░░  25.29%
-tanukigame            29m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.80%
-nephthys-dashboard    16m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.70%
-PacksOnPacksOverlay   3m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.61%
+Tanuki Game           7h 15m 37s   █████████████████░░░░░░░░  66.18%
+TanukiGame            2h 53m 31s   ███████░░░░░░░░░░░░░░░░░░  26.36%
+tanukigame            29m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.42%
+nephthys-dashboard    16m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.49%
+PacksOnPacksOverlay   3m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.56%
 
-Total: 8 hrs 3 mins
+Total: 8 hrs 48 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
