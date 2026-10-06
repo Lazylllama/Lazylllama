@@ -1,11 +1,11 @@
 ### 👷 The latest repos i've pushed to
 
-- [`MochiGame`](https://github.com/Lazylllama/MochiGame) - _""_ **(today)**
-- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(today)**
-- [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(6 days ago)**
+- [`MochiGame`](https://github.com/Lazylllama/MochiGame) - _""_ **(1 day ago)**
+- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(1 day ago)**
+- [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 week ago)**
 - [`third-space-reminder`](https://github.com/Lazylllama/third-space-reminder) - _""_ **(1 week ago)**
 - [`JumpToStartX`](https://github.com/Lazylllama/JumpToStartX) - _"unity is better all day every day"_ **(2 weeks ago)**
-- [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(3 weeks ago)**
+- [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(4 weeks ago)**
 - [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(1 month ago)**
 - [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_ **(1 month ago)**
 
@@ -19,20 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Unity3D Asset         9h 18m 26s   ██████████░░░░░░░░░░░░░░░  37.41%
-C#                    7h 17m 17s   ████████░░░░░░░░░░░░░░░░░  29.30%
-unity                 6h 56m 0s    ███████░░░░░░░░░░░░░░░░░░  27.87%
-Lapse                 41m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.75%
-XML                   14m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.96%
+Unity3D Asset        8h 18m 18s   ██████████░░░░░░░░░░░░░░░  38.24%
+C#                   6h 37m 16s   ████████░░░░░░░░░░░░░░░░░  30.49%
+unity                6h 16m 0s    ████████░░░░░░░░░░░░░░░░░  28.86%
+XML                  14m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.10%
+TypeScript           10m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.77%
 
 💼 Projects:
-Tanuki Game           9h 46m 52s   ███████████████░░░░░░░░░░  56.30%
-TanukiGame            6h 46m 23s   ██████████░░░░░░░░░░░░░░░  38.99%
-tanukigame            29m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.79%
-nephthys-dashboard    16m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.57%
-PacksOnPacksOverlay   3m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.35%
+Tanuki Game          8h 12m 0s    ██████████████░░░░░░░░░░░  54.43%
+TanukiGame           6h 6m 22s    ███████████░░░░░░░░░░░░░░  40.53%
+tanukigame           29m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.22%
+nephthys-dashboard   16m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.81%
 
-Total: 12 hrs 11 mins
+Total: 10 hrs 21 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
