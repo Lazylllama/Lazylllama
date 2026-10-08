@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
+- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(today)**
 - [`MochiGame`](https://github.com/Lazylllama/MochiGame) - _""_ **(3 days ago)**
-- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(3 days ago)**
 - [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 week ago)**
 - [`third-space-reminder`](https://github.com/Lazylllama/third-space-reminder) - _""_ **(1 week ago)**
 - [`JumpToStartX`](https://github.com/Lazylllama/JumpToStartX) - _"unity is better all day every day"_ **(2 weeks ago)**
@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Unity3D Asset   6h 49m 46s   ██████████░░░░░░░░░░░░░░░  38.02%
-C#              5h 32m 7s    ████████░░░░░░░░░░░░░░░░░  30.82%
-unity           5h 18m 0s    ████████░░░░░░░░░░░░░░░░░  29.51%
-Shell           9m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.88%
-XML             8m 21s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.77%
+Unity3D Asset   6h 49m 46s   ██████████░░░░░░░░░░░░░░░  37.28%
+C#              5h 53m 26s   █████████░░░░░░░░░░░░░░░░  32.16%
+unity           5h 18m 0s    ████████░░░░░░░░░░░░░░░░░  28.93%
+Shell           9m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.87%
+XML             8m 21s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.76%
 
 💼 Projects:
-Tanuki Game     6h 48m 0s    ██████████████░░░░░░░░░░░  54.56%
-TanukiGame      5h 32m 18s   ████████████░░░░░░░░░░░░░  44.44%
-stardance       7m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.98%
+Tanuki Game     6h 48m 0s    ██████████████░░░░░░░░░░░  52.91%
+TanukiGame      5h 55m 37s   ████████████░░░░░░░░░░░░░  46.12%
+stardance       7m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.95%
 Skol-bot        12s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.03%
 
-Total: 8 hrs 20 mins
+Total: 8 hrs 44 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
