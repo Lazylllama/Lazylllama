@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(today)**
-- [`MochiGame`](https://github.com/Lazylllama/MochiGame) - _""_ **(3 days ago)**
+- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(1 day ago)**
+- [`MochiGame`](https://github.com/Lazylllama/MochiGame) - _""_ **(4 days ago)**
 - [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 week ago)**
 - [`third-space-reminder`](https://github.com/Lazylllama/third-space-reminder) - _""_ **(1 week ago)**
 - [`JumpToStartX`](https://github.com/Lazylllama/JumpToStartX) - _"unity is better all day every day"_ **(2 weeks ago)**
@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Unity3D Asset   6h 49m 46s   ██████████░░░░░░░░░░░░░░░  37.28%
-C#              5h 53m 26s   █████████░░░░░░░░░░░░░░░░  32.16%
-unity           5h 18m 0s    ████████░░░░░░░░░░░░░░░░░  28.93%
-Shell           9m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.87%
-XML             8m 21s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.76%
+Unity3D Asset   6h 35m 46s   ██████████░░░░░░░░░░░░░░░  37.02%
+C#              5h 47m 24s   █████████░░░░░░░░░░░░░░░░  32.50%
+unity           5h 8m 0s     ████████░░░░░░░░░░░░░░░░░  28.81%
+Shell           9m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.89%
+XML             8m 21s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.78%
 
 💼 Projects:
-Tanuki Game     6h 48m 0s    ██████████████░░░░░░░░░░░  52.91%
-TanukiGame      5h 55m 37s   ████████████░░░░░░░░░░░░░  46.12%
-stardance       7m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.95%
+Tanuki Game     6h 34m 0s    ██████████████░░░░░░░░░░░  52.46%
+TanukiGame      5h 49m 35s   ████████████░░░░░░░░░░░░░  46.54%
+stardance       7m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.98%
 Skol-bot        12s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.03%
 
-Total: 8 hrs 44 mins
+Total: 8 hrs 25 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
