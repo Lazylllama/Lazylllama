@@ -19,19 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Unity3D Asset   7h 5m 46s    ██████████░░░░░░░░░░░░░░░  36.83%
-C#              6h 16m 18s   █████████░░░░░░░░░░░░░░░░  32.55%
-unity           5h 32m 0s    ████████░░░░░░░░░░░░░░░░░  28.72%
-XML             10m 21s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.90%
-Shell           9m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.82%
+Unity3D Asset   5h 41m 46s   █████████░░░░░░░░░░░░░░░░  35.46%
+C#              5h 28m 19s   █████████░░░░░░░░░░░░░░░░  34.06%
+unity           4h 34m 0s    ████████░░░░░░░░░░░░░░░░░  28.43%
+Shell           9m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.99%
+XML             8m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.86%
 
 💼 Projects:
-Tanuki Game     7h 6m 0s     ██████████████░░░░░░░░░░░  52.39%
-TanukiGame      6h 19m 32s   ████████████░░░░░░░░░░░░░  46.68%
-stardance       7m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.90%
-Skol-bot        12s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.02%
+Tanuki Game     5h 42m 0s    █████████████░░░░░░░░░░░░  50.23%
+TanukiGame      5h 31m 22s   █████████████░░░░░░░░░░░░  48.67%
+stardance       7m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.08%
+Skol-bot        12s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.03%
 
-Total: 9 hrs 7 mins
+Total: 7 hrs 49 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
