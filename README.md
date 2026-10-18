@@ -19,17 +19,17 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Lapse           5h 20m 19s   ████████░░░░░░░░░░░░░░░░░  28.72%
-Unity3D Asset   5h 0m 52s    ███████░░░░░░░░░░░░░░░░░░  26.98%
-C#              3h 10m 45s   █████░░░░░░░░░░░░░░░░░░░░  17.10%
-unity           2h 46m 0s    ████░░░░░░░░░░░░░░░░░░░░░  14.88%
-ShaderLab       2h 11m 21s   ███░░░░░░░░░░░░░░░░░░░░░░  11.78%
+Unity3D Asset   7h 48m 52s   ██████████░░░░░░░░░░░░░░░  36.08%
+C#              5h 3m 6s     ██████░░░░░░░░░░░░░░░░░░░  23.32%
+unity           4h 44m 0s    ██████░░░░░░░░░░░░░░░░░░░  21.85%
+ShaderLab       2h 49m 28s   ████░░░░░░░░░░░░░░░░░░░░░  13.04%
+Lapse           1h 5m 58s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.08%
 
 💼 Projects:
-Tanuki Game     10h 15m 7s   █████████████████░░░░░░░░  66.41%
-TanukiGame      5h 11m 9s    █████████░░░░░░░░░░░░░░░░  33.59%
+Tanuki Game     8h 48m 46s   ██████████████░░░░░░░░░░░  54.07%
+TanukiGame      7h 29m 8s    ████████████░░░░░░░░░░░░░  45.93%
 
-Total: 12 hrs 44 mins
+Total: 11 hrs 53 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
