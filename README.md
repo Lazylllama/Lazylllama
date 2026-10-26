@@ -3,7 +3,7 @@
 - [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(today)**
 - [`MochiGame`](https://github.com/Lazylllama/MochiGame) - _""_ **(1 week ago)**
 - [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(3 weeks ago)**
-- [`third-space-reminder`](https://github.com/Lazylllama/third-space-reminder) - _""_ **(4 weeks ago)**
+- [`third-space-reminder`](https://github.com/Lazylllama/third-space-reminder) - _""_ **(1 month ago)**
 - [`JumpToStartX`](https://github.com/Lazylllama/JumpToStartX) - _"unity is better all day every day"_ **(1 month ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(1 month ago)**
 - [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(1 month ago)**
@@ -19,18 +19,18 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Unity3D Asset   9h 32m 16s   █████████░░░░░░░░░░░░░░░░  35.26%
-C#              7h 46m 48s   ████████░░░░░░░░░░░░░░░░░  28.76%
-unity           6h 0m 0s     ██████░░░░░░░░░░░░░░░░░░░  22.18%
-ShaderLab       3h 20m 39s   ████░░░░░░░░░░░░░░░░░░░░░  12.36%
-XML             19m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.18%
+Unity3D Asset   6h 34m 8s    █████████░░░░░░░░░░░░░░░░  33.75%
+C#              6h 24m 55s   █████████░░░░░░░░░░░░░░░░  32.96%
+unity           4h 28m 0s    ██████░░░░░░░░░░░░░░░░░░░  22.95%
+ShaderLab       1h 39m 28s   ███░░░░░░░░░░░░░░░░░░░░░░  8.52%
+XML             17m 8s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.47%
 
 💼 Projects:
-Tanuki Game     9h 30m 0s    ████████████░░░░░░░░░░░░░  47.42%
-TanukiGame      9h 17m 21s   ████████████░░░░░░░░░░░░░  46.36%
-MochiGame       1h 14m 47s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
+Tanuki Game     6h 32m 0s    ████████████░░░░░░░░░░░░░  46.05%
+TanukiGame      6h 24m 31s   ████████████░░░░░░░░░░░░░  45.17%
+MochiGame       1h 14m 47s   ███░░░░░░░░░░░░░░░░░░░░░░  8.78%
 
-Total: 14 hrs 30 mins
+Total: 10 hrs 16 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
