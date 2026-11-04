@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(1 day ago)**
-- [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(5 days ago)**
+- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(2 days ago)**
+- [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(6 days ago)**
 - [`MochiGame`](https://github.com/Lazylllama/MochiGame) - _""_ **(2 weeks ago)**
 - [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 month ago)**
 - [`third-space-reminder`](https://github.com/Lazylllama/third-space-reminder) - _""_ **(1 month ago)**
@@ -19,18 +19,18 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Unity3D Asset                  7h 12m 8s    ███████████░░░░░░░░░░░░░░  42.81%
-unity                          4h 4m 0s     ███████░░░░░░░░░░░░░░░░░░  24.17%
-C#                             3h 28m 40s   ██████░░░░░░░░░░░░░░░░░░░  20.67%
-ShaderLab                      1h 8m 8s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.75%
-Shell                          19m 26s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.93%
+Unity3D Asset                  6h 54m 8s    ███████████░░░░░░░░░░░░░░  42.29%
+unity                          3h 52m 0s    ██████░░░░░░░░░░░░░░░░░░░  23.69%
+C#                             3h 28m 40s   ██████░░░░░░░░░░░░░░░░░░░  21.31%
+ShaderLab                      1h 8m 8s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.96%
+Shell                          19m 26s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.98%
 
 💼 Projects:
-Tanuki Game                    7h 24m 0s    ███████████████░░░░░░░░░░  59.83%
-TanukiGame                     4h 26m 8s    █████████░░░░░░░░░░░░░░░░  35.86%
-another-fulfilment-interface   32m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.31%
+Tanuki Game                    7h 6m 0s     ███████████████░░░░░░░░░░  58.83%
+TanukiGame                     4h 26m 8s    ██████████░░░░░░░░░░░░░░░  36.75%
+another-fulfilment-interface   32m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.42%
 
-Total: 9 hrs 24 mins
+Total: 9 hrs 6 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
