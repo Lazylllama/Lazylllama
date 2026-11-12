@@ -6,8 +6,8 @@
 - [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 month ago)**
 - [`third-space-reminder`](https://github.com/Lazylllama/third-space-reminder) - _""_ **(1 month ago)**
 - [`JumpToStartX`](https://github.com/Lazylllama/JumpToStartX) - _"unity is better all day every day"_ **(1 month ago)**
+- [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(2 months ago)**
 - [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_ **(2 months ago)**
-- [`horus`](https://github.com/Lazylllama/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(2 months ago)**
 
 ### ⌨️ My latest projects
 
