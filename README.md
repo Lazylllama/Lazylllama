@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(3 days ago)**
+- [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(4 days ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(2 weeks ago)**
 - [`MochiGame`](https://github.com/Lazylllama/MochiGame) - _""_ **(3 weeks ago)**
 - [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 month ago)**
@@ -19,18 +19,18 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Unity3D Asset   6h 56m 19s   ████████████░░░░░░░░░░░░░  44.72%
-C#              4h 2m 52s    ███████░░░░░░░░░░░░░░░░░░  26.09%
-unity           3h 16m 0s    ██████░░░░░░░░░░░░░░░░░░░  21.05%
-Lapse           53m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.70%
-ShaderLab       18m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.93%
+Unity3D Asset   6h 0m 19s    ████████████░░░░░░░░░░░░░  44.24%
+C#              3h 46m 29s   ███████░░░░░░░░░░░░░░░░░░  27.81%
+unity           3h 0m 0s     ██████░░░░░░░░░░░░░░░░░░░  22.10%
+Lapse           29m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.56%
+ShaderLab       14m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.72%
 
 💼 Projects:
-Tanuki Game     7h 51m 58s   █████████████████░░░░░░░░  64.29%
-TanukiGame      4h 20m 15s   █████████░░░░░░░░░░░░░░░░  35.45%
-alfie           1m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.26%
+Tanuki Game     6h 33m 6s    ████████████████░░░░░░░░░  61.56%
+TanukiGame      4h 3m 34s    ██████████░░░░░░░░░░░░░░░  38.14%
+alfie           1m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.30%
 
-Total: 9 hrs 42 mins
+Total: 8 hrs 16 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
