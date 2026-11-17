@@ -19,12 +19,19 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-C#            13m 16s   █████████████████████████  100.00%
+CSS           51m 17s   █████████░░░░░░░░░░░░░░░░  34.30%
+Ruby          33m 29s   ██████░░░░░░░░░░░░░░░░░░░  22.39%
+HTML+ERB      22m 44s   ████░░░░░░░░░░░░░░░░░░░░░  15.20%
+C#            13m 16s   ███░░░░░░░░░░░░░░░░░░░░░░  8.87%
+Text          8m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.86%
 
 💼 Projects:
-SaveAndLoad   11m 16s   █████████████████████████  100.00%
+attend        40m 47s   █████████░░░░░░░░░░░░░░░░  33.68%
+lbs-waiver    37m 16s   ████████░░░░░░░░░░░░░░░░░  30.78%
+stardance     31m 46s   ███████░░░░░░░░░░░░░░░░░░  26.24%
+SaveAndLoad   11m 16s   ███░░░░░░░░░░░░░░░░░░░░░░  9.30%
 
-Total: 0 hrs 13 mins
+Total: 2 hrs 2 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
