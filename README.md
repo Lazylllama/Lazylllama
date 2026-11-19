@@ -1,13 +1,13 @@
 ### 👷 The latest repos i've pushed to
 
-- [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(3 days ago)**
+- [`assemble`](https://github.com/Lazylllama/assemble) - _"Assemble your LAN"_ **(1 day ago)**
+- [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(4 days ago)**
 - [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(1 week ago)**
 - [`MochiGame`](https://github.com/Lazylllama/MochiGame) - _""_ **(1 month ago)**
 - [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 month ago)**
 - [`third-space-reminder`](https://github.com/Lazylllama/third-space-reminder) - _""_ **(1 month ago)**
 - [`JumpToStartX`](https://github.com/Lazylllama/JumpToStartX) - _"unity is better all day every day"_ **(2 months ago)**
 - [`Skol-bot`](https://github.com/Aglomation/Skol-bot) - _""_ **(2 months ago)**
-- [`wilderness`](https://github.com/Lazylllama/wilderness) - _""_ **(2 months ago)**
 
 ### ⌨️ My latest projects
 
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Lapse         2h 16m 25s   ████████████░░░░░░░░░░░░░  47.03%
-CSS           51m 17s      █████░░░░░░░░░░░░░░░░░░░░  17.68%
-Ruby          33m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  11.54%
-HTML+ERB      26m 49s      ███░░░░░░░░░░░░░░░░░░░░░░  9.25%
-C#            13m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.57%
+Lapse         2h 16m 25s   ████████████░░░░░░░░░░░░░  44.41%
+CSS           56m 33s      █████░░░░░░░░░░░░░░░░░░░░  18.41%
+Ruby          35m 35s      ███░░░░░░░░░░░░░░░░░░░░░░  11.58%
+HTML+ERB      26m 49s      ███░░░░░░░░░░░░░░░░░░░░░░  8.73%
+C#            13m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.32%
 
 💼 Projects:
-assemble      2h 16m 25s   ██████████████░░░░░░░░░░░  52.15%
-lbs-waiver    41m 21s      ████░░░░░░░░░░░░░░░░░░░░░  15.81%
-attend        40m 47s      ████░░░░░░░░░░░░░░░░░░░░░  15.59%
-stardance     31m 46s      ████░░░░░░░░░░░░░░░░░░░░░  12.14%
-SaveAndLoad   11m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.31%
+assemble      2h 30m 39s   ██████████████░░░░░░░░░░░  54.62%
+lbs-waiver    41m 21s      ████░░░░░░░░░░░░░░░░░░░░░  14.99%
+attend        40m 47s      ████░░░░░░░░░░░░░░░░░░░░░  14.79%
+stardance     31m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  11.52%
+SaveAndLoad   11m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.08%
 
-Total: 4 hrs 24 mins
+Total: 4 hrs 39 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
