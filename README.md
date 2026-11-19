@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`assemble`](https://github.com/Lazylllama/assemble) - _"Assemble your LAN"_ **(1 day ago)**
+- [`assemble`](https://github.com/Lazylllama/assemble) - _"Assemble your LAN"_ **(today)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(4 days ago)**
 - [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(1 week ago)**
 - [`MochiGame`](https://github.com/Lazylllama/MochiGame) - _""_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Lapse         2h 16m 25s   ████████████░░░░░░░░░░░░░  44.41%
-CSS           56m 33s      █████░░░░░░░░░░░░░░░░░░░░  18.41%
-Ruby          35m 35s      ███░░░░░░░░░░░░░░░░░░░░░░  11.58%
-HTML+ERB      26m 49s      ███░░░░░░░░░░░░░░░░░░░░░░  8.73%
-C#            13m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.32%
+Lapse         2h 16m 25s   ██████░░░░░░░░░░░░░░░░░░░  23.22%
+Ruby          2h 16m 7s    ██████░░░░░░░░░░░░░░░░░░░  23.17%
+HTML+ERB      1h 35m 8s    █████░░░░░░░░░░░░░░░░░░░░  16.19%
+CSS           1h 8m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  11.67%
+unknown       37m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.34%
 
 💼 Projects:
-assemble      2h 30m 39s   ██████████████░░░░░░░░░░░  54.62%
-lbs-waiver    41m 21s      ████░░░░░░░░░░░░░░░░░░░░░  14.99%
-attend        40m 47s      ████░░░░░░░░░░░░░░░░░░░░░  14.79%
-stardance     31m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  11.52%
-SaveAndLoad   11m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.08%
+assemble      5h 4m 36s    ██████████████████░░░░░░░  70.88%
+lbs-waiver    41m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  9.62%
+attend        40m 47s      ███░░░░░░░░░░░░░░░░░░░░░░  9.49%
+stardance     31m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.39%
+SaveAndLoad   11m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.62%
 
-Total: 4 hrs 39 mins
+Total: 7 hrs 13 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
