@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`assemble`](https://github.com/Lazylllama/assemble) - _"Assemble your LAN"_ **(1 day ago)**
-- [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(5 days ago)**
+- [`assemble`](https://github.com/Lazylllama/assemble) - _"Assemble your LAN"_ **(today)**
+- [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(6 days ago)**
 - [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(1 week ago)**
 - [`MochiGame`](https://github.com/Lazylllama/MochiGame) - _""_ **(1 month ago)**
 - [`horus`](https://github.com/hackclub/horus) - _"Horus centralizes your Hack Club support channels and gives you a unified view of your support operations, all with blazing speeds."_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Ruby          5h 13m 4s    █████████░░░░░░░░░░░░░░░░  32.63%
-HTML+ERB      4h 21m 53s   ███████░░░░░░░░░░░░░░░░░░  27.30%
-Lapse         2h 16m 25s   ████░░░░░░░░░░░░░░░░░░░░░  14.22%
-CSS           1h 10m 35s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.36%
-unknown       59m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
+Ruby          7h 47m 21s    ██████████░░░░░░░░░░░░░░░  37.17%
+HTML+ERB      6h 10m 43s    ████████░░░░░░░░░░░░░░░░░  29.49%
+Lapse         2h 16m 25s    ███░░░░░░░░░░░░░░░░░░░░░░  10.85%
+unknown       1h 19m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.32%
+CSS           1h 17m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.14%
 
 💼 Projects:
-assemble      8h 43m 57s   █████████████████████░░░░  80.72%
-lbs-waiver    41m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.37%
-attend        40m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
-stardance     31m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
-SaveAndLoad   11m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.74%
+assemble      11h 39m 55s   ██████████████████████░░░  84.83%
+lbs-waiver    41m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.01%
+attend        40m 47s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
+stardance     31m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.85%
+SaveAndLoad   11m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.37%
 
-Total: 10 hrs 52 mins
+Total: 13 hrs 48 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
