@@ -1,6 +1,6 @@
 ### 👷 The latest repos i've pushed to
 
-- [`assemble`](https://github.com/Lazylllama/assemble) - _"Assemble your LAN"_ **(2 days ago)**
+- [`assemble`](https://github.com/Lazylllama/assemble) - _"Assemble your LAN"_ **(3 days ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(1 week ago)**
 - [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(2 weeks ago)**
 - [`MochiGame`](https://github.com/Lazylllama/MochiGame) - _""_ **(1 month ago)**
@@ -19,20 +19,20 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Ruby          7h 33m 51s   █████████░░░░░░░░░░░░░░░░  32.25%
-HTML+ERB      5h 55m 48s   ███████░░░░░░░░░░░░░░░░░░  25.28%
-Lapse         4h 7m 23s    █████░░░░░░░░░░░░░░░░░░░░  17.58%
-C#            1h 38m 35s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.01%
-unknown       1h 17m 30s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.51%
+Ruby          7h 33m 51s   █████████░░░░░░░░░░░░░░░░  32.92%
+HTML+ERB      5h 55m 48s   ███████░░░░░░░░░░░░░░░░░░  25.81%
+Lapse         4h 7m 23s    █████░░░░░░░░░░░░░░░░░░░░  17.94%
+C#            1h 23m 18s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.04%
+unknown       1h 17m 30s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.62%
 
 💼 Projects:
-assemble      11h 45m 2s   ██████████████████░░░░░░░  71.02%
-TaiyakiGame   1h 48m 57s   ███░░░░░░░░░░░░░░░░░░░░░░  10.98%
-SaveAndLoad   1h 36m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  9.73%
-lbs-waiver    41m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
-attend        40m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
+assemble      11h 45m 2s   ███████████████████░░░░░░  72.97%
+TaiyakiGame   1h 48m 57s   ███░░░░░░░░░░░░░░░░░░░░░░  11.28%
+SaveAndLoad   1h 23m 18s   ███░░░░░░░░░░░░░░░░░░░░░░  8.62%
+lbs-waiver    41m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
+attend        27m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.85%
 
-Total: 16 hrs 36 mins
+Total: 16 hrs 7 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
