@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
-- [`TaiyakiGame`](https://github.com/Lazylllama/TaiyakiGame) - _"make taiyaki in game yeah"_ **(today)**
-- [`assemble`](https://github.com/Lazylllama/assemble) - _"Assemble your LAN"_ **(4 days ago)**
+- [`TaiyakiGame`](https://github.com/Lazylllama/TaiyakiGame) - _"make taiyaki in game yeah"_ **(1 day ago)**
+- [`assemble`](https://github.com/Lazylllama/assemble) - _"Assemble your LAN"_ **(5 days ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(1 week ago)**
 - [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(2 weeks ago)**
 - [`MochiGame`](https://github.com/Lazylllama/MochiGame) - _""_ **(1 month ago)**
