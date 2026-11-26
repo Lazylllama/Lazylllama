@@ -19,18 +19,18 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Ruby          7h 14m 53s   ██████████░░░░░░░░░░░░░░░  36.78%
-HTML+ERB      5h 46m 6s    ████████░░░░░░░░░░░░░░░░░  29.27%
-Lapse         1h 48m 57s   ███░░░░░░░░░░░░░░░░░░░░░░  9.22%
-C#            1h 23m 18s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.05%
-unknown       1h 10m 49s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.99%
+Ruby          7h 14m 53s   ██████████░░░░░░░░░░░░░░░  36.23%
+HTML+ERB      5h 46m 6s    ████████░░░░░░░░░░░░░░░░░  28.84%
+Lapse         1h 48m 57s   ███░░░░░░░░░░░░░░░░░░░░░░  9.08%
+C#            1h 23m 18s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.94%
+unknown       1h 10m 49s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.90%
 
 💼 Projects:
-assemble      9h 11m 0s    ██████████████████░░░░░░░  69.29%
-TaiyakiGame   2h 40m 57s   ██████░░░░░░░░░░░░░░░░░░░  20.24%
-SaveAndLoad   1h 23m 18s   ███░░░░░░░░░░░░░░░░░░░░░░  10.47%
+assemble      9h 11m 0s    █████████████████░░░░░░░░  67.92%
+TaiyakiGame   2h 56m 57s   ██████░░░░░░░░░░░░░░░░░░░  21.81%
+SaveAndLoad   1h 23m 18s   ███░░░░░░░░░░░░░░░░░░░░░░  10.27%
 
-Total: 13 hrs 19 mins
+Total: 13 hrs 35 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
