@@ -1,7 +1,7 @@
 ### 👷 The latest repos i've pushed to
 
 - [`TaiyakiGame`](https://github.com/Lazylllama/TaiyakiGame) - _"make taiyaki in game yeah"_ **(1 day ago)**
-- [`assemble`](https://github.com/Lazylllama/assemble) - _"Assemble your LAN"_ **(5 days ago)**
+- [`assemble`](https://github.com/Lazylllama/assemble) - _"Assemble your LAN"_ **(6 days ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(1 week ago)**
 - [`TanukiGame`](https://github.com/Lazylllama/TanukiGame) - _"game with tanuki"_ **(2 weeks ago)**
 - [`MochiGame`](https://github.com/Lazylllama/MochiGame) - _""_ **(1 month ago)**
@@ -19,18 +19,18 @@
 ### 🕰️ My [_`hackatime`_](https://hackatime.hackclub.com) statistics from the past week
 ```text
 💾 Languages:
-Ruby          7h 14m 53s   ██████████░░░░░░░░░░░░░░░  36.23%
-HTML+ERB      5h 46m 6s    ████████░░░░░░░░░░░░░░░░░  28.84%
-Lapse         1h 48m 57s   ███░░░░░░░░░░░░░░░░░░░░░░  9.08%
-C#            1h 23m 18s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.94%
-unknown       1h 10m 49s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.90%
+Ruby            3h 15m 53s   ███████░░░░░░░░░░░░░░░░░░  25.98%
+HTML+ERB        2h 25m 46s   █████░░░░░░░░░░░░░░░░░░░░  19.34%
+Unity3D Asset   2h 16m 0s    █████░░░░░░░░░░░░░░░░░░░░  18.04%
+C#              1h 56m 23s   ████░░░░░░░░░░░░░░░░░░░░░  15.44%
+Lapse           1h 48m 57s   ████░░░░░░░░░░░░░░░░░░░░░  14.45%
 
 💼 Projects:
-assemble      9h 11m 0s    █████████████████░░░░░░░░  67.92%
-TaiyakiGame   2h 56m 57s   ██████░░░░░░░░░░░░░░░░░░░  21.81%
-SaveAndLoad   1h 23m 18s   ███░░░░░░░░░░░░░░░░░░░░░░  10.27%
+TaiyakiGame     4h 22m 47s   ████████████░░░░░░░░░░░░░  46.16%
+assemble        3h 43m 9s    ██████████░░░░░░░░░░░░░░░  39.20%
+SaveAndLoad     1h 23m 18s   ████░░░░░░░░░░░░░░░░░░░░░  14.63%
 
-Total: 13 hrs 35 mins
+Total: 9 hrs 33 mins
 ```
 
 ## [AniList](https://anilist.co/user/lazyllamaa/) Stats
